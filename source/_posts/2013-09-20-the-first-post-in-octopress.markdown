@@ -6,7 +6,7 @@ comments: true
 categories: Maven
 ---
 Here is some text. So we have things like *This* but this is also very nice.
-
+<!-- more -->
 {% include_code [An Example Pom File] pom.xml %}
 
 {% codeblock [The Title of the code block] lang:xml %}
