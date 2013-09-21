@@ -3,7 +3,7 @@ layout: post
 title: "Iterations and Maven? Not Possible?"
 date: 2013-03-30 11:16:26
 tags: Neuigkeiten,BM,Maven
-categories: Neuigkeiten,BM,Maven
+categories: [Neuigkeiten,BM,Maven]
 post-type: blog
 ---
 During my experiences with Maven I had a few moments where I wished having some kind of iterations to 

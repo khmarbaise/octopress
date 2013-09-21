@@ -6,7 +6,7 @@ comments: true
 categories: [Maven, News, Maven-Plugins]
 ---
 The new release of the [Appassembler Maven Plugin 1.5](http://mojo.codehaus.org/appassembler/appassembler-maven-plugin/)
-contains a number of bug fixes, imrovements and new feature.
+contains a number of bug fixes, improvements and a new feature.
 
 <!-- more -->
 The following bug fixes:

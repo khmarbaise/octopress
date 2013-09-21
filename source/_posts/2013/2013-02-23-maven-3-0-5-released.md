@@ -3,7 +3,7 @@ layout: post
 title: "Maven 3.0.5 Released"
 date: 2013-02-23 18:40:14
 tags: Neuigkeiten,Neue Versionen,BM,Maven
-categories: Neuigkeiten,Neue Versionen,BM,Maven
+categories: [Neuigkeiten,Neue Versionen,BM,Maven]
 post-type: blog
 ---
 Nach dem nun einige Zeit vergangen ist, gibt es nun eine neue 
