@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "appassembler-maven-plugin release 1.5"
+title: "Appassembler Maven Plugin 1.5 released"
 date: 2013-09-14 20:02
 comments: true
 categories: [Maven, News, Maven-Plugins]
