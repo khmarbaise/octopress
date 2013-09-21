@@ -3,7 +3,7 @@ layout: post
 title: "Vorträge der Subversion Konferenz Online"
 date: 2009-11-01 18:56:46
 tags: Java,SKM,Neuigkeiten,Neue Versionen,Subversion,DVCS,SupoSE
-categories: Java,SKM,Neuigkeiten,Neue Versionen,Subversion,DVCS,SupoSE
+categories: [Java,SKM,Neuigkeiten,Neue Versionen,Subversion,DVCS,SupoSE]
 post-type: blog
 ---
 Nach Beendigung der [Subversion Konferenz in München](http://2009.subconf.de/startseite/) habe ich nun 

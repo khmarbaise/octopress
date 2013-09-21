@@ -3,7 +3,7 @@ layout: post
 title: "Subversion Release 1.6.9 erschienen"
 date: 2010-01-22 09:29:00
 tags: SKM,Neue Versionen,Subversion
-categories: SKM,Neue Versionen,Subversion
+categories: [SKM,Neue Versionen,Subversion]
 post-type: blog
 ---
 Das [Subversion Team](http://subversion.tigris.org) hat nun eine neue 

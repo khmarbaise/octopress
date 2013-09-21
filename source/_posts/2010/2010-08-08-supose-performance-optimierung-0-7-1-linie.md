@@ -3,7 +3,7 @@ layout: post
 title: "SupoSE - Performance Optimierung - 0.7.1 Linie"
 date: 2010-08-08 18:24:52
 tags: SKM,Neuigkeiten,Neue Versionen,Test,SupoSE
-categories: SKM,Neuigkeiten,Neue Versionen,Test,SupoSE
+categories: [SKM,Neuigkeiten,Neue Versionen,Test,SupoSE]
 post-type: blog
 ---
 Die <a href="/index.php?/archives/292-Grosser-Test-mit-SupoSE-die-II..html">Optimierung die ich im Ersten Schritt in SupoSE vorgenommen hatte</a> wahren ja 

@@ -3,7 +3,7 @@ layout: post
 title: "Coderetreat?"
 date: 2012-09-02 12:29:17
 tags: Neuigkeiten,Test
-categories: Neuigkeiten,Test
+categories: [Neuigkeiten,Test]
 post-type: blog
 ---
 I have shared the first time a [coderetreat](http://coderetreat-dus-1.eventbrite.de/ "coderetreat") which was a really amazing thing 

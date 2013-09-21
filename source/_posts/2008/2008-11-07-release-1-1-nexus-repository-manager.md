@@ -3,7 +3,7 @@ layout: post
 title: "Release 1.1 - Nexus Repository Manager"
 date: 2008-11-07 15:16:28
 tags: Neuigkeiten,Neue Versionen,BM,Maven
-categories: Neuigkeiten,Neue Versionen,BM,Maven
+categories: [Neuigkeiten,Neue Versionen,BM,Maven]
 post-type: blog
 ---
 [Nexus](http://nexus.sonatype.org) hat bekannt gegeben, dass der Repository Manager in der Release 1.1. zur Verfügung steht.

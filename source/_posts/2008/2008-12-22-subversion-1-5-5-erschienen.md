@@ -3,7 +3,7 @@ layout: post
 title: "Subversion 1.5.5 - Erschienen"
 date: 2008-12-22 22:34:00
 tags: SKM,Neuigkeiten,Neue Versionen,Subversion
-categories: SKM,Neuigkeiten,Neue Versionen,Subversion
+categories: [SKM,Neuigkeiten,Neue Versionen,Subversion]
 post-type: blog
 ---
 Das <a href="http://subversion.tigris.org/">Subversion Team</a> hat <a href="http://subversion.tigris.org/servlets/NewsItemView?newsItemID=2223">bekannt gegeben</a>, 

@@ -3,7 +3,7 @@ layout: post
 title: "SVNKit 1.1.6 Release"
 date: 2008-02-22 19:03:56
 tags: Java,SKM,Subversion
-categories: Java,SKM,Subversion
+categories: [Java,SKM,Subversion]
 post-type: blog
 ---
 Das [SVNKit Team](http://www.svnkit.com "SVNKit Team") hat eine neue Release der Java Subversion Bibliothek heraus gebracht. 

@@ -3,7 +3,7 @@ layout: post
 title: "SupoSE Release 0.5.0 Alpha 1"
 date: 2009-01-15 00:13:41
 tags: SKM,Neuigkeiten,Neue Versionen,Subversion,SupoSE
-categories: SKM,Neuigkeiten,Neue Versionen,Subversion,SupoSE
+categories: [SKM,Neuigkeiten,Neue Versionen,Subversion,SupoSE]
 post-type: blog
 ---
 Es liegt nun eine neue <a href="http://redmine.soebes.de/projects/show/supose">Release der Subversion Repository Search Engine (SupoSE)</a> in der <a href="http://redmine.soebes.de/news/show/3">Release 0.5.0 Alpha 1</a> vor.

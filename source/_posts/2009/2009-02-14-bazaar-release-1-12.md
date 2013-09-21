@@ -3,7 +3,7 @@ layout: post
 title: "Bazaar Release 1.12"
 date: 2009-02-14 14:45:47
 tags: SKM,Neuigkeiten,Neue Versionen,Bazaar
-categories: SKM,Neuigkeiten,Neue Versionen,Bazaar
+categories: [SKM,Neuigkeiten,Neue Versionen,Bazaar]
 post-type: blog
 ---
 Es gibt eine neue Release von [Bazaar](http://www.bazaar-vcs.org), dem verteilten Versionskontroll System. Seit der Release 

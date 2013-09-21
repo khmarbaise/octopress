@@ -3,7 +3,7 @@ layout: post
 title: "Visual SVN Server 1.0 für Window"
 date: 2007-11-17 21:38:21
 tags: SKM,Neuigkeiten,Subversion
-categories: SKM,Neuigkeiten,Subversion
+categories: [SKM,Neuigkeiten,Subversion]
 post-type: blog
 ---
 [Visual SVN Server](http://www.visualsvn.com/server/ "Visual SVN Server") ist eine vollständige Administration Integration für Windows. 

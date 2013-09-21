@@ -3,7 +3,7 @@ layout: post
 title: "SVNKit 1.1.4 Release"
 date: 2007-07-25 09:30:28
 tags: Java,SKM,Neue Versionen,Subversion
-categories: Java,SKM,Neue Versionen,Subversion
+categories: [Java,SKM,Neue Versionen,Subversion]
 post-type: blog
 ---
 Es gibt wieder ein Update des [SVNKit](http://www.svnkit.com). Der Connection Pool wurde neu implementiert. 

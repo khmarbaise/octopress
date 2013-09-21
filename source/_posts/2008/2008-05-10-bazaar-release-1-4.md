@@ -3,7 +3,7 @@ layout: post
 title: "Bazaar Release 1.4"
 date: 2008-05-10 19:59:00
 tags: SKM,Bazaar
-categories: SKM,Bazaar
+categories: [SKM,Bazaar]
 post-type: blog
 ---
 Es gibt eine neue Release von [Bazaar](http://www.bazaar-vcs.org "Bazaar"). 

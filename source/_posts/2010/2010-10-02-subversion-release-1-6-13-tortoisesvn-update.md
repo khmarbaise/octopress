@@ -3,7 +3,7 @@ layout: post
 title: "Subversion Release 1.6.13 / TortoiseSVN Update"
 date: 2010-10-02 12:10:35
 tags: SKM,Neuigkeiten,Neue Versionen,Subversion
-categories: SKM,Neuigkeiten,Neue Versionen,Subversion
+categories: [SKM,Neuigkeiten,Neue Versionen,Subversion]
 post-type: blog
 ---
 Auf der [Announce List ist die Ankündigung zur neuene Release von Subversion 1.6.13 zu lesen](http://mail-archives.apache.org/mod_mbox/subversion-announce/201010.mbox/%3cAANLkTiny+hj_XJvagrBS8jLOgRGL2p7LRoyOovZxJx8s@mail.gmail.com%3e). 

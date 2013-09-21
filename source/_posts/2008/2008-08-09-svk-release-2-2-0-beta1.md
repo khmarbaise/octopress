@@ -3,7 +3,7 @@ layout: post
 title: "SVK Release 2.2.0 beta1"
 date: 2008-08-09 19:25:35
 tags: SKM,Neuigkeiten,Neue Versionen,SVK
-categories: SKM,Neuigkeiten,Neue Versionen,SVK
+categories: [SKM,Neuigkeiten,Neue Versionen,SVK]
 post-type: blog
 ---
 Chia-liang Kao hat auf der [SVK User Liste](http://lists.bestpractical.com/pipermail/svk-users/2008-August/000311.html "SVK User Liste") bekannt gegeben, 

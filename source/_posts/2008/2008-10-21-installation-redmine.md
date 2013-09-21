@@ -3,7 +3,7 @@ layout: post
 title: "Installation Redmine"
 date: 2008-10-21 20:56:10
 tags: Neuigkeiten,Redmine
-categories: Neuigkeiten,Redmine
+categories: [Neuigkeiten,Redmine]
 post-type: blog
 ---
 Ich habe die Schritte zur Installation von [Redmine](http://www.redmine.org) einmal aufgeführt, damit man sieht wie einfach es ist Redmine zu installieren. 

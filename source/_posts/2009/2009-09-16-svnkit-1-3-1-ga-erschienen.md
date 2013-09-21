@@ -3,7 +3,7 @@ layout: post
 title: "SVNKit 1.3.1 GA Erschienen"
 date: 2009-09-16 20:54:47
 tags: Java,SKM,Neuigkeiten,Neue Versionen
-categories: Java,SKM,Neuigkeiten,Neue Versionen
+categories: [Java,SKM,Neuigkeiten,Neue Versionen]
 post-type: blog
 ---
 Das [Release 1.3.1 GA](http://www.svnkit.com "SVNKit Development Team") hat bekannt gegeben, dass eine neue 

@@ -3,7 +3,7 @@ layout: post
 title: "Subversion 1.6.0 RC2 erschienen"
 date: 2009-02-20 20:40:21
 tags: SKM,Neuigkeiten,Neue Versionen,Subversion
-categories: SKM,Neuigkeiten,Neue Versionen,Subversion
+categories: [SKM,Neuigkeiten,Neue Versionen,Subversion]
 post-type: blog
 ---
 Gerade wurde [bekannt gegeben](http://subversion.tigris.org/ds/viewMessage.do?dsForumId=445&dsMessageId=1200068 ), dass Subversion in der Release 1.6.0 RC2 

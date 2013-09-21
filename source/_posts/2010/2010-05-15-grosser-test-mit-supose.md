@@ -3,7 +3,7 @@ layout: post
 title: "Großer Test mit SupoSE"
 date: 2010-05-15 20:04:32
 tags: SKM,Neuigkeiten,SupoSE
-categories: SKM,Neuigkeiten,SupoSE
+categories: [SKM,Neuigkeiten,SupoSE]
 post-type: blog
 ---
 Nachdem nun die Vorbereitungen abgeschlossen sind habe ich nun mal SupoSE in der aktuellen Release (0.6.2 RC1 - 447) darauf losgelassen.

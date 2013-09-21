@@ -3,7 +3,7 @@ layout: post
 title: "Apache Ivy Project - Release 2.0.0 Beta 1"
 date: 2007-12-17 20:58:37
 tags: Java,Neuigkeiten,BM,Ivy
-categories: Java,Neuigkeiten,BM,Ivy
+categories: [Java,Neuigkeiten,BM,Ivy]
 post-type: blog
 ---
 Das [Apache Ivy Projekt](http://ant.apache.org/ivy/ "Apache Ivy Projekt") hat bekannt gegeben, dass die Release 2.0.0 Beta 1 verfügbar ist. 

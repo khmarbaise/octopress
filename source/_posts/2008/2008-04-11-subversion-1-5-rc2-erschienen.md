@@ -3,7 +3,7 @@ layout: post
 title: "Subversion 1.5 - RC2 erschienen"
 date: 2008-04-11 19:20:27
 tags: SKM,Neue Versionen,Subversion
-categories: SKM,Neue Versionen,Subversion
+categories: [SKM,Neue Versionen,Subversion]
 post-type: blog
 ---
 Es ist so weit, ein [zweiter Release Candiate von der SVN 1.5.](http://subversion.tigris.org/servlets/ReadMsg?list=dev&msgNo=137167 "zweiter Release Candiate von der SVN 1.5.") 

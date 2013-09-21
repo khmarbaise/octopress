@@ -3,7 +3,7 @@ layout: post
 title: "Subversion 1.5.3 - Released"
 date: 2008-10-11 11:08:00
 tags: SKM,Neue Versionen,Subversion
-categories: SKM,Neue Versionen,Subversion
+categories: [SKM,Neue Versionen,Subversion]
 post-type: blog
 ---
 Nun ist es so weit, es gibt einen neue Release von [Subversion 1.5.3](http://subversion.tigris.org/servlets/NewsItemView?newsItemID=2164 "Subversion 1.5.3").

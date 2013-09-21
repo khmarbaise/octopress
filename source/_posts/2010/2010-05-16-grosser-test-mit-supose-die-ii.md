@@ -3,7 +3,7 @@ layout: post
 title: "Großer Test mit SupoSE die II."
 date: 2010-05-16 12:04:41
 tags: SKM,Neuigkeiten,SupoSE
-categories: SKM,Neuigkeiten,SupoSE
+categories: [SKM,Neuigkeiten,SupoSE]
 post-type: blog
 ---
 Nach der Beurteilung der Test Ergebnisse insbesondere der Laufzeiten habe ich mir [einige optimierungen für SupoSE überlegt](http://www.supose.org/repositories/revision/supose/479) 

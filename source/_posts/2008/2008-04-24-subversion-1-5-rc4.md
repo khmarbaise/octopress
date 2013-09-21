@@ -3,7 +3,7 @@ layout: post
 title: "Subversion 1.5 RC4"
 date: 2008-04-24 14:55:47
 tags: SKM,Neuigkeiten,Neue Versionen,Subversion
-categories: SKM,Neuigkeiten,Neue Versionen,Subversion
+categories: [SKM,Neuigkeiten,Neue Versionen,Subversion]
 post-type: blog
 ---
 Es ist so weit, ein [vierter Release Candiate von der SVN 1.5.](http://subversion.tigris.org/servlets/ReadMsg?list=dev&msgNo=137752 "vierter Release Candiate von der SVN 1.5.") 

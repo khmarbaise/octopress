@@ -3,7 +3,7 @@ layout: post
 title: "Bazaar Release 1.17 erschienen"
 date: 2009-07-29 09:27:36
 tags: SKM,Neuigkeiten,Neue Versionen,Bazaar
-categories: SKM,Neuigkeiten,Neue Versionen,Bazaar
+categories: [SKM,Neuigkeiten,Neue Versionen,Bazaar]
 post-type: blog
 ---
 Es gibt ein Update von [Bazaar](http://www.bazaar-vcs.org).  

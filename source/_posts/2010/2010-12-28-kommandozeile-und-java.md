@@ -3,7 +3,7 @@ layout: post
 title: "Kommandozeile und Java?"
 date: 2010-12-28 09:58:00
 tags: Java,Neuigkeiten
-categories: Java,Neuigkeiten
+categories: [Java,Neuigkeiten]
 post-type: blog
 ---
 Es passiert doch dann und wann, dass man noch einen Kommandozeile unterstützen muss. Das Problem ist dann, wie löst man das Problem mit Java? 

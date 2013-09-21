@@ -3,7 +3,7 @@ layout: post
 title: "Bazaar Release 1.16.1 erschienen"
 date: 2009-07-12 14:07:32
 tags: SKM,Neuigkeiten,Neue Versionen,Bazaar
-categories: SKM,Neuigkeiten,Neue Versionen,Bazaar
+categories: [SKM,Neuigkeiten,Neue Versionen,Bazaar]
 post-type: blog
 ---
 Es gibt ein Update von [Bazaar](http://www.bazaar-vcs.org).  

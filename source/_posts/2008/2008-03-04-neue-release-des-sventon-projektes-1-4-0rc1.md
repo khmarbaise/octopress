@@ -3,7 +3,7 @@ layout: post
 title: "Neue Release des sventon Projektes - 1.4.0RC1"
 date: 2008-03-04 18:37:02
 tags: SKM,Neue Versionen,Subversion
-categories: SKM,Neue Versionen,Subversion
+categories: [SKM,Neue Versionen,Subversion]
 post-type: blog
 ---
 Das [Sventon Team](http://www.sventon.org/index.php?page=news#0 "Sventon Team") hat eine neue Release heraus gebracht. Sventon ist ein 

@@ -3,7 +3,7 @@ layout: post
 title: "Subversion und die Weiteren Schritte"
 date: 2010-12-20 13:26:36
 tags: SKM,Neuigkeiten,Subversion
-categories: SKM,Neuigkeiten,Subversion
+categories: [SKM,Neuigkeiten,Subversion]
 post-type: blog
 ---
 [WANdisco](http://www.wandisco.com/) hat nun in 

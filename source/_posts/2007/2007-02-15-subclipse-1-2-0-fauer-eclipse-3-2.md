@@ -3,7 +3,7 @@ layout: post
 title: "Subclipse 1.2.0 für Eclipse 3.2"
 date: 2007-02-15 13:21:56
 tags: Java,SKM,Neuigkeiten,Neue Versionen,PlugIn
-categories: Java,SKM,Neuigkeiten,Neue Versionen,PlugIn
+categories: [Java,SKM,Neuigkeiten,Neue Versionen,PlugIn]
 post-type: blog
 ---
 Am 13.02.2007 ist nun eine neue Release von <a href="http://subclipse.tigris.org"  title="Subclipse">Subclipse</a> für Eclipse 3.2 heraus gekommen.

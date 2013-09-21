@@ -3,7 +3,7 @@ layout: post
 title: "Versuchsweise Migration Subversion nach GIT"
 date: 2008-03-27 00:03:49
 tags: SKM,Subversion,GIT
-categories: SKM,Subversion,GIT
+categories: [SKM,Subversion,GIT]
 post-type: blog
 ---
 Tja, ich habe mir mal gedacht ich schaue mir mal **git** an. Das Problem dabei ist, dass ich alles mit Subversion mache und somit alles in Subversion 

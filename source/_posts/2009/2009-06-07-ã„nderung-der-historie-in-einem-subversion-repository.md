@@ -3,7 +3,7 @@ layout: post
 title: "Änderung der Historie in einem Subversion Repository"
 date: 2009-06-07 15:27:33
 tags: SKM,Neuigkeiten,Subversion
-categories: SKM,Neuigkeiten,Subversion
+categories: [SKM,Neuigkeiten,Subversion]
 post-type: blog
 ---
 Tja ich hatte das Problem, dass ich aus versehen in einer Datei etwas geschrieben hatte, was da nicht reingehört (Klassiker ist hier ein Paasword für Datenbanken etc.) und zu allem Unglück habe ich das dann auch noch in ein Subversion Repository eingecheckt. Tja wie bekomme ich das jetzt wieder da raus...<br/>

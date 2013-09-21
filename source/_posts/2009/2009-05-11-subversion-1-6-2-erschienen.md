@@ -3,7 +3,7 @@ layout: post
 title: "Subversion 1.6.2 erschienen"
 date: 2009-05-11 14:19:47
 tags: SKM,Neuigkeiten,Neue Versionen,Subversion
-categories: SKM,Neuigkeiten,Neue Versionen,Subversion
+categories: [SKM,Neuigkeiten,Neue Versionen,Subversion]
 post-type: blog
 ---
 [Hyrum K. Wright hat bekannt gegeben](http://subversion.tigris.org/servlets/NewsItemView?newsItemID=2278), dass einen neue 

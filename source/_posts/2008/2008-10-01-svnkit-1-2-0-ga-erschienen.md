@@ -3,7 +3,7 @@ layout: post
 title: "SVNKit 1.2.0 (GA) - Erschienen"
 date: 2008-10-01 21:20:09
 tags: Java,Neue Versionen
-categories: Java,Neue Versionen
+categories: [Java,Neue Versionen]
 post-type: blog
 ---
 Das [SVNKit Development Team](http://www.svnkit.com) hat 

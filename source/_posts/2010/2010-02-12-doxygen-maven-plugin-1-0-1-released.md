@@ -3,7 +3,7 @@ layout: post
 title: "Doxygen Maven Plugin - 1.0.1 Released"
 date: 2010-02-12 18:52:49
 tags: Neuigkeiten,Maven
-categories: Neuigkeiten,Maven
+categories: [Neuigkeiten,Maven]
 post-type: blog
 ---
 Nachdem es nun einige Zeit gedauert hat, habe ich nun mit Unterstützung der <a href="http://www.sonatype.com">Firma Sonatype Inc.</a> das oben genannte <a href="http://www.supose.org/projects/show/mavendoxygen">Doxygen Maven Plugin</a> in das <a href="http://repo1.maven.org/maven2">Maven Central Repository </a> veröffentlichen können.

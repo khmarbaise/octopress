@@ -3,7 +3,7 @@ layout: post
 title: "Bazaar 1.7 - Released"
 date: 2008-10-02 09:58:10
 tags: Neue Versionen,PlugIn,Bazaar
-categories: Neue Versionen,PlugIn,Bazaar
+categories: [Neue Versionen,PlugIn,Bazaar]
 post-type: blog
 ---
 Es ist eine neue [Release](https://launchpad.net/bzr/+announcement/1179) der [verteilten Versionskontrolle Bazaar](http://bazaar-vcs.org) erschienen. 

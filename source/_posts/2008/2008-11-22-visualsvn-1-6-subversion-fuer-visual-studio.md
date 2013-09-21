@@ -3,7 +3,7 @@ layout: post
 title: "VisualSVN 1.6 - Subversion für Visual Studio"
 date: 2008-11-22 13:04:33
 tags: SKM,Subversion
-categories: SKM,Subversion
+categories: [SKM,Subversion]
 post-type: blog
 ---
 [VisualSVN](http://www.visualsvn.com/visualsvn/), die Integration von Subversion in Visual Studio, hat eine neue Release heraus gebracht. 

@@ -3,7 +3,7 @@ layout: post
 title: "Subversion 1.6.6 Release"
 date: 2009-10-22 08:08:06
 tags: SKM,Neuigkeiten,Neue Versionen,Subversion
-categories: SKM,Neuigkeiten,Neue Versionen,Subversion
+categories: [SKM,Neuigkeiten,Neue Versionen,Subversion]
 post-type: blog
 ---
 Die neue Release von Subversion 1.6.6 ist nun da. Die [Release Notes]( http://subversion.tigris.org/svn_1.6_releasenotes.html) geben Auskunft über die 

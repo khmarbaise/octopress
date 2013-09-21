@@ -3,7 +3,7 @@ layout: post
 title: "Subversion 1.6.0 RC4 erschienen"
 date: 2009-03-18 10:37:25
 tags: Subversion
-categories: Subversion
+categories: [Subversion]
 post-type: blog
 ---
 Seit heute Morgen ist nun der [RC4 von Subversion 1.6](http://subversion.tigris.org/ds/viewMessage.do?dsForumId=462&dsMessageId=1345448) veröffentlich worden. 

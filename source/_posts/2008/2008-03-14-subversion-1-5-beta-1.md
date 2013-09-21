@@ -3,7 +3,7 @@ layout: post
 title: "Subversion 1.5 - Beta 1"
 date: 2008-03-14 00:06:13
 tags: SKM,Neuigkeiten,Neue Versionen,Subversion
-categories: SKM,Neuigkeiten,Neue Versionen,Subversion
+categories: [SKM,Neuigkeiten,Neue Versionen,Subversion]
 post-type: blog
 ---
 Nun wird es langsam Ernst mit Subversion 1.5....[die erste Beta Version](http://subversion.tigris.org/servlets/ReadMsg?list=dev&msgNo=136032 "die erste Beta Version") ist 

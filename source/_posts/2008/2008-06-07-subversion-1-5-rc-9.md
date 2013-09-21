@@ -3,7 +3,7 @@ layout: post
 title: "Subversion 1.5 RC 9"
 date: 2008-06-07 15:03:24
 tags: SKM,Neuigkeiten,Neue Versionen,Subversion
-categories: SKM,Neuigkeiten,Neue Versionen,Subversion
+categories: [SKM,Neuigkeiten,Neue Versionen,Subversion]
 post-type: blog
 ---
 Es wurde ein weiterer [Release Candidate von Subversion 1.5](http://subversion.tigris.org/servlets/NewsItemView?newsItemID=2124 "Release Candidate von Subversion 1.5") 

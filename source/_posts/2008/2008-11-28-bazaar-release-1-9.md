@@ -3,7 +3,7 @@ layout: post
 title: "Bazaar Release 1.9"
 date: 2008-11-28 16:31:00
 tags: SKM,Neuigkeiten,Neue Versionen,DVCS,Bazaar
-categories: SKM,Neuigkeiten,Neue Versionen,DVCS,Bazaar
+categories: [SKM,Neuigkeiten,Neue Versionen,DVCS,Bazaar]
 post-type: blog
 ---
 Es gibt eine neue Release von [Bazaar](http://www.bazaar-vcs.org), dem verteilten Versionskontroll System. Seit der Release 1.8 sind 

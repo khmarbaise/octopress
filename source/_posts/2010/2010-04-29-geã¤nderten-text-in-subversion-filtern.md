@@ -3,7 +3,7 @@ layout: post
 title: "Geänderten Text in Subversion filtern"
 date: 2010-04-29 11:07:08
 tags: SKM,Neuigkeiten,Subversion
-categories: SKM,Neuigkeiten,Subversion
+categories: [SKM,Neuigkeiten,Subversion]
 post-type: blog
 ---
 Ich hatte ein kleines Problem und wollte in einem Subversion Repository rausfinden, in welcher Version ein Änderung vorliegt. Also habe ich mir 

@@ -3,7 +3,7 @@ layout: post
 title: "Karl Fogel .."
 date: 2007-10-28 21:52:11
 tags: SKM,Neuigkeiten,Subversion
-categories: SKM,Neuigkeiten,Subversion
+categories: [SKM,Neuigkeiten,Subversion]
 post-type: blog
 ---
 [Karl Fogel](http://www.red-bean.com/kfogel/ "Karl Fogel"), der das zweite Kapitel des 
