@@ -3,7 +3,7 @@ layout: post
 title: "Iterator-Maven Plugin Release 0.2"
 date: 2013-08-24 11:16:26
 tags: Neuigkeiten,BM,Maven
-categories: Neuigkeiten,BM,Maven
+categories: [Neuigkeiten,BM,Maven]
 post-type: blog
 ---
 
@@ -11,6 +11,7 @@ After some time enhancing the [iterator-maven-plugin](http://khmarbaise.github.i
  has come to release a new version
 The [iterator-maven-plugin is available via Maven Central](http://search.maven.org/#artifactdetails|com.soebes.maven.plugins|iterator-maven-plugin|0.2|maven-plugin) 
 and can be used as any other maven plugin.
+<!-- more -->
 
 {% highlight xml linenos %}
 <plugin>

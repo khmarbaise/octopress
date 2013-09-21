@@ -11,6 +11,8 @@ go over a list of whatever (servers, environments etc.).
 
 After some thinking about the problem i have decided to write my own plugin which will solve the problem. 
 And now I have created such [plugin][github-iterator-maven-plugin]. 
+<!-- more -->
+
 Currently the plugin can be used by using it from the 
 <a href="https://oss.sonatype.org/content/repositories/comsoebesmavenplugins-660/">staging repository</a>. 
 After some feedback i will release it to Maven central. If you find some problems with the plugin you can 
