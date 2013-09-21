@@ -22,7 +22,7 @@ create a <a href="https://github.com/khmarbaise/iterator-maven-plugin/issues">ti
 In this case it will iterator over the given list test,prod and dev and call for every item 
 the <a href="http://maven.apache.org/plugins/maven-assembly-plugin/">maven-assembly-plugin</a>. 
 
-{% highlight xml linenos %}
+{% codeblock Iterator Maven Plugin Configuration lang:xml %}
 <plugin>
   <groupId>com.soebes.maven.plugins</groupId>
   <artifactId>iterator-maven-plugin</artifactId>
@@ -59,6 +59,6 @@ the <a href="http://maven.apache.org/plugins/maven-assembly-plugin/">maven-assem
     </execution>
   </executions>
 </plugin>
-{% endhighlight %}
+{% endcodeblock %}
 
 If you need you can execute several plugins as well. Just use an extra pluginExecutor for each of your plugins. So in other words: Iteration or foreach in Maven is solved.
