@@ -20,7 +20,7 @@ create a <a href="https://github.com/khmarbaise/iterator-maven-plugin/issues">ti
 <a href="mailto:mavenplugin@soebes.de">email to me</a>. You can use the plugin like the following:
 
 In this case it will iterator over the given list test,prod and dev and call for every item 
-the <a href="http://maven.apache.org/plugins/maven-assembly-plugin/">maven-assembly-plugin</a>. 
+the {% mp maven-assembly-plugin %}.
 
 {% codeblock Iterator Maven Plugin Configuration lang:xml %}
 <plugin>
