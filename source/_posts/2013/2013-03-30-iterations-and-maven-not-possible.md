@@ -14,9 +14,9 @@ And now I have created such [plugin][github-iterator-maven-plugin].
 <!-- more -->
 
 Currently the plugin can be used by using it from the 
-<a href="https://oss.sonatype.org/content/repositories/comsoebesmavenplugins-660/">staging repository</a>. 
+[staging repository](https://oss.sonatype.org/content/repositories/comsoebesmavenplugins-660/). 
 After some feedback i will release it to Maven central. If you find some problems with the plugin you can 
-create a <a href="https://github.com/khmarbaise/iterator-maven-plugin/issues">ticket on github</a> or write an 
+create a [ticket on github](https://github.com/khmarbaise/iterator-maven-plugin/issues) or write an 
 <a href="mailto:mavenplugin@soebes.de">email to me</a>. You can use the plugin like the following:
 
 In this case it will iterator over the given list test,prod and dev and call for every item 
