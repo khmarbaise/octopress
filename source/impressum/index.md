@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "impressum"
+title: "Impressum"
 date: 2013-09-21 00:40
 comments: true
 sharing: true
@@ -16,7 +16,8 @@ Domains <a href="http://www.soebes.de">www.soebes.de</a>,
 <a href="http://www.soebes.org">www.soebes.org</a>,
 <a href="http://www.soebes.eu">www.soebes.eu</a>,
 <a href="http://www.soebes.eu">www.soebes.ch</a>,
-<a href="http://www.soebes.eu">www.soebes.at</a> und
+<a href="http://www.soebes.eu">www.soebes.at</a>,
+<a href="http://blog.soebes.de">blog.soebes.de</a> und
 laut dem <a href="http://netlaw.de/gesetze/tdg.htm" target="_blank" title="Gesetz über die Nutzung von Telediensten (Teledienstgesetz TDG)">§6 des TDG</a> 
 ist:
 
@@ -30,4 +31,4 @@ ist:
 > Telefon  :     02405 / 415 893<br/>
 > EMail    :     <a href="mailto:gf@soebes.de">gf@soebes.de</a><br/>
 > USt-IdNr.:     DE191347579
-~                          
+
