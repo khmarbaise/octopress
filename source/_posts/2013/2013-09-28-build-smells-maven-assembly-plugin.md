@@ -316,6 +316,6 @@ xsi:schemaLocation="http://maven.apache.org/plugins/maven-assembly-plugin/assemb
 </assembly>
 ```
 
-This simple descriptor will work independant of the number of modules you have. The only thing you need to do is to maintain the
+This simple descriptor will work independent of the number of modules you have. The only thing you need to do is to maintain the
 dependencies in your distribution pom.xml file correctly.
 
