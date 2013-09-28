@@ -20,13 +20,13 @@ with simple example on the first glance.
 
 #The Distribution#
 
-It is often the case that you like to create a kind of distribution package which contains the created artifacts. Apart 
+It´s often the case that you like to create a kind of distribution package which contains the created artifacts. Apart 
 from that it is sometimes also usefull having supplemental files into such distribution packages as well.
 
 #The Obvious Solution#
 
 Let us assume having two modules which you like to package into the final zip distribution archive.
-This will you bring you to use the [maven-assembly-plugin](http://maven.apache.org/plugins/maven-assembly-plugin) with
+This will bring you to use the [maven-assembly-plugin](http://maven.apache.org/plugins/maven-assembly-plugin) with
 an appropriate [assembly descriptor](http://maven.apache.org/plugins/maven-assembly-plugin/assembly.html) like this:
 
 {% codeblock Assembly Descriptor lang:xml %}
@@ -102,7 +102,7 @@ So on the first glance this descriptor looks very well. Ok. Let us take a look i
 </project>
 {% endcodeblock %}
 
-If you have the right pom file in the parent than your build will work without any problems which looks like this:
+If you have the right pom file in the parent which will look like this then your build will work without any problems.
 
 {% codeblock parent POM file lang:xml %}
 <?xml version="1.0" encoding="UTF-8"?>
@@ -165,7 +165,7 @@ into the following:
     <module>package-2</module>
   </modules>
 ```
-and your build will faile like this:
+and your build will fail like this:
 
 {% codeblock parent POM file %}
 [INFO] 
@@ -200,7 +200,7 @@ and your build will faile like this:
 The question is: Why does this happen? The simple answer is: Maven can not calculate the reactor build order in the right manner.
 The root cause of this is that the dependencies between the modules are not defined at all.
 The solution of the problem can be simply achieved by defining the appropriate dependencies to the 
-modules you would like to package into your distribution package like this:
+modules you would like to pack into your distribution package like this:
 
 ``` xml Enhanced POM file with dependencies https://github.com/khmarbaise/assembly-examples/blob/master/assemblies-with-files-deps/dist/pom.xml GitHub
   <dependencies>
@@ -218,7 +218,6 @@ modules you would like to package into your distribution package like this:
 ```
 With this change it does not matter in which order you have defined the modules in your parent pom. Maven will calculate the reactor build order
 automatically.
-
 
 ##The Assembly Descriptor File Smell##
 
@@ -242,8 +241,8 @@ If we remember back to the maven-assembly-plugin descriptor which looks like thi
     </fileSet>
   </fileSets>
 ```
-At the first glance this descriptor looks ok. But what happens if you have ten modules which should be
-packaged into the distribution archive instead of two?
+At the first glance this descriptor looks all right. But what happens if you have ten modules which should be
+packed into the distribution archive instead of two?
 The assembly descriptor would look like this:
 
 
@@ -284,12 +283,12 @@ The assembly descriptor would look like this:
 ```
 
 As you can see this descriptor will become quite long and you should not forget to add every dependency 
-into the pom file as well, cause if do not do this the reactor order will not as you expect to be 
-and your build might fail. In other words you need to maintain two areas. The dependencies as 
+into the pom file as well, cause if do not do this, the reactor order will not be as you expect
+and your build might fail. In other words you need to maintain two areas, the dependencies as 
 well as the descriptor. The full example can be found [here](https://github.com/khmarbaise/assembly-examples/tree/master/assemblies-with-files-ten-mods).
 
 
-The solution of this problem is to remember that maven has a reactor which can used for such purposes instead of the
+The solution of this problem is to remember that maven has a reactor which can be used for such purposes instead of the
 file level. This will simplify the descriptor dramatically like this:
 
 ``` xml Assembly Descriptor for reactor usage https://github.com/khmarbaise/assembly-examples/tree/master/assemblies-with-files-ten-mods GitHub
