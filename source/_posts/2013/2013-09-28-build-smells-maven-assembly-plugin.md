@@ -6,7 +6,7 @@ comments: true
 categories: [Maven,Build Smells]
 ---
 If you are a software developer (for example in Java) you might have heard about 
-[code smells](http://en.wikipedia.org/wiki/Code_smell) which indicate not really bug, 
+[code smells](http://en.wikipedia.org/wiki/Code_smell) which indicate not really bugs, 
 but usually are a kind of indicator for problems in the future. It´s usually a good 
 practice to fix such [code smells](http://www.codinghorror.com/blog/2006/05/code-smells.html). 
 
@@ -16,12 +16,12 @@ like *Build Smells* which could produce problems in future but not need to.
 <!-- more -->
 
 So the best practice for *Code Smells* as well as *Build Smells* is to fix such things as soon as possible. Let us start
-with an on the first glance simple example.
+with simple example on the first glance.
 
 #The Distribution#
 
-It is often the case that you like to create a kind of distribution package which contains some kind of folder structure
-and of course the artifacts you have created during your build and may be supplemental files as well.
+It is often the case that you like to create a kind of distribution package which contains the created artifacts. Apart 
+from that it is sometimes also usefull having supplemental files into such distribution packages as well.
 
 #The Obvious Solution#
 
