@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Maven Release 3.1.1 Released"
+title: "Maven 3.1.1 Released"
 date: 2013-10-05 14:22
 comments: true
 categories: [Maven,News]
