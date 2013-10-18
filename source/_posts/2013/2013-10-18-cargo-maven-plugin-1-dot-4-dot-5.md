@@ -8,7 +8,7 @@ categories: [Maven,Maven-Plugins,News]
 
 After a really short while a new bug fix release 1.4.5 for [Cargo](http://cargo.codehaus.org) has been released.
 [The CARGO Team](http://thread.gmane.org/gmane.comp.java.cargo.devel/14457) has fixed the following bugs:
-
+<!-- more -->
 Bug
 
  * {% chjl CARGO-1222 %} - JBoss7xInstalledLocalContainer unable to stop container running on hostname other than localhost

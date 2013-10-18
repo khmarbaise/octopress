@@ -8,6 +8,7 @@ categories: [Maven,News]
 
 After a while a new [Maven Release 3.1.1](http://maven.apache.org/docs/3.1.1/release-notes.html) is 
 now [available](http://maven.apache.org/download.cgi).
+<!-- more -->
 
 [The Maven Team](http://maven.40175.n5.nabble.com/ANN-Maven-3-1-1-Release-td5772451.html) has fixed the following bugs:
 
