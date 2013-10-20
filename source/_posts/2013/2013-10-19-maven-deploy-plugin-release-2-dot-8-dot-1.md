@@ -3,7 +3,7 @@ layout: post
 title: "Apache Maven Deploy Plugin - Release 2.8.1"
 date: 2013-10-19 15:30:00
 comments: true
-categories: [Maven, News, Maven-Plugins]
+categories: [Maven, News, Maven-Plugins,Maven-Plugin-Releases]
 ---
 The new release of the [Apache Maven Deploy Plugin 2.8.1](http://maven.apache.org/plugins/maven-deploy-plugin/)
 contains two bug fixes:

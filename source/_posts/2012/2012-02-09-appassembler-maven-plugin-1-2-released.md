@@ -3,7 +3,7 @@ layout: post
 title: "Appassembler-Maven-Plugin 1.2 - Released"
 date: 2012-02-09 21:45:46
 tags: Neuigkeiten,Neue Versionen,Maven
-categories: [Neuigkeiten,Neue Versionen,Maven,Maven-Plugins]
+categories: [Neuigkeiten,Neue Versionen,Maven,Maven-Plugins,Maven-Plugin-Releases]
 post-type: blog
 ---
 Now it is done. The release of the 

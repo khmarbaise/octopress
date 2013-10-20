@@ -3,7 +3,7 @@ layout: post
 title: "Maven-Echo-Plugin"
 date: 2012-01-19 22:47:01
 tags: Neuigkeiten,Maven
-categories: [Neuigkeiten,Maven,Maven-Plugins]
+categories: [Neuigkeiten,Maven,Maven-Plugins,Maven-Plugin-Releases]
 post-type: blog
 ---
 A small problem, but always the suggestion to use Maven-AntRun plugin...But i changed it and created a small simple 

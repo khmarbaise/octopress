@@ -3,7 +3,7 @@ layout: post
 title: "Maven 3.1.1 Released"
 date: 2013-10-05 14:22
 comments: true
-categories: [Maven,News]
+categories: [Maven,News,Maven-Releases]
 ---
 
 After a while a new [Maven Release 3.1.1](http://maven.apache.org/docs/3.1.1/release-notes.html) is 
