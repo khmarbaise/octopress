@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mojo's Webstart Maven Plguin version 1.0-beta-4 Released"
+title: "Mojo's Webstart Maven Plugin version 1.0-beta-4 Released"
 date: 2013-11-06 19:47
 comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
