@@ -15,14 +15,14 @@ The following bugs are fixed:
  * {% chjl MAPPASM-188 %} - Empty CLASSPATH_PREFIX adds current directory to classpath
  * {% chjl MAPPASM-204 %} - Support Solaris x86_64 - Commercial JSW only
  * {% chjl MAPPASM-208 %} - binFolder configuration is not used to generate path to environment setup file.
- * {% chjl MAPPASM-211 %} - Null pointer exception when providing empty <commandLineArgument>
+ * {% chjl MAPPASM-211 %} - Null pointer exception when providing empty ```<commandLineArgument>```.
 
 The following improvements:
 
  * {% chjl MAPPASM-59 %} - appassembler chmod and bat file creation
  * {% chjl MAPPASM-202 %} - Deprecate program.name in favor of program.id
  * {% chjl MAPPASM-207 %} - Add CONFIGDIR environment variable for configurationDirectory property in scripts
- * {% chjl MAPPASM-209 %} - Allow <generateRepository>false</generateRepository> for JSW daemons
+ * {% chjl MAPPASM-209 %} - Allow ```<generateRepository>false</generateRepository>``` for JSW daemons
 
 New Feature
 
