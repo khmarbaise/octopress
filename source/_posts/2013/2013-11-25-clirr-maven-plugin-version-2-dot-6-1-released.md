@@ -25,6 +25,8 @@ plugin configuration:
 </plugin>
 ```
 
+[Release Notes - Mojo's Clirr Maven Plugin - Version 2.6.1](http://jira.codehaus.org/secure/ReleaseNote.jspa?projectId=11227&version=19639)
+
 The following improvement has been made:
 
 * {% chjl MCLIRR-61 %} - Allow any classpath artifact to be checked for changes
