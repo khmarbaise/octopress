@@ -14,6 +14,17 @@ you to use Clirr from Maven 2. This version of the plugin uses Clirr 0.6.
 
 <!-- more -->
 
+To get this update, simply specify the version in your project's
+plugin configuration:
+
+``` xml
+<plugin>
+  <groupId>org.codehaus.mojo</groupId>
+  <artifactId>clirr-maven-plugin</artifactId>
+  <version>2.6.1</version>
+</plugin>
+```
+
 The following improvement has been made:
 
 * {% chjl MCLIRR-61 %} - Allow any classpath artifact to be checked for changes
