@@ -16,7 +16,6 @@ a generated Maven repository in a defined assemble directory.
 All artifacts (dependencies + the artifact from the project) are added
 to the classpath in the generated bin scripts.
 
-<!-- more -->
 
 You can use the following Maven coordinates to get the latest version via Maven Central:
 
@@ -27,6 +26,8 @@ You can use the following Maven coordinates to get the latest version via Maven 
      <version>1.7</version>
 </plugin>
 ```
+
+<!-- more -->
 
 [Release Notes for Release 1.7](http://jira.codehaus.org/secure/ReleaseNote.jspa?projectId=11780&version=19642)
 
