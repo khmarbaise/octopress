@@ -32,19 +32,17 @@ and furthermore
 mvn --batch-mode release:perform
 ```
 
-But now let us focus on the release:prepare goal what it exactly does:
+But now let us focus on the ```release:prepare``` goal what it exactly does:
 
-  * The [release:prepare](http://maven.apache.org/plugins/maven-release-plugin/examples/prepare-release.html) will first check
-    if your work area does not contain any uncommitted changes
-  * It will check that there are no SNAPSHOT dependencies
-  * It will change the version in the POMs from 1.0.0-SNAPSHOT to a new version 1.0.0
-  * Transform the SCM information in the POM to include the final destination of the tag
-  * Run the project tests against the modified POMs to confirm everything is in working order
-  * Commit the modified POMs
-  * Tag the code in the SCM with a version name
-  * Bump the version in the POMs to a new value 1.0.1-SNAPSHOT
-  * Commit the modified POMs
-
+ * The [release:prepare](http://maven.apache.org/plugins/maven-release-plugin/examples/prepare-release.html) will first check if your work area does not contain any uncommitted changes
+ * It will check that there are no SNAPSHOT dependencies
+ * It will change the version in the POMs from 1.0.0-SNAPSHOT to a new version 1.0.0
+ * Transform the SCM information in the POM to include the final destination of the tag
+ * Run the project tests against the modified POMs to confirm everything is in working order
+ * Commit the modified POMs
+ * Tag the code in the SCM with a version name
+ * Bump the version in the POMs to a new value 1.0.1-SNAPSHOT
+ * Commit the modified POMs
 
 These steps require some configuration in your POM which have to be configured in the right way to get the
 release:prepare work otherwise the release:prepare will fail.
