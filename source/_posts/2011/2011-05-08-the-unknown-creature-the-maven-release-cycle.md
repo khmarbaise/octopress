@@ -1,14 +1,14 @@
 ---
 layout: post
-title: "The unknown creature - The Maven Release Cycle"
+title: "The Unknown creature - The Maven Release Cycle"
 date: 2011-05-08 11:18:54
 tags: Neuigkeiten,Maven
 categories: [Neuigkeiten,Maven]
 post-type: blog
 ---
-In the meantime often people use [Maven](http://maven.apache.org") to build their software, but when it comes to the time
-to release an artifact, they sometimes do unusual things in my opinion.  I've often observed that they manually set
-the version numbers to the release version (just removing the ```-SNAPSHOT```) from it) and build by hand and do the
+In the meantime often people use [Maven](http://maven.apache.org) to build their software, but when it comes to the time
+to release an artifact, they sometimes do unusual things in my opinion.  I have often observed that they manually set
+the version numbers to the release version (just removing the ```-SNAPSHOT```) from it and build by hand and do the
 deploy the same way.
 
 But Maven is better than you think. Maven can do the whole thing within a single command.
@@ -52,6 +52,7 @@ The most important thing is that your [SCM area in your POM](http://maven.apache
 is correctly configured, cause ```release:prepare``` goal will make tags of your software automatically.
 The following example gives you an impression how the SCM area must look like if you are using GitHub.
 
+
 ``` xml
 <scm>
   <connection>scm:git:git://github.com/khmarbaise/Maven-License-Verifier-Plugin.git</connection>
@@ -75,8 +76,8 @@ do the following:
  * Checkout from an SCM URL with optional tag
  * Run the predefined Maven goals to release the project (by default, deploy site-deploy)
 
-It's important to know that the above goals ```release:prepare``` and ```release:perform``` must be called inside the
-same project one after another. To get a successful run of the ```release:perform``` it's needed to correctly configure the
+It is important to know that the above goals ```release:prepare``` and ```release:perform``` must be called inside the
+same project one after another. To get a successful run of the ```release:perform``` it is needed to correctly configure the
 [distributionManagement](http://maven.apache.org/pom.html#Distribution_Management) area in your POM, cause Maven will
 deploy the artifact to the configured repository and will deploy the created site of the artifact to
 the appropriate site area as well.
@@ -111,12 +112,12 @@ mvn --batch-mode release:prepare release:perform
 ```
 But sometimes it happens that something is going wrong either in the release:prepare phase or during the
 release:perform. If your release process fails in the release:prepare phase you have to do an
-<a href="http://maven.apache.org/plugins/maven-release-plugin/examples/rollback-release.html"
-title="release:rollback">release:rollback</a> first, before doing anything else. You have to be aware of the fact
+[release:rollback](http://maven.apache.org/plugins/maven-release-plugin/examples/rollback-release.html)
+first, before doing anything else. You have to be aware of the fact
 that depending where the release:prepare process has failed a tag for your release has already been created.
 So you should check your version control whether the tag for the version has been created or not. If it has you have
-to manually remove that tag. If you don't do it that way the next time you try release:prepare will fail based on the
+to manually remove that tag. If you don not do it that way the next time you try release:prepare will fail based on the
 existing tag.
 If you are just a beginner with the Maven Release process you should call the release:prepare and release:perform
 in two separate commands to be sure where the errors belong to.</p>
-So after configuring etc. the parts in your POM a release of an artifact shouldn't be a pain anymore.
+So after configuring etc. the parts in your POM a release of an artifact should not be a pain anymore.
