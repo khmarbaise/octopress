@@ -31,7 +31,8 @@ and furthermore
 ```
 mvn --batch-mode release:perform
 ```
-But now let us focus on the ```release:prepare``` goal what it exactly does:
+
+But now let us focus on the release:prepare goal what it exactly does:
 
   * The [release:prepare](http://maven.apache.org/plugins/maven-release-plugin/examples/prepare-release.html) will first check
     if your work area does not contain any uncommitted changes
@@ -46,10 +47,10 @@ But now let us focus on the ```release:prepare``` goal what it exactly does:
 
 
 These steps require some configuration in your POM which have to be configured in the right way to get the
-```release:prepare``` work otherwise the ```release:prepare``` will fail.
+release:prepare work otherwise the release:prepare will fail.
 
 The most important thing is that your [SCM area in your POM](http://maven.apache.org/pom.html#SCM)
-is correctly configured, cause ```release:prepare``` goal will make tags of your software automatically.
+is correctly configured, cause release:prepare goal will make tags of your software automatically.
 The following example gives you an impression how the SCM area must look like if you are using GitHub.
 
 
@@ -76,7 +77,7 @@ do the following:
  * Checkout from an SCM URL with optional tag
  * Run the predefined Maven goals to release the project (by default, deploy site-deploy)
 
-It is important to know that the above goals ```release:prepare``` and ```release:perform``` must be called inside the
+It is important to know that the above goals release:prepare and ```release:perform``` must be called inside the
 same project one after another. To get a successful run of the ```release:perform``` it is needed to correctly configure the
 [distributionManagement](http://maven.apache.org/pom.html#Distribution_Management) area in your POM, cause Maven will
 deploy the artifact to the configured repository and will deploy the created site of the artifact to
@@ -119,5 +120,5 @@ So you should check your version control whether the tag for the version has bee
 to manually remove that tag. If you don not do it that way the next time you try release:prepare will fail based on the
 existing tag.
 If you are just a beginner with the Maven Release process you should call the release:prepare and release:perform
-in two separate commands to be sure where the errors belong to.</p>
+in two separate commands to be sure where the errors belong to.
 So after configuring etc. the parts in your POM a release of an artifact should not be a pain anymore.
