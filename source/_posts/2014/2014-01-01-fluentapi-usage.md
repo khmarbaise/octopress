@@ -7,10 +7,10 @@ categories: [News,Programming,SAPM]
 ---
 As a Java developer I always got the impression that my own code
 can be made better (unfortunately I am not perfect). That
-brought me to think about how could I improve the code.
+brought me to think about how I could improve the code.
 
-So I think several times about my code and looking for example into my
-unit/integrations tests and found the following code snippet:
+So I thought several times about my code and while looking for example into my
+unit/integrations tests I found the following code snippet:
 
 ``` java
 AccessRules rules = new AccessRules();
@@ -25,16 +25,16 @@ rules.add(rule1);
 
  So far so good but it basically violates the [DRY rule](http://en.wikipedia.org/wiki/Don%27t_repeat_yourself).
  If you take a deeper look into it you will recognize that ```AcessLevel.READ``` and ```UserFactory.createInstance(..)```
- is repeated three times as well as ```rule1.add(...)```.
+ are repeated three times as well as ```rule1.add(...)```.
 
 
- Let us change the perspective and move to the users point of view. So you
- can imagine that a user of this code needs to write several times such kind of code
- which is as likely as not cumbersome.
+ Let us change the perspective and move to the user`s point of view. So you
+ can imagine that a user of this code needs to write such kind of code several times
+ which probably is cumbersome.
 
 
- After a time of thinking about the problem I came a cross to a solution which
- is from the users point of view much more convenient. Simpler to read and
+ After a time of thinking about the problem I came across a solution which
+ is from the user`s point of view much more convenient, simpler to read and
  of course better to understand.
 
 ``` java
@@ -45,7 +45,7 @@ AccessRules accessRules = new AccessRules.Builder()
     .build();
 ```
 
- The only things I need to do was to write some supplemental code to get to the above result.
+ The only things I had to do was to write some supplemental code to get to the above result.
  The following code lines are needed for the ```.forRepository("...")``` part.
 
 ``` java
