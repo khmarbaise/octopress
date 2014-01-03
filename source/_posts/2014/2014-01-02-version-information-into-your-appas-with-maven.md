@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Version Informations Into You Apps With Maven"
+title: "Version Informations Into Your Apps With Maven"
 date: 2014-01-02 19:08
 comments: true
 categories: [Maven, News, Maven-Plugins,Maven Best Practise]
