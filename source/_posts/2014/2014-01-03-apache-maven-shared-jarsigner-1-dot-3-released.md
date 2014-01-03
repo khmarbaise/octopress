@@ -6,7 +6,7 @@ comments: true
 categories: [News,BM,Maven,Maven-Plugins,Maven-Plugin-Releases,Maven-Shared]
 ---
 The Maven team is pleased to announce the release of 
-the [Apache Maven Jarsigner(http://maven.apache.org/shared/maven-jarsigner/)
+the [Apache Maven Shared Jarsigner](http://maven.apache.org/shared/maven-jarsigner/)
 
 This component provides some utilities to sign/verify jars/files in your Mojos.
 
