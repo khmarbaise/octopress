@@ -13,6 +13,16 @@ The Wagon component provides communications between Maven and repositories.
 Typically, to use a particular version of Wagon, you would add an
 'extension' to your POM, such as:
 
+``` xml
+<extensions>
+    <extension>
+        <groupId>org.apache.maven.wagon</groupId>
+        <artifactId>wagon-ssh</artifactId>
+        <version>2.6</version>
+    </extension>
+</extensions>
+```
+
 <!-- more -->
 
 [Release Notes - Apache Maven Wagon - Version 2.6](http://jira.codehaus.org/secure/ReleaseNote.jspa?projectId=10335&version=19578)
