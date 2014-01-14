@@ -11,7 +11,7 @@ This plugin works along with an installation of WebSphere Application Server (st
 to provide automated tasks for: generating RMIC stubs, starting/stopping servers, installing/updating/uninstalling 
 EARs to application servers, starting/stopping application and run arbitrary scripts through wsadmin
 
-To get this update, simply specify the version in your project's plugin configuration:
+To get this update, simply specify the version in your project´s plugin configuration:
 
 ``` xml
 <plugin>
@@ -20,6 +20,7 @@ To get this update, simply specify the version in your project's plugin configur
   <version>1.2.1</version>
 </plugin>
 ```
+
 <!-- more -->
 
 [Release Notes for WAS6 Maven Plugin](https://jira.codehaus.org/secure/ReleaseNote.jspa?projectId=11730&version=19594)
@@ -31,6 +32,7 @@ Fixed Bugs:
  * {% chjl MWAS-73 %} - WSDL2Java fails when pom uses system or provided dependencies.
 
 New Feature:
+
  * {% chjl MWAS-59 %} - Support install/uninstall and start/stop for WARs
 
 Enjoy,

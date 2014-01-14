@@ -51,4 +51,4 @@ New Feature:
 
 Enjoy,
 
-- The Apache Maven team
+The Apache Maven team
