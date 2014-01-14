@@ -18,7 +18,7 @@ performing signing, unsigning and Pack200 compression when required.
 
 
 If you are updating from a previous version you will find help in the 
-[upgrade guide](http://mojo.codehaus.org/webstart/webstart-maven-plugin/upgrade.html)..
+[upgrade guide](http://mojo.codehaus.org/webstart/webstart-maven-plugin/upgrade.html).
 
 <!-- more -->
 
