@@ -16,6 +16,6 @@ This means:
  * security vulnerability reports will not be checked against the 2.x branch
  * the 2.x download pages will be removed.
  * the latest 2.x release will be removed from the mirror system
- * the links to any 2.x specific documentation will be moved to http://maven.apache.org/archives/maven-2.x/
+ * the links to any 2.x specific documentation will be moved to http://maven.apache.org/maven-2.x/
 
 The Apache Maven Team.
