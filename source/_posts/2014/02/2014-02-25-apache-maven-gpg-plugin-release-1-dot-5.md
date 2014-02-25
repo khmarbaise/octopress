@@ -24,13 +24,16 @@ You should specify the version in your project's plugin configuration:
 Release Notes - Maven GPG Plugin - Version 1.5
 
 Bugs:
+
  * {% chjl MGPG-41 %} - Passphrase revealed when backspacing at prompt
 
 Improvements:
+
  * {% chjl MGPG-48 %} - useAgent=true by default
  * {% chjl MGPG-49 %} - Add support for --lock-* command line options
 
 Task:
+
  * {% chjl MGPG-39 %} - use maven-plugin-tools' java 5 annotations
 
 
