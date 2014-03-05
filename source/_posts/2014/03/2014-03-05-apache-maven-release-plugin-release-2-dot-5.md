@@ -27,8 +27,8 @@ You should specify the version in your project's plugin configuration:
 
 
 Bugs:
- * {% chjl MRELEASE-812 %} - "prepare" does not commit before tagging and
-therefore deploys snapshot instead of release
+
+ * {% chjl MRELEASE-812 %} - "prepare" does not commit before tagging and therefore deploys snapshot instead of release
  * {% chjl MRELEASE-862 %} - Upgrade to Apache Maven SCM 1.9
 
 
