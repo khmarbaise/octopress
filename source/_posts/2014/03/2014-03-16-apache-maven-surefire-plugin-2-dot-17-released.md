@@ -25,7 +25,9 @@ You should specify the version in your project's plugin configuration:
 </plugin>
 ``` 
 
-[Release Notes - Maven Surefire - Version 2.17]()
+<!-- more -->
+
+[Release Notes - Maven Surefire - Version 2.17](http://jira.codehaus.org/secure/ReleaseNote.jspa?projectId=10541&version=19536)
 
 Bugs:
 
