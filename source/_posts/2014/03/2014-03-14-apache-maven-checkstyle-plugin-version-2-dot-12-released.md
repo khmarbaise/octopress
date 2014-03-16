@@ -10,7 +10,7 @@ The Maven team is pleased to announce the release of the
 
 Generates a report on violations of code style and optionally fails the build if violations are detected.
 
-You should specify the version in your project's plugin configuration:
+You should specify the version in your project´s plugin configuration:
 
 ``` xml
 <plugin>
@@ -25,6 +25,7 @@ You should specify the version in your project's plugin configuration:
 [Release Notes - Apache Maven Checkstyle Plugin - Version 2.12](http://jira.codehaus.org/secure/ReleaseNote.jspa?projectId=11127&styleName=Html&version=19723)
 
 Tasks:
+
  * {% chjl MCHECKSTYLE-222 %} Resource-only project is not checked
  * {% chjl MCHECKSTYLE-221 %} ResourceIncludes default value is wrong
  * {% chjl MCHECKSTYLE-219 %} When no license is specified, ALv2 from maven-checkstyle-plugin is used
