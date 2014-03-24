@@ -9,7 +9,7 @@ The Maven team is pleased to announce the release of the
 [Maven Jarsigner Plugin, version 1.3.2](http://maven.apache.org/plugins/maven-jarsigner-plugin/).
 
 This plugin signs and verifies the project artifacts using the jarsigner
-tool. See the plugin's site for more details:
+tool. See the plugin's site for more details.
 
 This plugin is meant to supercede the existing jar:sign and
 jar:verify goals from the Maven Jar Plugin which will be deprecated
@@ -19,13 +19,13 @@ To use the updated plugin in your projects, you need to add the
 following snippet to the plugins or plugin management section of your POM:
 
 
-´´´ xml
+``` xml
 <plugin>
   <groupId>org.apache.maven.plugins</groupId>
   <artifactId>maven-jarsigner-plugin</artifactId>
   <version>1.3.2</version>
 </plugin>
-´´´ xml
+``` 
 
 <!-- more -->
 

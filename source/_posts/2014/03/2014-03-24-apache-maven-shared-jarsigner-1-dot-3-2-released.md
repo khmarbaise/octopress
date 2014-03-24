@@ -18,7 +18,7 @@ To use the Maven Jarsigner, add the following dependency to your project:
   <artifactId>maven-jarsigner</artifactId>
   <version>1.3.2</version>
 </dependency>
-``` xml
+```
 
 <!-- more -->
 
