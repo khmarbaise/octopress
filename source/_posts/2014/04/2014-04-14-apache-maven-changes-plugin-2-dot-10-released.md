@@ -10,6 +10,7 @@ the [Apache Maven Changes Plugin, version 2.10](http://maven.apache.org/plugins/
 
 Creates a release history for inclusion into the site and assists in generating an announcement mail.
 
+
 You should specify the version in your project's plugin configuration:
 
 ``` xml
