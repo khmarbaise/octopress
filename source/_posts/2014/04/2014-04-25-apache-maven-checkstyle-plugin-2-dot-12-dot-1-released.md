@@ -20,6 +20,7 @@ You should specify the version in your project's plugin configuration:
 </plugin>
 ```
 
+
 Release Notes - Apache Maven Checkstyle Plugin - Version 2.12.1
 
 Bugs:
