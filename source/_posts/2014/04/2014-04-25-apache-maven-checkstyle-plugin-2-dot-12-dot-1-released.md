@@ -21,7 +21,7 @@ You should specify the version in your project's plugin configuration:
 ```
 
 
-Release Notes - Apache Maven Checkstyle Plugin - Version 2.12.1
+Release Notes - [Apache Maven Checkstyle Plugin - Version 2.12.1](http://jira.codehaus.org/secure/ReleaseNote.jspa?projectId=11127&version=20236)
 
 Bugs:
 
