@@ -27,12 +27,12 @@ You should specify the version in your project's plugin configuration:
 [Release Notes - Maven Shade Plugin - Version 2.3](http://jira.codehaus.org/secure/ReleaseNote.jspa?projectId=11540&version=19828)
 
 Bug:
+
  * {% chjl MSHADE-166 %} - maven-shade-plugin not compatible with Java 8
 
 Improvment:
 
- * {% chjl MSHADE-167] - [PATCH %} When individual classes are renamed, they
-are not debuggable
+ * {% chjl MSHADE-167 %} - \[PATCH\] When individual classes are renamed, they are not debuggable
 
 
 Have Fun!
