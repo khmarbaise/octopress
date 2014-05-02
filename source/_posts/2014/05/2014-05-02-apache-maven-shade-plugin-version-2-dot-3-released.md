@@ -24,7 +24,7 @@ You should specify the version in your project's plugin configuration:
 
 <!-- more -->
 
-Release Notes - Maven Shade Plugin - Version 2.3
+[Release Notes - Maven Shade Plugin - Version 2.3](http://jira.codehaus.org/secure/ReleaseNote.jspa?projectId=11540&version=19828)
 
 Bug:
  * {% chjl MSHADE-166 %} - maven-shade-plugin not compatible with Java 8

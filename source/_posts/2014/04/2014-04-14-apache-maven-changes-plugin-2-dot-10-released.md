@@ -20,6 +20,7 @@ You should specify the version in your project's plugin configuration:
   <version>2.10</version>
 </plugin>
 ```
+<!-- more -->
 
 [Release Notes - Apache Maven Changes Plugin - Version 2.10](http://jira.codehaus.org/secure/ReleaseNote.jspa?projectId=11212&version=19130&styleName=Html)
 
