@@ -19,6 +19,7 @@ To get this update, simply specify the version in your project's plugin configur
   <version>2.0</version>
 </plugin>
 ```
+<!-- more -->
 
 [Release Notes](http://jira.codehaus.org/secure/ReleaseNote.jspa?projectId=13231&version=20128)
 

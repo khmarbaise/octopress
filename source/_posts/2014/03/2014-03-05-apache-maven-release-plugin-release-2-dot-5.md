@@ -23,6 +23,8 @@ You should specify the version in your project's plugin configuration:
 </plugin>
 ``` xml
 
+<!-- more -->
+
 [Release Notes - Maven Release Plugin - Version 2.5](http://jira.codehaus.org/secure/ReleaseNote.jspa?projectId=11144&version=19017)
 
 
