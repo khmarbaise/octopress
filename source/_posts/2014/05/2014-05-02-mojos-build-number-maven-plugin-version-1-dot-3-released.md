@@ -17,7 +17,7 @@ To get this update, simply specify the version in your project's plugin configur
 ``` xml
 <plugin>
   <groupId>org.codehaus.mojo</groupId>
-  <artifactId> buildnumber-maven-plugin< /artifactId>
+  <artifactId>buildnumber-maven-plugin</artifactId>
   <version>1.3</version>
 </plugin>
 ```
