@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Mojo Appassembler Maven Plugin 1.8 Released"
+title: "Mojo Appassembler Maven Plugin Version 1.8 Released"
 date: 2014-04-11 17:30
 comments: true
-categories: [Maven, News, Maven-Plugins,Maven-Plugin-Releases]
+categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---
 The Mojo Team is pleased to announce the new release 
 of the [Appassembler Maven Plugin 1.8](http://mojo.codehaus.org/appassembler/appassembler-maven-plugin/)
@@ -20,9 +20,9 @@ You can use the following Maven coordinates to get the latest version via Maven 
 
 ``` xml
 <plugin>
-    <groupId>org.codehaus.mojo</groupId>
-    <artifactId>appassembler-maven-plugin</artifactId>
-     <version>1.8</version>
+  <groupId>org.codehaus.mojo</groupId>
+  <artifactId>appassembler-maven-plugin</artifactId>
+  <version>1.8</version>
 </plugin>
 ```
 
