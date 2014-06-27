@@ -8,7 +8,9 @@ categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 The Apache Maven team is pleased to announce the release of the 
 [Apache Maven Changelog Plugin, version 2.3](http://maven.apache.org/plugins/maven-changelog-plugin/).
 
-This plugin provides the capability to build jars.
+The Maven Changelog Plugin generates reports regarding the recent changes in
+your Software Configuration Management or SCM. These reports include the
+changelog report, developer activity report and the file activity report.
 
 You should specify the version in your project's plugin configuration:
 
