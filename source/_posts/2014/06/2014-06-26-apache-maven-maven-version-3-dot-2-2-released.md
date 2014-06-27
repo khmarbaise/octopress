@@ -1,12 +1,13 @@
 ---
 layout: post
-title: "Apache Maven Maven Version 3.2.2 Released"
+title: "Apache Maven Version 3.2.2 Released"
 date: 2014-06-26 19:04
 comments: true
 categories: [Maven,News,Maven-Releases]
 ---
 Hi 
-The Apache Maven Team is pleased to announce the release of 3.2.2
+The Apache Maven Team is pleased to announce the release of 
+[Apache Maven Release 3.2.2](http://maven.apache.org/docs/3.2.2/release-notes.html).
 
 The release notes can be found here:
 
@@ -56,3 +57,6 @@ Wishes:
  * {% chjl MNG-2199 %} - Support version ranges in parent elements
  * {% chjl MNG-5346 %} - update maven-plugin-plugin:descriptor default binding from generate-resources phase to process-classes
 
+Enjoy,
+
+-The Apache Maven team
