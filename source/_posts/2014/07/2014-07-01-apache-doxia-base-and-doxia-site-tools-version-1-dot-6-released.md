@@ -36,7 +36,7 @@ Task:
  * {% chjl DOXIA-514 %} - Prepare unittests for JDK8
 
 
-{% chjl Release Notes - Maven Doxia Sitetools - Version 1.6 %}(http://jira.codehaus.org/secure/ReleaseNote.jspa?projectId=11624&styleName=Html&version=19925)
+[Release Notes - Maven Doxia Sitetools - Version 1.6 ](http://jira.codehaus.org/secure/ReleaseNote.jspa?projectId=11624&styleName=Html&version=19925)
 
 Bugs:
 
