@@ -30,9 +30,11 @@ Bugs:
  * {% chjl DOXIA-515 %} - <div> elements in markdown html block content are silently swallowed 
 
 Improvement:
+
  * {% chjl DOXIA-510 %} - create parser.module equivalent to module.site
 
 Task:
+
  * {% chjl DOXIA-514 %} - Prepare unittests for JDK8
 
 
