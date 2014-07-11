@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Apache Maven Site Plugin Version 3.4 Released"
-date: 2014-07-07 21:32
+date: 2014-07-10 21:32
 comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---
