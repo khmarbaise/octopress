@@ -1,5 +1,5 @@
 ---
-layout post
+layout: post
 title: "Mojo SonarQube Maven Plugin Version 2.4 Released"
 date: 2014-07-15 18:38
 comments: true
