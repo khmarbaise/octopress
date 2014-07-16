@@ -33,7 +33,7 @@ To get this update, simply specify the version in your project's plugin configur
 Bugs:
 
  * {% chjl MAPPASM-121 %} - Generated script should be set executable (or allow for a umask to be defined).
- * {% chjl MAPPASM-228] - [Daemon *nix template %} Params of tr command must be quoted
+ * {% chjl MAPPASM-228 %} - [Daemon *nix template %} Params of tr command must be quoted
  * {% chjl MAPPASM-234 %} - Make unix scripts executable, but not world-writable, i.e. 0755 (on unix)
 
 Improvements:
