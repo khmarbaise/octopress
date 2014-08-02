@@ -20,7 +20,7 @@ You should specify the version in your project's plugin configuration:
   <artifactId>maven-pmd-plugin</artifactId>
   <version>3.2</version>
 </plugin>
-``` xml
+```
 
 <!-- more -->
 
