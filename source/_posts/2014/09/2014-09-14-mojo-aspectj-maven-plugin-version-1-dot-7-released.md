@@ -28,16 +28,16 @@ configuration:
 
 Bugs:
 
- * [MASPECTJ-129] - Change name on site to "Mojo's AspectJ Maven Plugin"
- * [MASPECTJ-131] - JDK 8 Support
- * [MASPECTJ-133] - Integration tests JavaSourcesDefault and JavaSourcesList does not work on Windows
- * [MASPECTJ-135] - Some ITs could fail on Windows
- * [MASPECTJ-136] - Misconfigured dependencyResolution in AjcReportMojo
+ * {% chjl MASPECTJ-129 %} - Change name on site to "Mojo's AspectJ Maven Plugin"
+ * {% chjl MASPECTJ-131 %} - JDK 8 Support
+ * {% chjl MASPECTJ-133 %} - Integration tests JavaSourcesDefault and JavaSourcesList does not work on Windows
+ * {% chjl MASPECTJ-135 %} - Some ITs could fail on Windows
+ * {% chjl MASPECTJ-136 %} - Misconfigured dependencyResolution in AjcReportMojo
 
 Improvements:
 
- * [MASPECTJ-132] - Upgrade to AspectJ version 1.8
- * [MASPECTJ-134] - Warnings via <warn> are reported without file name and line number
+ * {% chjl MASPECTJ-132 %} - Upgrade to AspectJ version 1.8
+ * {% chjl MASPECTJ-134 %} - Warnings via <warn> are reported without file name and line number
 
 
 Enjoy,
