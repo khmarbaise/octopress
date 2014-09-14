@@ -20,6 +20,8 @@ Analyzes the dependencies of a project for undeclared or unused artifacts.
 
 <!-- more -->
 
+[Release Notes](http://jira.codehaus.org/secure/ReleaseNote.jspa?projectId=11781&version=19839)
+
 Bugs:
 
  * {% chjl MSHARED-285 %} - Port tests to JUnit 4.11
