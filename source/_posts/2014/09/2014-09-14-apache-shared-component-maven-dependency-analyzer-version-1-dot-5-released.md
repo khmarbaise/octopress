@@ -32,4 +32,5 @@ Bugs:
 Enjoy,
 
 -The Maven team
+
 Karl-Heinz Marbaise
