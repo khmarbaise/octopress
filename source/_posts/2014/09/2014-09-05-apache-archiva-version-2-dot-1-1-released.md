@@ -34,6 +34,8 @@ will be done on first start of Archiva.
 
 Refer to the Upgrading Archiva guide for more information.
 
+<!-- more -->
+
 Release Notes
 
 Bugs:
