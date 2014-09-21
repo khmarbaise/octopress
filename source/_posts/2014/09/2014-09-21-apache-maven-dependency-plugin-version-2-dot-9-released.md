@@ -29,32 +29,32 @@ You should specify the version in your project's plugin configuration:
 
 Bugs:
 
- * [MDEP-424] - Maven Dependency Plugin homepage should link to dependency:list-repositories
- * [MDEP-439] - maven-dependency-plugin not compatible with Java 8
- * [MDEP-445] - dependency plugin fails with >9 threads
- * [MDEP-448] - NullPointerException when classifier sources was chosen
+ * {% chjl MDEP-424 %} - Maven Dependency Plugin homepage should link to dependency:list-repositories
+ * {% chjl MDEP-439 %} - maven-dependency-plugin not compatible with Java 8
+ * {% chjl MDEP-445 %} - dependency plugin fails with >9 threads
+ * {% chjl MDEP-448 %} - NullPointerException when classifier sources was chosen
 
 Improvements:
 
- * [MDEP-443] - dependency tree should be the same when using verbose or not
- * [MDEP-450] - Add goal display-ancestors which will output the line of heritage for parent poms
- * [MDEP-457] - Enhanced documentation for includeArtifactIds and includeGroupIds
- * [MDEP-459] - Update maven-dependency-analyzer to 1.5
- * [MDEP-460] - Removed dependency plexus-container-default:1.0-alpha-9-stable-1
- * [MDEP-461] - Upgrade plexus-archiver to 2.4.4
- * [MDEP-462] - Upgrade to Maven Dependency Tree version 2.3
- * [MDEP-463] - Fix RAT Report
- * [MDEP-464] - Upgrade maven-invoker 2.0.11 to 2.1.1
+ * {% chjl MDEP-443 %} - dependency tree should be the same when using verbose or not
+ * {% chjl MDEP-450 %} - Add goal display-ancestors which will output the line of heritage for parent poms
+ * {% chjl MDEP-457 %} - Enhanced documentation for includeArtifactIds and includeGroupIds
+ * {% chjl MDEP-459 %} - Update maven-dependency-analyzer to 1.5
+ * {% chjl MDEP-460 %} - Removed dependency plexus-container-default:1.0-alpha-9-stable-1
+ * {% chjl MDEP-461 %} - Upgrade plexus-archiver to 2.4.4
+ * {% chjl MDEP-462 %} - Upgrade to Maven Dependency Tree version 2.3
+ * {% chjl MDEP-463 %} - Fix RAT Report
+ * {% chjl MDEP-464 %} - Upgrade maven-invoker 2.0.11 to 2.1.1
 
 New Feature:
 
- * [MDEP-427] - Add user property for addParentPoms option
+ * {% chjl MDEP-427 %} - Add user property for addParentPoms option
 
 Tasks:
 
- * [MDEP-227] - Bump to Doxia 1.1.1
- * [MDEP-452] - Use mock repository manager for ITs
- * [MDEP-453] - Change Maven prerequisite to 2.2.1
+ * {% chjl MDEP-227 %} - Bump to Doxia 1.1.1
+ * {% chjl MDEP-452 %} - Use mock repository manager for ITs
+ * {% chjl MDEP-453 %} - Change Maven prerequisite to 2.2.1
 
 
 Enjoy,
