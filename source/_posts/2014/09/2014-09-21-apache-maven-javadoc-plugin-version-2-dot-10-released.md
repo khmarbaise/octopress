@@ -24,23 +24,23 @@ The Javadoc Plugin uses the Javadoc tool to generate javadocs for the specified 
 
 Bugs:
 
- * [MJAVADOC-351] - Javadoc:fix fixTags parameter doesn't support 'return' value
- * [MJAVADOC-371] - Goals missing from overview page
- * [MJAVADOC-372] - Index page should refer to Apache Maven for at least the first mention
- * [MJAVADOC-386] - Documentation links to oracle web site are broken
- * [MJAVADOC-394] - javadoc is not found properly by default under Oracle's JDK 7+ on Mac OSX
- * [MJAVADOC-398] - Classes from build output directory can cause failure
+ * {% chjl MJAVADOC-351 %} - Javadoc:fix fixTags parameter doesn't support 'return' value
+ * {% chjl MJAVADOC-371 %} - Goals missing from overview page
+ * {% chjl MJAVADOC-372 %} - Index page should refer to Apache Maven for at least the first mention
+ * {% chjl MJAVADOC-386 %} - Documentation links to oracle web site are broken
+ * {% chjl MJAVADOC-394 %} - javadoc is not found properly by default under Oracle's JDK 7+ on Mac OSX
+ * {% chjl MJAVADOC-398 %} - Classes from build output directory can cause failure
 
 Improvements:
 
- * [MJAVADOC-376] - please add property 'maven.javadoc.classifier'
- * [MJAVADOC-380] - Add Maven version used to Created-By entry in manifest
- * [MJAVADOC-395] - Add JDK8 support to maven-javadoc-plugin
- * [MJAVADOC-403] - MavenProject/MavenSession Injection as a parameter instead as a component.
+ * {% chjl MJAVADOC-376 %} - please add property 'maven.javadoc.classifier'
+ * {% chjl MJAVADOC-380 %} - Add Maven version used to Created-By entry in manifest
+ * {% chjl MJAVADOC-395 %} - Add JDK8 support to maven-javadoc-plugin
+ * {% chjl MJAVADOC-403 %} - MavenProject/MavenSession Injection as a parameter instead as a component.
 
 New Feature:
 
- * [MJAVADOC-369] - New goals javadoc-no-fork and test-javadoc-no-fork which will not invoke generate-*-sources
+ * {% chjl MJAVADOC-369 %} - New goals javadoc-no-fork and test-javadoc-no-fork which will not invoke generate-*-sources
 
 
 Enjoy,
