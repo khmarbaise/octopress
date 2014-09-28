@@ -6,7 +6,7 @@ comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Apache-Common]
 ---
 The Apache Maven team is pleased to announce the release of the 
-[Apache Common POM, version 15](http://maven.apache.org/poms/asf).
+[Apache Common POM, version 15](http://maven.apache.org/pom/asf).
 
 This POM (org.apache:apache) configures common Maven settings for
 projects to use ASF infrastructure.
