@@ -24,7 +24,7 @@ plugin configuration:
 
 Changes since previous release:
 
-http://svn.apache.org/viewvc/maven/pom/tags/apache-15/pom.xml?view=markup
+http://svn.apache.org/viewvc/maven/pom/tags/apache-15/pom.xml?r1=HEAD&r2=1575044&diff_format=h
 
 Enjoy,
 
