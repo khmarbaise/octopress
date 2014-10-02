@@ -20,17 +20,20 @@ asdlfjadfkThe Javadoc Plugin uses the Javadoc tool to generate javadocs for the 
 
 <!-- more -->
 
-[Release Notes - Apache Maven Resources Version 2.7]()
+[Release Notes - Apache Maven Resources Version 2.7](http://jira.codehaus.org/secure/ReleaseNote.jspa?projectId=11145&version=18645)
 
-Bugs:
 
- * {% chjl MJAVADOC-406 %} - Regression: MJAVADOC-398 commit changed wrong line
- * {% chjl MJAVADOC-407 %} - Cannot parse annotations when generating javadoc
- * {% chjl MJAVADOC-416 %} - java.lang.ClassCastException: com.sun.tools.javadoc.ClassDocImpl cannot be cast to com.sun.javadoc.AnnotationTypeDoc
+Bug:
 
-Improvement:
+ * {% chjl MRESOURCES-182 %} - Example Custom resource filters incorrect
 
- * {% chjl MJAVADOC-412 %} - Update version of plexus-archiver to 2.5
+Improvements:
+
+ * {% chjl MRESOURCES-177 %} - Use version 1.2 of maven-filtering to use improvements
+ * {% chjl MRESOURCES-180 %} - Documentation does not use correct versions
+ * {% chjl MRESOURCES-181 %} - MavenProject/MavenSession Injection as a paremeter instead as a component.
+ * {% chjl MRESOURCES-183 %} - Upgrade to Maven 2.2.1 compatiblity
+ * {% chjl MRESOURCES-184 %} - Removing plexus-container-default dependency
 
 
 Enjoy,
