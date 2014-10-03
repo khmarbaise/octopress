@@ -7,8 +7,9 @@ categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---
 Dear Maven users,
 
-it is a great honor to announce a new version of the NAR plugin for Maven,
-designed to support cross-platform development using JNI libraries.
+it is a great honor to announce a new version of the [NAR plugin for
+Maven](https://maven-nar.github.io/), designed to support cross-platform
+development using JNI libraries.
 
 As always, this release would not be possible without a thriving developer
 community.  Here is the shortlog:
@@ -28,6 +29,8 @@ community.  Here is the shortlog:
 
 These are the changes since version 3.1.0 (the parenthesized numbers refer
 to pull requests of https://github.com/maven-nar/nar-maven-plugin).
+
+<!-- more -->
 
 Bug fixes:
 
