@@ -27,20 +27,20 @@ a lot of unused code.
 
 Bugs:
 
- * [MSHARED-242] - [shared-utils] improve shared utils featuers and introduce generics where possible
- * [MSHARED-313] - port dotted expression parser fixes from plexus-utils
+ * {% chjl MSHARED-242 %} - \[shared-utils\] improve shared utils featuers and introduce generics where possible
+ * {% chjl MSHARED-313 %} - port dotted expression parser fixes from plexus-utils
 
 Improvement:
 
- * [MSHARED-364] - Use NIO Delete when possibly in deleteFiles
+ * {% chjl MSHARED-364 %} - Use NIO Delete when possibly in deleteFiles
 
 New Feature:
 
- * [MSHARED-330] - add StringUtils.endsWithIgnoreCase()
+ * {% chjl MSHARED-330 %} - add StringUtils.endsWithIgnoreCase()
 
 Wish:
 
- * [MSHARED-257] - extract merge feature from Xpp3Dom
+ * {% chjl MSHARED-257 %} - extract merge feature from Xpp3Dom
 
 Enjoy,
 
