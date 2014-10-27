@@ -3,7 +3,7 @@ layout: post
 title: "Apache Maven Assembly Plugin Version 2.4.1 Released"
 date: 2014-08-03 21:08
 comments: true
-categories: 
+categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---
 The Apache Maven team is pleased to announce the release of the 
 [Apache Maven Assembly Plugin, version 2.4.1](http://maven.apache.org/plugins/maven-assembly-plugin).
