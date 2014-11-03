@@ -35,15 +35,15 @@ configuration:
 
 Bugs:
 
- * [MRPM-91] - Absolute Windows / Cygwin paths do not work anymore since SVN version 11965
- * [MRPM-160] - Build should not fail at install phase when 'disabled' is active and packaging is rpm
+ * {% chjl MRPM-91 %} - Absolute Windows / Cygwin paths do not work anymore since SVN version 11965
+ * {% chjl MRPM-160 %} - Build should not fail at install phase when 'disabled' is active and packaging is rpm
 
 Tasks:
 
- * [MRPM-125] - RPM site: Mailing lists links return 404
- * [MRPM-161] - Remove deprecated configuration in 2.0 versions
- * [MRPM-163] - Pickup mojo-parent-34, remove duplicate configuration, and remove JIRA report
- * [MRPM-164] - Upgrade plexus-utils to 3.0.18, plexus-archive-2.7.1, plexus-interpolation-1.21, and maven-filtering-1.3
+ * {% chjl MRPM-125 %} - RPM site: Mailing lists links return 404
+ * {% chjl MRPM-161 %} - Remove deprecated configuration in 2.0 versions
+ * {% chjl MRPM-163 %} - Pickup mojo-parent-34, remove duplicate configuration, and remove JIRA report
+ * {% chjl MRPM-164 %} - Upgrade plexus-utils to 3.0.18, plexus-archive-2.7.1, plexus-interpolation-1.21, and maven-filtering-1.3
 
 
 Enjoy,
