@@ -42,6 +42,6 @@ Release Notes - Mojo's Animal Sniffer - Version 1.12
 
 New Feature:
 
- * [MANIMALSNIFFER-47] - Allow the maven plugin and enforcer rule to be able to filter the dependencies
+ * {% chjl MANIMALSNIFFER-47 %} - Allow the maven plugin and enforcer rule to be able to filter the dependencies
 
 The Mojo Team.
