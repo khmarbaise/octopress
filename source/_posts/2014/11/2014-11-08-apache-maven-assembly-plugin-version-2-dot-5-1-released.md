@@ -29,24 +29,24 @@ You should specify the version in your project's plugin configuration:
 
 Bugs:
 
- * [MASSEMBLY-357] - transitive dependencies erroneously excluded from dependencySet in some cases
- * [MASSEMBLY-395] - Module dependencies not included
- * [MASSEMBLY-474] - Assembly is duplicating dependecies in the output
- * [MASSEMBLY-533] - Outputidrectory appended by dependencyset include name on filtered=true
- * [MASSEMBLY-554] - DependencySet unpackOptions 'filtered' causes unpack not to work
- * [MASSEMBLY-559] - useTransitiveDependencies leaks from one dependency set to another
- * [MASSEMBLY-571] - moduleSet dependencies processed incorrectly
- * [MASSEMBLY-577] - dependencySet inside moduleSet/binaries picks up dependencies of other dependencySets
- * [MASSEMBLY-579] - Dependency-filename appended as subdirectory of outputDirectory of dependencySet when unpackOptions/filtered = true
- * [MASSEMBLY-582] - Plugin omits transitive runtime dependencies where artifact is present with test-scope in current project
- * [MASSEMBLY-619] - Configurations of different <dependencySet>s influence each other
- * [MASSEMBLY-640] - Artifact data added to path when lineEnding tag set in dependencySet
- * [MASSEMBLY-672] - unpack adds the name of the artifact in case of filtered unpack
- * [MASSEMBLY-691] - dependencySet with filtered option has differents behaviors
- * [MASSEMBLY-701] - class AddDependencySetsTask doesn't re-unpack contents of unpacked SNAPSHOT artifacts
- * [MASSEMBLY-722] - Assembly with filters fails on Version 2.5 with NoSuchElementException and then IOException (This archives
+ * {% chjl MASSEMBLY-357 %} - transitive dependencies erroneously excluded from dependencySet in some cases
+ * {% chjl MASSEMBLY-395 %} - Module dependencies not included
+ * {% chjl MASSEMBLY-474 %} - Assembly is duplicating dependecies in the output
+ * {% chjl MASSEMBLY-533 %} - Outputidrectory appended by dependencyset include name on filtered=true
+ * {% chjl MASSEMBLY-554 %} - DependencySet unpackOptions 'filtered' causes unpack not to work
+ * {% chjl MASSEMBLY-559 %} - useTransitiveDependencies leaks from one dependency set to another
+ * {% chjl MASSEMBLY-571 %} - moduleSet dependencies processed incorrectly
+ * {% chjl MASSEMBLY-577 %} - dependencySet inside moduleSet/binaries picks up dependencies of other dependencySets
+ * {% chjl MASSEMBLY-579 %} - Dependency-filename appended as subdirectory of outputDirectory of dependencySet when unpackOptions/filtered = true
+ * {% chjl MASSEMBLY-582 %} - Plugin omits transitive runtime dependencies where artifact is present with test-scope in current project
+ * {% chjl MASSEMBLY-619 %} - Configurations of different <dependencySet>s influence each other
+ * {% chjl MASSEMBLY-640 %} - Artifact data added to path when lineEnding tag set in dependencySet
+ * {% chjl MASSEMBLY-672 %} - unpack adds the name of the artifact in case of filtered unpack
+ * {% chjl MASSEMBLY-691 %} - dependencySet with filtered option has differents behaviors
+ * {% chjl MASSEMBLY-701 %} - class AddDependencySetsTask doesn't re-unpack contents of unpacked SNAPSHOT artifacts
+ * {% chjl MASSEMBLY-722 %} - Assembly with filters fails on Version 2.5 with NoSuchElementException and then IOException (This archives
 contains unclosed entries) on clean up
- * [MASSEMBLY-727] - Implied dependencysets have incorrect outputfilemapping
+ * {% chjl MASSEMBLY-727 %} - Implied dependencysets have incorrect outputfilemapping
 
 Enjoy,
 
