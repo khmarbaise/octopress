@@ -3,7 +3,7 @@ layout: post
 title: "Apache Maven Clean Plugin Version 2.6.1 Released"
 date: 2014-11-01 13:57
 comments: true
-categories: 
+categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---
 The Apache Maven team is pleased to announce the release of the 
 [Apache Maven Clean Plugin, version 2.6.1](http://maven.apache.org/plugins/maven-clean-plugin/).
