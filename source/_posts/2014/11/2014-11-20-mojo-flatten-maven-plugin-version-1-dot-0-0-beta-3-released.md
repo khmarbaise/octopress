@@ -3,7 +3,7 @@ layout: post
 title: "Mojo flatten-maven-plugin Version 1.0.0-beta-3 Released"
 date: 2014-11-20 22:34
 comments: true
-categories: 
+categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---
 The Mojo team is pleased to announce the release of the 
 [flatten-maven-plugin version 1.0.0-beta-3](http://mojo.codehaus.org/flatten-maven-plugin/).
