@@ -30,23 +30,23 @@ You can use the following Maven coordinates to get the latest version via Maven 
 
 Bug:
 
- * [MAPPASM-238] - wrapperLogFile
+ * {% chjl MAPPASM-238 %} - wrapperLogFile
 
 Improvements:
 
- * [MAPPASM-239] - Update version of plexus-archiver to 2.5
- * [MAPPASM-240] - Update version of plexus-archiver to 2.6.3
- * [MAPPASM-241] - Upgrade plexus-utils to 3.0.20
- * [MAPPASM-242] - Upgrade to plexus-archiver 2.7.1
- * [MAPPASM-243] - Upgrade plexus-interpolation to 1.21
- * [MAPPASM-244] - Upgrade to mojo parent version 34
- * [MAPPASM-246] - Use maven-dependency-plugin version which is defined by the parent.
- * [MAPPASM-247] - Upgrade maven-filtering to 1.3
- * [MAPPASM-248] - Wrapper script fails on Solaris / SunOS 5.2 when the LC_TYPE is set to a non-single byte locale
+ * {% chjl MAPPASM-239 %} - Update version of plexus-archiver to 2.5
+ * {% chjl MAPPASM-240 %} - Update version of plexus-archiver to 2.6.3
+ * {% chjl MAPPASM-241 %} - Upgrade plexus-utils to 3.0.20
+ * {% chjl MAPPASM-242 %} - Upgrade to plexus-archiver 2.7.1
+ * {% chjl MAPPASM-243 %} - Upgrade plexus-interpolation to 1.21
+ * {% chjl MAPPASM-244 %} - Upgrade to mojo parent version 34
+ * {% chjl MAPPASM-246 %} - Use maven-dependency-plugin version which is defined by the parent.
+ * {% chjl MAPPASM-247 %} - Upgrade maven-filtering to 1.3
+ * {% chjl MAPPASM-248 %} - Wrapper script fails on Solaris / SunOS 5.2 when the LC_TYPE is set to a non-single byte locale
 
 Task:
 
- * [MAPPASM-236] - Removing plexus-container-default dependency
+ * {% chjl MAPPASM-236 %} - Removing plexus-container-default dependency
 
 Enjoy,
 
