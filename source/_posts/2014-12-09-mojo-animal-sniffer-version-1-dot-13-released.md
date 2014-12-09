@@ -37,7 +37,8 @@ The artifacts have are available from the Maven Central repository.
 
 Release Notes - Mojo's Animal Sniffer - Version 1.13
 
-** New Feature
- * [MANIMALSNIFFER-48] - Resolve signature version from dependencies / dependencyManagement if unspecified
+New Feature:
+
+ * {% chjl MANIMALSNIFFER-48 %} - Resolve signature version from dependencies / dependencyManagement if unspecified
 
 The Mojo Team
