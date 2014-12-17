@@ -3,7 +3,7 @@ layout: post
 title: "Maven: Configuration For Multipe Environments - II"
 date: 2011-08-11 09:41:32
 tags: Neuigkeiten,Neue Versionen,BM,Maven
-categories: [Neuigkeiten,Neue Versionen,BM,Maven]
+categories: [Maven, News, Maven-Plugins,Maven Best Practise]
 post-type: blog
 ---
 Based on a comment on my 

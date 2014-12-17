@@ -3,7 +3,7 @@ layout: post
 title: "Build Smells - Maven Assembly Plugin"
 date: 2013-09-28 14:00
 comments: true
-categories: [Maven,Build Smells]
+categories: [Maven, News, Maven-Plugins,Maven Best Practise]
 ---
 If you are a software developer (for example in Java) you might have heard about 
 [code smells](http://en.wikipedia.org/wiki/Code_smell) which indicate not really bugs, 
