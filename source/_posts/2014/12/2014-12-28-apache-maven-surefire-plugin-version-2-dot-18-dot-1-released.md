@@ -52,23 +52,23 @@ or for surefire-report:
 
 Bugs:
 
- * [SUREFIRE-859] - Exception in thread "TreadedStreamConsumer" java.lang.RuntimeException during GC
- * [SUREFIRE-1036] - Tests using MockitoJUnitRunner are always run regardless of membership in specified group
- * [SUREFIRE-1112] - Remove uneccessary newlines in console output for test results with no error
- * [SUREFIRE-1114] - NPE in TestSetStats. Concurrency issue with parallel methods on TestNG.
- * [SUREFIRE-1117] - The documentation of re-run parameter should mention limitations with JUnit 4.xprovider
- * [SUREFIRE-1121] - java.lang.NullPointerException org.apache.maven.plugin.surefire.report.DefaultReporterFactory.mergeFromOtherFactories(DefaultReporterFactory.java:82)
- * [SUREFIRE-1122] - When running failsafe with -Dfailsafe.rerunFailingTestsCount and parallel all, the reports are not
+ * {% chjl SUREFIRE-859 %} - Exception in thread "TreadedStreamConsumer" java.lang.RuntimeException during GC
+ * {% chjl SUREFIRE-1036 %} - Tests using MockitoJUnitRunner are always run regardless of membership in specified group
+ * {% chjl SUREFIRE-1112 %} - Remove uneccessary newlines in console output for test results with no error
+ * {% chjl SUREFIRE-1114 %} - NPE in TestSetStats. Concurrency issue with parallel methods on TestNG.
+ * {% chjl SUREFIRE-1117 %} - The documentation of re-run parameter should mention limitations with JUnit 4.xprovider
+ * {% chjl SUREFIRE-1121 %} - java.lang.NullPointerException org.apache.maven.plugin.surefire.report.DefaultReporterFactory.mergeFromOtherFactories(DefaultReporterFactory.java:82)
+ * {% chjl SUREFIRE-1122 %} - When running failsafe with -Dfailsafe.rerunFailingTestsCount and parallel all, the reports are not
 generated correctly
 
 Improvements:
 
- * [SUREFIRE-987] - Provide user property for suiteXmlFile so that it can be passed from Maven Command line
- * [SUREFIRE-995] - Support searching superclass for JUnit @Category
- * [SUREFIRE-1109] - runOrder should have a user property
- * [SUREFIRE-1110] - Document the memory requirements to run unit- and integration tests for a release test
- * [SUREFIRE-1116] - Parallel Computer should use ConsoleLogger interface
- * [SUREFIRE-1120] - Improved warning message "File encoding has not been set, ..."
+ * {% chjl SUREFIRE-987 %} - Provide user property for suiteXmlFile so that it can be passed from Maven Command line
+ * {% chjl SUREFIRE-995 %} - Support searching superclass for JUnit @Category
+ * {% chjl SUREFIRE-1109 %} - runOrder should have a user property
+ * {% chjl SUREFIRE-1110 %} - Document the memory requirements to run unit- and integration tests for a release test
+ * {% chjl SUREFIRE-1116 %} - Parallel Computer should use ConsoleLogger interface
+ * {% chjl SUREFIRE-1120 %} - Improved warning message "File encoding has not been set, ..."
 
 Enjoy,
 
