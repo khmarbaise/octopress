@@ -22,6 +22,8 @@ You should specify the version in your project's plugin configuration:
 </plugin>
 ```
 
+<!-- more -->
+
 [Release Notes - Maven WAR Plugin - Version 2.6](http://jira.codehaus.org/secure/ReleaseNote.jspa?projectId=11132&version=20436)
 
 Bugs:
