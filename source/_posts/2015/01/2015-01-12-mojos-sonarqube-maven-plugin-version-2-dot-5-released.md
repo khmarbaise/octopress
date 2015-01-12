@@ -29,17 +29,17 @@ To get this update, simply specify the version in your project's plugin configur
 
 Bug:
 
- * [MSONAR-87] - Maven encryption conflict with SonarQube encryption
+ * {% chjl MSONAR-87 %} - Maven encryption conflict with SonarQube encryption
 
 Improvements:
 
- * [MSONAR-91] - sonar.skip in multi modules project
- * [MSONAR-104] - Avoid nested source folders
+ * {% chjl MSONAR-91 %} - sonar.skip in multi modules project
+ * {% chjl MSONAR-104 %} - Avoid nested source folders
 
 Tasks:
 
- * [MSONAR-93] - Provide project dependencies for SonarQube 5.0
- * [MSONAR-103] - Use new Java specific properties to specify classpath
+ * {% chjl MSONAR-93 %} - Provide project dependencies for SonarQube 5.0
+ * {% chjl MSONAR-103 %} - Use new Java specific properties to specify classpath
 
 Enjoy,
 
