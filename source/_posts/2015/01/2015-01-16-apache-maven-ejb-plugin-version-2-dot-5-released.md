@@ -23,6 +23,8 @@ You should specify the version in your project's plugin configuration:
 </plugin>
 ```
 
+<!-- more -->
+
 [Release Notes - Maven EJB Plugin - Version 2.5](http://jira.codehaus.org/secure/ReleaseNote.jspa?projectId=11134&version=20572)
 
 
