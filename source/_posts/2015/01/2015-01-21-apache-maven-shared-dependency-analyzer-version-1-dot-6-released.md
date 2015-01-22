@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Apache Maven Shared Dependeny Analyzer Version 1.6 Released"
+title: "Apache Maven Shared Dependency Analyzer Version 1.6 Released"
 date: 2015-01-21 21:09
 comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Shared]
