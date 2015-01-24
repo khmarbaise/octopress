@@ -29,7 +29,7 @@ configuration:
   <version>2.1.2</version>
 </plugin>
 ```
-
+<!-- more -->
 
 [Release Notes RPM Maven Plugin Version 2.1.2](https://jira.codehaus.org/secure/ReleaseNote.jspa?projectId=11970&version=20824)
 
