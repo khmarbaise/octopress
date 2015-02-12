@@ -22,6 +22,7 @@ plugin configuration:
   <version>1.0-beta-1</version>
 </plugin>
 ```
+<!-- more -->
 
 [Release Notes](http://jira.codehaus.org/secure/ReleaseNote.jspa?projectId=11062&version=19322)
 
