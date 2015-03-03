@@ -33,6 +33,8 @@ The following tools are provided by animal sniffer:
 
 The artifacts have are available from the Maven Central repository.
 
+<!-- more -->
+
 [Release Notes - Mojo's Animal Sniffer - Version 1.14](http://jira.codehaus.org/secure/ReleaseNote.jspa?projectId=12070&version=20742)
 
 Bugs:
