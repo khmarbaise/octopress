@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Mojo Cobertura Maven Plugin 2.7 Released"
+title: "Mojo Cobertura Maven Plugin Version 2.7 Released"
 date: 2015-03-03 21:19
 comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---
 The Mojo team is pleased to announce the release of the 
-[Cobertura Maven Plugin version 2.7](http://mojo.codehaus.org/cobertura-maven-plugin/).
+[Cobertura Maven Plugin Version 2.7](http://mojo.codehaus.org/cobertura-maven-plugin/).
 
 This plugin provides the features of Cobertura within the Maven 2 & 3
 environment.
