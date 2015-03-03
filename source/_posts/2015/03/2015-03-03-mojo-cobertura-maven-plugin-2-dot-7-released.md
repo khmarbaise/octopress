@@ -20,7 +20,7 @@ plugin configuration:
   <artifactId>cobertura-maven-plugin</artifactId>
   <version>2.7</version>
 </plugin>
-``` xml
+```
 
 <!-- more -->
 
