@@ -20,6 +20,8 @@ central repository.
 </plugin>
 ```
 
+<!-- more -->
+
 [Release Notes - Maven Stage Plugin - Version 1.0](http://jira.codehaus.org/secure/ReleaseNote.jspa?projectId=11695&version=14343)
 
 Bugs:
