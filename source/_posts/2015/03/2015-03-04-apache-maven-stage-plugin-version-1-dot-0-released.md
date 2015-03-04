@@ -12,28 +12,30 @@ This plugin is used to create bundles of artifacts that can be uploaded to the
 central repository.
 
 
+``` xml
 <plugin>
   <groupId>org.apache.maven.plugins</groupId>
   <artifactId>maven-stage-plugin</artifactId>
   <version>1.0</version>
 </plugin>
+```
 
-Release Notes - Maven Stage Plugin - Version 1.0
+[Release Notes - Maven Stage Plugin - Version 1.0](http://jira.codehaus.org/secure/ReleaseNote.jspa?projectId=11695&version=14343)
 
 Bugs:
 
- * [MSTAGE-7] - Unable to use archiva as http source with maven-stage-plugin
- * [MSTAGE-9] - Stage plugin fails with ClassCastException
- * [MSTAGE-16] - Stage plugin doesn't work with maven3
+ * {% chjl MSTAGE-7 %} - Unable to use archiva as http source with maven-stage-plugin
+ * {% chjl MSTAGE-9 %} - Stage plugin fails with ClassCastException
+ * {% chjl MSTAGE-16 %} - Stage plugin doesn't work with maven3
 
 Improvement:
 
- * [MSTAGE-18] - Fix RAT Report
+ * {% chjl MSTAGE-18 %} - Fix RAT Report
 
 Tasks:
 
- * [MSTAGE-15] - use maven-plugin-tools' java 5 annotations
- * [MSTAGE-19] - Upgrade maven-wagon to 2.8
+ * {% chjl MSTAGE-15 %} - use maven-plugin-tools' java 5 annotations
+ * {% chjl MSTAGE-19 %} - Upgrade maven-wagon to 2.8
 
 Enjoy,
 
