@@ -33,7 +33,7 @@ Let us take a deeper look into the new features/improvements:
    which contains the extension and put it manually into the `${MAVEN_HOME}/lib/ext` folder. 
    This means you had to change the Maven installation. The consequence was that everyone who likes 
    to use this needed to change it's installation and makes the on-boarding for a developer much 
-   more invoncenient. The other option was to give the path to the jar on command line via 
+   more inconvenient. The other option was to give the path to the jar on command line via 
    `mvn -Dmaven.ext.class.path=extension.jar`. This has the drawback giving those
    options to your Maven build every time you are calling Maven. Not very convenient as well.
  
