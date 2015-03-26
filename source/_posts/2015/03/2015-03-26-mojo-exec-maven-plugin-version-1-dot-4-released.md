@@ -26,18 +26,18 @@ plugin configuration:
 
 Release Notes
 
-* Bug:
+Bug:
 
  * {% chjl MEXEC-150 %} - Plugin warns that "killAfter is now deprecated" for no obvious reason
 
-* Improvements:
+Improvements:
 
  * {% chjl MEXEC-143 %} - Rename skip property to exec.skip
  * {% chjl MEXEC-147 %} - Update of mojo parent to version 34
  * {% chjl MEXEC-148 %} - Upgrade plexus-utils to 3.0.20
  * {% chjl MEXEC-149 %} - Upgrade plexus-interpolation to 1.21
 
-* Tasks:
+Tasks:
 
  * {% chjl MEXEC-127 %} - Remove added parameters after commons-exec is fixed
  * {% chjl MEXEC-152 %} - Update to commons-exec:1.3

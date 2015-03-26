@@ -46,13 +46,13 @@ this:
 
 [Release Notes - Maven Shared Components - Version maven-invoker-2.2](http://jira.codehaus.org/secure/ReleaseNote.jspa?projectId=11761&version=18970)
 
-* Bugs:
+Bugs:
 
  * {% chjl MSHARED-261 %} - DefaultInvoker does not set M2_HOME
  * {% chjl MSHARED-278 %} - NullPointerException in MavenCommandLineBuilder
  * {% chjl MSHARED-411 %} - maven-invoker - addShellEnvironment forgets variable settings on successive calls
 
-* Improvements:
+Improvements:
 
  * {% chjl MSHARED-358 %} - Update version of plexus-utils to 3.0.15
  * {% chjl MSHARED-371 %} - Increase chance of java8 compliance by updating to plexus-component-* 1.6
