@@ -22,6 +22,8 @@ plugin configuration:
 </plugin>
 ```
 
+<!-- more -->
+
 Release Notes
 
 * Bug:

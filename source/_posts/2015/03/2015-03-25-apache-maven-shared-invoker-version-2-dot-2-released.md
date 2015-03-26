@@ -42,21 +42,23 @@ this:
 </plugin>
 ```
 
+<!-- more -->
+
 [Release Notes - Maven Shared Components - Version maven-invoker-2.2](http://jira.codehaus.org/secure/ReleaseNote.jspa?projectId=11761&version=18970)
 
 * Bugs:
 
- * [MSHARED-261] - DefaultInvoker does not set M2_HOME
- * [MSHARED-278] - NullPointerException in MavenCommandLineBuilder
- * [MSHARED-411] - maven-invoker - addShellEnvironment forgets variable settings on successive calls
+ * {% chjl MSHARED-261 %} - DefaultInvoker does not set M2_HOME
+ * {% chjl MSHARED-278 %} - NullPointerException in MavenCommandLineBuilder
+ * {% chjl MSHARED-411 %} - maven-invoker - addShellEnvironment forgets variable settings on successive calls
 
 * Improvements:
 
- * [MSHARED-358] - Update version of plexus-utils to 3.0.15
- * [MSHARED-371] - Increase chance of java8 compliance by updating to plexus-component-* 1.6
- * [MSHARED-379] - Upgrade plexus-utils to 3.0.20
- * [MSHARED-413] - Invoker fails on Windows since Maven-3.3.x
- * [MSHARED-414] - Upgrade to JUnit4
+ * {% chjl MSHARED-358 %} - Update version of plexus-utils to 3.0.15
+ * {% chjl MSHARED-371 %} - Increase chance of java8 compliance by updating to plexus-component-* 1.6
+ * {% chjl MSHARED-379 %} - Upgrade plexus-utils to 3.0.20
+ * {% chjl MSHARED-413 %} - Invoker fails on Windows since Maven-3.3.x
+ * {% chjl MSHARED-414 %} - Upgrade to JUnit4
 
 Enjoy,
 
