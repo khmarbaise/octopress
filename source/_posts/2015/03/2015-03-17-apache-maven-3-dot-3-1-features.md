@@ -63,6 +63,10 @@ Let us take a deeper look into the new features/improvements:
    your project. So everyone who checks out your project automatically
    can use the extensions.
 
+   One thing is important that the extensions will be resolved from the
+   pluginRepository. This is important if you have configured the pluginRepository
+   different from the repository.
+
  * [Project specific jvm and command line otions][MNG-5767]
 
    It's really hard to define a general set of options for calling the maven
