@@ -73,12 +73,12 @@ you will prevent anyone from using an earlier version of Maven
 than 3.3.1. This solutions will also prevent Maven 2.2.1 from trying to 
 start building such a project.
 
-A good practices is also to define such enforcer rule into the company
-parent to define the minimum Maven versions you would like to support
-with your builds.
+A best practice is to define such enforcer rule into the company parent
+pom to define the minimum Maven versions you would like to support with
+your builds.
 
-The conculusion is to to use only the [maven-enforcer-plugin][7] rule
-to define the minimum maven version to build with.
+The conculusion is to use the [maven-enforcer-plugin][7] rule
+only to define the minimum maven version to build with.
 
 [1]: http://blog.soebes.de/blog/2015/03/17/apache-maven-3-dot-3-1-features/
 [2]: http://maven.apache.org/pom.html#Prerequisites
