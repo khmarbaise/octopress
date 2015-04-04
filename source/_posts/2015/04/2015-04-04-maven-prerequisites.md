@@ -69,6 +69,7 @@ By using the following in your pom file:
   </plugins>
 </build>
 ```
+
 you will prevent anyone from using an earlier version of Maven 
 than 3.3.1. This solutions will also prevent Maven 2.2.1 from trying to 
 start building such a project.
