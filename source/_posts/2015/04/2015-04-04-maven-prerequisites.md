@@ -36,7 +36,7 @@ a long time (starting with Maven 3.0 [MNG-4840][3], [MNG-5297][4],
 plugins running with the wrong Maven versions. I supose you are not
 writing a plugin but you would like to prevent people from trying to
 build your project with the wrong Maven version which might fail or
-weird results. So the real questions comes up. What to do?
+produces weird results. So the real questions comes up. What to do?
 
 The simple solution for this problem is the [maven-enforcer-plugin][6].
 By using the following in your pom file:
