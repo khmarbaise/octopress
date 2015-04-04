@@ -77,7 +77,7 @@ A best practice is to define such enforcer rule into the company parent
 pom to define the minimum Maven versions you would like to support with
 your builds.
 
-The conculusion is to use the [maven-enforcer-plugin][7] rule
+The conclusion is to use the [maven-enforcer-plugin][7] rule
 only to define the minimum maven version to build with.
 
 [1]: http://blog.soebes.de/blog/2015/03/17/apache-maven-3-dot-3-1-features/
