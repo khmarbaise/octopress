@@ -11,10 +11,21 @@ The Apache Maven team is pleased to announce the release of the
 This plugin checks that a project complies with the Plugin Documentation
 Standard.
 
+You should specify the version in your project's plugin configuration:
+
+``` xml
+<plugin>
+  <groupId>org.apache.maven.plugins</groupId>
+  <artifactId>maven-docck-plugin</artifactId>
+  <version>1.1</version>
+</plugin>
+```
 
 Please be aware of the [new location of our issue
 tracker](https://issues.apache.org/jira/browse/MDOCCK).  which has been moved
 from Codehaus to Apache Software Foundation
+
+<!-- more -->
 
 [Release Notes - Apache Maven DOCCK Plugin - Version 1.1](https://issues.apache.org/jira/secure/ReleaseNote.jspa?projectId=12317229&version=12330481)
 
