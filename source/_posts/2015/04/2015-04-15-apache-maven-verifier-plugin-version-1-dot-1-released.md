@@ -27,16 +27,16 @@ which has been moved from Codehaus to [Apache Software Foundation](https://issue
 
 Improvements:
 
- * [MVERIFIER-15] - Upgrade to Maven 2.2.1 compatiblity
- * [MVERIFIER-16] - Change execution of goals cause currently the integration tests running twice
+ * {% ajl MVERIFIER-15 %} - Upgrade to Maven 2.2.1 compatiblity
+ * {% ajl MVERIFIER-16 %} - Change execution of goals cause currently the integration tests running twice
 
 New Feature:
 
- * [MVERIFIER-10] - Print the absolute path to the input file when verification fails
+ * {% ajl MVERIFIER-10 %} - Print the absolute path to the input file when verification fails
 
 Task:
 
- * [MVERIFIER-13] - use maven-plugin-tools' java 5 annotations
+ * {% ajl MVERIFIER-13 %} - use maven-plugin-tools' java 5 annotations
 
 
 Enjoy,
