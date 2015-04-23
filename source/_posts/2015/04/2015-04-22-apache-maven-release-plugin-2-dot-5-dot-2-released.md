@@ -8,13 +8,9 @@ categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 The Apache Maven team is pleased to announce the release of the 
 [Apache Maven Release Plugin, version 2.5.2](http://maven.apache.org/plugins/maven-release-plugin/).
 
-The Invoker Plugin is used to run a set of Maven projects. The plugin can
-determine whether each project execution is successful, and optionally can
-verify the output generated from a given project execution.
-
-This plugin is in particular handy to perform integration tests for other Maven
-plugins. The Invoker Plugin can be employed to run a set of test projects that
-have been designed to assert certain features of the plugin under test.
+This plugin is used to release a project with Maven, saving a lot of
+repetitive, manual work. Releasing a project is made in two steps: prepare and
+perform.
 
 You should specify the version in your project's plugin configuration:
 
