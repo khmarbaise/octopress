@@ -31,18 +31,18 @@ You should specify the version in your project's plugin configuration:
 
 Bugs:
 
- * [MASSEMBLY-742] - Unclosed ZipFile warnings when ZIP archives are included
- * [MASSEMBLY-746] - Warnings about platform dependent paths inconsistent.
- * [MASSEMBLY-747] - StackOverflowError when building assembly
- * [MASSEMBLY-748] - problem to extract zip files including file names with umlauts
- * [MASSEMBLY-750] - descriptor in "dir" format changes symbolic links in non symlink files
- * [MASSEMBLY-753] - LineEnding CR to LF conversion output is wrong : All EOL are removed
- * [MASSEMBLY-754] - Non existing folder produces NPE
- * [MASSEMBLY-755] - missing whitespace in log message
+ * {% ajl MASSEMBLY-742 %} - Unclosed ZipFile warnings when ZIP archives are included
+ * {% ajl MASSEMBLY-746 %} - Warnings about platform dependent paths inconsistent.
+ * {% ajl MASSEMBLY-747 %} - StackOverflowError when building assembly
+ * {% ajl MASSEMBLY-748 %} - problem to extract zip files including file names with umlauts
+ * {% ajl MASSEMBLY-750 %} - descriptor in "dir" format changes symbolic links in non symlink files
+ * {% ajl MASSEMBLY-753 %} - LineEnding CR to LF conversion output is wrong : All EOL are removed
+ * {% ajl MASSEMBLY-754 %} - Non existing folder produces NPE
+ * {% ajl MASSEMBLY-755 %} - missing whitespace in log message
 
 Improvement:
 
- * [MASSEMBLY-764] - Upgrade to plexus-archiver 2.10 and io 2.5
+ * {% ajl MASSEMBLY-764 %} - Upgrade to plexus-archiver 2.10 and io 2.5
 
 Enjoy,
 
