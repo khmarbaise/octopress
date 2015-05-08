@@ -19,7 +19,7 @@ which has been moved from Codehaus to Apache Software Foundation
   <groupId>org.apache.maven.skins</groupId>
   <artifactId>maven-fluido-skin</artifactId>
   <version>1.4</version>
-</plugin>
+</skin>
 ```
 
 <!-- more -->
