@@ -29,25 +29,25 @@ which has been moved from Codehaus to Apache Software Foundation
 
 Bugs:
 
- * [MSKINS-81] - Decoration model body/footer not correctly implemented by site.vm
- * [MSKINS-86] - class prettyprint not added to pre tags
- * [MSKINS-92] - Facebook Like iframe too narrow when in topbar
- * [MSKINS-93] - Wrong file extension for 'apache-maven-project-2.png'
+ * {% ajl MSKINS-81 %} - Decoration model body/footer not correctly implemented by site.vm
+ * {% ajl MSKINS-86 %} - class prettyprint not added to pre tags
+ * {% ajl MSKINS-92 %} - Facebook Like iframe too narrow when in topbar
+ * {% ajl MSKINS-93 %} - Wrong file extension for 'apache-maven-project-2.png'
 
 Improvements:
 
- * [MSKINS-91] - Should use as possible https resources
- * [MSKINS-110] - Changed size of left navigation bar
+ * {% ajl MSKINS-91 %} - Should use as possible https resources
+ * {% ajl MSKINS-110 %} - Changed size of left navigation bar
 
 New Feature:
 
- * [MSKINS-90] - Upgrade Jquery to 1.10.2
+ * {% ajl MSKINS-90 %} - Upgrade Jquery to 1.10.2
 
 Tasks:
 
- * [MSKINS-74] - Upgrade jQuery to v1.9.1
- * [MSKINS-96] - Downgrade to Bootstrap 2.3.x
- * [MSKINS-99] - Upgrade jQuery to 1.11.2
+ * {% ajl MSKINS-74 %} - Upgrade jQuery to v1.9.1
+ * {% ajl MSKINS-96 %} - Downgrade to Bootstrap 2.3.x
+ * {% ajl MSKINS-99 %} - Upgrade jQuery to 1.11.2
 
 Enjoy,
 
