@@ -17,6 +17,8 @@ The Android Maven Plugin team is pleased to announce the release of
 </plugin>
 ```
 
+<!-- more -->
+
 New features/bug fixes for the specific release are
 
 - Fixed processing of duplicate resources from dependencies
