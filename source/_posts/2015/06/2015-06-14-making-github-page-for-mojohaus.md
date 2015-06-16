@@ -165,7 +165,7 @@ branch is used for that.
 So now it is easy to deploy the site to GitHub simply by using the following:
 
 ```
-$ mvn clean site site:stage scm-publish:publish-sc
+$ mvn clean site site:stage scm-publish:publish-scm
 ```
 
 If you have a multi-module project you have to separate the steps a little bit like this:
