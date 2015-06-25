@@ -6,7 +6,7 @@ comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Shared]
 ---
 The Apache Maven team is pleased to announce the release of the 
-[Apache Maven Verifier Shared Component, version 1.6.](https://maven.apache.org/shared/maven-shared-utils/).
+[Apache Maven Verifier Shared Component, version 1.6.](http://maven.apache.org/shared/maven-verifier/)
 
 You should specify the version in your project's dependencies configuration:
 
