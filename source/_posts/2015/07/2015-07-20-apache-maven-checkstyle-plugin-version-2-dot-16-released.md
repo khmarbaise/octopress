@@ -18,10 +18,11 @@ You should specify the version in your project's plugin configuration:
   <artifactId>maven-checkstyle-plugin</artifactId>
   <version>2.16</version>
 </plugin>
-``` xml
+``` 
 
+<!-- more -->
 
-Release Notes - Apache Maven Checkstyle Plugin - Version 2.16
+[Release Notes - Apache Maven Checkstyle Plugin - Version 2.16](https://issues.apache.org/jira/secure/ReleaseNote.jspa?projectId=12317223&version=12330406)
 
 Bugs:
 
