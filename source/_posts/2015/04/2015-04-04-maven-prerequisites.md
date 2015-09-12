@@ -8,7 +8,7 @@ categories: [Maven,Maven Best Practise]
 Starting with [Maven 3.3.1][1] it is possible to define several
 important configuration elements within your project. For example JVM
 parameters or some kind of build extensions. Unfortunately using such
-things may result is wrong or failing builds cause thos informations are
+things may result is wrong or failing builds cause those informations are
 not read by older Maven versions. How can you prevent such situations?
 
 For a long time the [prerequisites][2] exists which defines the minimum
