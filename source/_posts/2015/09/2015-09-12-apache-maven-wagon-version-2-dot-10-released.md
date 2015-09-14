@@ -15,8 +15,8 @@ artifact and repository handling code.
 
 Bugs:
 
- * [WAGON-413] - Private Key authentication is no longer working with wagon-ssh-2.6
- * [WAGON-440] - wagon-ssh not able to handle JSch interactive mode
+ * {% ajl WAGON-413 %} - Private Key authentication is no longer working with wagon-ssh-2.6
+ * {% ajl WAGON-440 %} - wagon-ssh not able to handle JSch interactive mode
 
 Have fun
 
