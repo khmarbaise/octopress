@@ -19,7 +19,7 @@ people who are still using Maven 2 where strongly recommended to migrate to
 Maven 3. Furthermore there had been serveral interesting chats afterwards about
 the usage of Maven etc. and best practices.
 
-![So here are the slides of my talk as a PDF file.](/downloads/files/Maven3AndBeyond.pdf)
+[So here are the slides of my talk as a PDF file.](/downloads/files/Maven3AndBeyond.pdf)
 
 [bedcon]: http://bed-con.org/
 [1]: http://bed-con.org/2015/talks/Maven-3-and-Beyond
