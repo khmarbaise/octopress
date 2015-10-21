@@ -34,12 +34,12 @@ Important Notes:
 
 Improvements:
 
- * [MSHARED-380] - Fix Checkstyle reported errors/warnings
- * [MSHARED-387] - Upgrade plexus-archiver from 2.8.1 to 2.9
- * [MSHARED-438] - Use Maven 3.0 Dependencies
- * [MSHARED-445] - Upgrade maven-shared-utils 3.0.0
- * [MSHARED-446] - Upgrade version to 3.0.0-SNAPSHOT
- * [MSHARED-447] - Use fluido skin 1.4
+ * {% ajl MSHARED-380 %} - Fix Checkstyle reported errors/warnings
+ * {% ajl MSHARED-387 %} - Upgrade plexus-archiver from 2.8.1 to 2.9
+ * {% ajl MSHARED-438 %} - Use Maven 3.0 Dependencies
+ * {% ajl MSHARED-445 %} - Upgrade maven-shared-utils 3.0.0
+ * {% ajl MSHARED-446 %} - Upgrade version to 3.0.0-SNAPSHOT
+ * {% ajl MSHARED-447 %} - Use fluido skin 1.4
 
 Enjoy,
 
