@@ -26,6 +26,8 @@ You should specify the version in your project's plugin configuration:
 </plugin>
 ```
 
+<!-- more -->
+
 [Release Notes - Maven Clean Plugin - Version 3.0.0](http://jira.codehaus.org/secure/ReleaseNote.jspa?projectId=11128&version=20685)
 
 Improvements:
