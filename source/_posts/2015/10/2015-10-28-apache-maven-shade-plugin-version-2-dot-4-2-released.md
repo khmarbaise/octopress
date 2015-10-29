@@ -32,7 +32,7 @@ Bugs:
 
  * {% ajl MSHADE-172 %} -  "java.lang.ArithmeticException: / by zero" in MinijarFilter
  * {% ajl MSHADE-190 %} -  Shade does not relocate the contents of META-INF/services files
- * {% ajl MSHADE-209 %} -  [REGRESSION] "java.lang.ArithmeticException: / by zero" in MinijarFilter (reported Jon McLean).
+ * {% ajl MSHADE-209 %} -  [REGRESSION] "java.lang.ArithmeticException: / by zero" in MinijarFilter (reporter Jon McLean).
 
 Improvements:
 
