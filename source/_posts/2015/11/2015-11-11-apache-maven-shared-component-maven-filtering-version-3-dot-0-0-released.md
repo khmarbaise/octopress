@@ -12,6 +12,7 @@ The goal is to provide a shared component for all plugins that needs to filter
 resources.
 
 Important Notes:
+
  * Maven 3.X only
  * JDK 6 minimum requirement
 
