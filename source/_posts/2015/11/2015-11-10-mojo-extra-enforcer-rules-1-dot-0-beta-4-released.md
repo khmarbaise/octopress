@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mojo Extra Enforcer Rules 1.0-beta-4 Released"
+title: "MojoHaus Extra Enforcer Rules 1.0-beta-4 Released"
 date: 2015-11-10 21:50:00
 comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
