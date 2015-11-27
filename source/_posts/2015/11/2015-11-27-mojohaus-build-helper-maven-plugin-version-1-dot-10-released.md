@@ -3,7 +3,7 @@ layout: post
 title: "MojoHaus Build Helper Maven Plugin Version 1.10 Released"
 date: 2015-11-27 14:36
 comments: true
-categories: 
+categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---
 The MojoHaus team is pleased to announce the release of the 
 [Build Helper Maven Plugin Version 1.10](http://www.mojohaus.org/build-helper-maven-plugin/).
