@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Apache Maven Shared Component: Maven Common Artifact Filters 3.0.0 Released"
-date: 2015-11-20 17:40
+date: 2015-12-02 08:00:00
 comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Shared]
 ---
