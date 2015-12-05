@@ -22,14 +22,14 @@ You should specify the version in your project's plugin configuration:
 
 <!-- more -->
 
-[Release Notes - Apache Maven GPG Plugin - Version 1.6](http://jira.codehaus.org/secure/ReleaseNote.jspa?projectId=11431&version=20125)
+[Release Notes - Apache Maven GPG Plugin - Version 1.6](https://issues.apache.org/jira/secure/ReleaseNote.jspa?projectId=12317521&version=12330780)
 
 Improvements:
 
- * {% chjl MGPG-52 %} Upgrade to maven-plugins parent version 27
- * {% chjl MGPG-51 %} Make Plugin only 2.2.1 compatible - get rid of Maven 2.0
- * {% chjl MGPG-50 %} MavenProject/MavenSession Injection as a paremeter instead as a component.
- * {% chjl MGPG-31 %} Integrate w/ Maven password encryption to avoid need to type passphrase
+ * {% ajl MGPG-52 %} Upgrade to maven-plugins parent version 27
+ * {% ajl MGPG-51 %} Make Plugin only 2.2.1 compatible - get rid of Maven 2.0
+ * {% ajl MGPG-50 %} MavenProject/MavenSession Injection as a paremeter instead as a component.
+ * {% ajl MGPG-31 %} Integrate w/ Maven password encryption to avoid need to type passphrase
 
 
 Enjoy,

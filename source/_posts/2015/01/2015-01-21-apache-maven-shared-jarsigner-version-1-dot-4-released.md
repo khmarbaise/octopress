@@ -22,14 +22,14 @@ You should specify the version in your project's plugin configuration:
 
 <!-- more -->
 
-[Release Notes - Maven JarSigner Version 1.4](http://jira.codehaus.org/secure/ReleaseNote.jspa?projectId=11761&version=19864)
+[Release Notes - Maven JarSigner Version 1.4](https://issues.apache.org/jira/secure/ReleaseNote.jspa?projectId=12317528&version=12330855)
 
 Improvements:
 
- * {% chjl MSHARED-371 %} - Increase chance of java8 compliance by updating to plexus-component-* 1.6
- * {% chjl MSHARED-395 %} - Upgrade to Maven 2.2.1 compatiblity
- * {% chjl MSHARED-397 %} - Upgrade maven-shared-utils to 0.7
- * {% chjl MSHARED-398 %} - Removed dependency plexus-container-default:1.0-alpha-9-stable-1
+ * {% ajl MSHARED-371 %} - Increase chance of java8 compliance by updating to plexus-component-* 1.6
+ * {% ajl MSHARED-395 %} - Upgrade to Maven 2.2.1 compatiblity
+ * {% ajl MSHARED-397 %} - Upgrade maven-shared-utils to 0.7
+ * {% ajl MSHARED-398 %} - Removed dependency plexus-container-default:1.0-alpha-9-stable-1
 
 Enjoy,
 

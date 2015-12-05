@@ -22,17 +22,17 @@ You should specify the version in your project's dependency list:
 
 <!-- more -->
 
-[Release Notes - Maven Dependency Analzyer Version 1.6](http://jira.codehaus.org/secure/ReleaseNote.jspa?projectId=11761&version=20721).
+[Release Notes - Maven Dependency Analzyer Version 1.6](https://issues.apache.org/jira/secure/ReleaseNote.jspa?projectId=12317922&version=12331495).
 
 
 Bugs:
 
- * {% chjl MSHARED-361 %} - DefaultProjectDependencyAnalyzer.buildArtifactClassMap assumes dependencies are jar files (regression)
- * {% chjl MSHARED-382 %} - JarFile object is not being closed
+ * {% ajl MSHARED-361 %} - DefaultProjectDependencyAnalyzer.buildArtifactClassMap assumes dependencies are jar files (regression)
+ * {% ajl MSHARED-382 %} - JarFile object is not being closed
 
 Improvement:
 
- * {% chjl MSHARED-371 %} - Increase chance of java8 compliance by updating to plexus-component-* 1.6
+ * {% ajl MSHARED-371 %} - Increase chance of java8 compliance by updating to plexus-component-* 1.6
 
 
 Enjoy,

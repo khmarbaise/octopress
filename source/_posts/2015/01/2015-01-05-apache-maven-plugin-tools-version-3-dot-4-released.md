@@ -25,31 +25,31 @@ You should specify the version in your project's plugin configuration:
 
 <!-- more -->
 
-[Release Notes - Maven Plugin Tools - Version 3.4](http://jira.codehaus.org/secure/ReleaseNote.jspa?projectId=11139&version=20381)
+[Release Notes - Maven Plugin Tools - Version 3.4](https://issues.apache.org/jira/secure/ReleaseNote.jspa?projectId=12317820&version=12331168)
 
 Bugs:
 
- * {% chjl MPLUGIN-238 %} - HelpMojo phases fails when using java-annotations
- * {% chjl MPLUGIN-266 %} - Incorrect warning comment about deprecated @component usage for maven objects
- * {% chjl MPLUGIN-270 %} - Deprecation of classical Maven objects as components is broken when using Javadoc tags
- * {% chjl MPLUGIN-272 %} - Descriptor goal fail with java 8 and interface with default method: upgrade QDox
- * {% chjl MPLUGIN-274 %} - generated HelpMojo source contains tabs and other errors reported by Checkstyle
- * {% chjl MPLUGIN-284 %} - don't try to extract mojos from Beanshell by default
- * {% chjl MPLUGIN-286 %} - Failure during build via mvn -Prun-its clean verfiy based on missing dependencies
+ * {% ajl MPLUGIN-238 %} - HelpMojo phases fails when using java-annotations
+ * {% ajl MPLUGIN-266 %} - Incorrect warning comment about deprecated @component usage for maven objects
+ * {% ajl MPLUGIN-270 %} - Deprecation of classical Maven objects as components is broken when using Javadoc tags
+ * {% ajl MPLUGIN-272 %} - Descriptor goal fail with java 8 and interface with default method: upgrade QDox
+ * {% ajl MPLUGIN-274 %} - generated HelpMojo source contains tabs and other errors reported by Checkstyle
+ * {% ajl MPLUGIN-284 %} - don't try to extract mojos from Beanshell by default
+ * {% ajl MPLUGIN-286 %} - Failure during build via mvn -Prun-its clean verfiy based on missing dependencies
 
 Improvements:
 
- * {% chjl MPLUGIN-267 %} - document how to change descriptor phase instead of running it twice with skipErrorNoDescriptorsFound
- * {% chjl MPLUGIN-279 %} - improve jdk requirement when m-compiler-p not explicitely configured: use default properties
- * {% chjl MPLUGIN-281 %} - Removed dependency plexus-container-default:1.0-alpha-9- stable-1
- * {% chjl MPLUGIN-283 %} - Upgrade plexus-utils to 3.0.20
+ * {% ajl MPLUGIN-267 %} - document how to change descriptor phase instead of running it twice with skipErrorNoDescriptorsFound
+ * {% ajl MPLUGIN-279 %} - improve jdk requirement when m-compiler-p not explicitely configured: use default properties
+ * {% ajl MPLUGIN-281 %} - Removed dependency plexus-container-default:1.0-alpha-9- stable-1
+ * {% ajl MPLUGIN-283 %} - Upgrade plexus-utils to 3.0.20
 
 Tasks:
 
- * {% chjl MPLUGIN-278 %} - Upgrade to Maven 2.2.1 minimum requirement
- * {% chjl MPLUGIN-280 %} - remove xdoc goal since the content is generated during report
- * {% chjl MPLUGIN-285 %} - change "java" extractor id to "java-javadoc" to match "java-annotations"
- * {% chjl MPLUGIN-287 %} - refactoring: consistent package name for extractor and javadoc
+ * {% ajl MPLUGIN-278 %} - Upgrade to Maven 2.2.1 minimum requirement
+ * {% ajl MPLUGIN-280 %} - remove xdoc goal since the content is generated during report
+ * {% ajl MPLUGIN-285 %} - change "java" extractor id to "java-javadoc" to match "java-annotations"
+ * {% ajl MPLUGIN-287 %} - refactoring: consistent package name for extractor and javadoc
 
 Enjoy,
 

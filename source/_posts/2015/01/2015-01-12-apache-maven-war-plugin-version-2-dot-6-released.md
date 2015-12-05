@@ -24,25 +24,25 @@ You should specify the version in your project's plugin configuration:
 
 <!-- more -->
 
-[Release Notes - Maven WAR Plugin - Version 2.6](http://jira.codehaus.org/secure/ReleaseNote.jspa?projectId=11150&version=20681)
+[Release Notes - Maven WAR Plugin - Version 2.6](https://issues.apache.org/jira/secure/ReleaseNote.jspa?projectId=12318121&version=12331757)
 
 Bugs:
 
- * {% chjl MWAR-167 %} - Final manifest not written to exploded location
- * {% chjl MWAR-309 %} - 'mvn package' duplicates WEB-INF/classes on linux only
- * {% chjl MWAR-331 %} - IOException: Mark invalid -- With version 2.5
- * {% chjl MWAR-333 %} - Fix thread safety issues by upgrading plexus-interpolation to 1.21
- * {% chjl MWAR-341 %} - Overlay task fails on unpacking when applying file permissions
+ * {% ajl MWAR-167 %} - Final manifest not written to exploded location
+ * {% ajl MWAR-309 %} - 'mvn package' duplicates WEB-INF/classes on linux only
+ * {% ajl MWAR-331 %} - IOException: Mark invalid -- With version 2.5
+ * {% ajl MWAR-333 %} - Fix thread safety issues by upgrading plexus-interpolation to 1.21
+ * {% ajl MWAR-341 %} - Overlay task fails on unpacking when applying file permissions
 
 Improvements:
 
- * {% chjl MWAR-329 %} - Update version of plexus-archiver to 2.7.1
- * {% chjl MWAR-330 %} - Update version plexus-io 2.2
- * {% chjl MWAR-334 %} - Upgrade maven-filtering to 1.3
- * {% chjl MWAR-335 %} - Upgrade maven-archiver dependency to v2.6
- * {% chjl MWAR-336 %} - Upgrade to maven-plugins version 25 to 26
- * {% chjl MWAR-338 %} - Upgrade to maven-plugins parent version 27
- * {% chjl MWAR-339 %} - Upgrade plexus-archiver to 2.9
+ * {% ajl MWAR-329 %} - Update version of plexus-archiver to 2.7.1
+ * {% ajl MWAR-330 %} - Update version plexus-io 2.2
+ * {% ajl MWAR-334 %} - Upgrade maven-filtering to 1.3
+ * {% ajl MWAR-335 %} - Upgrade maven-archiver dependency to v2.6
+ * {% ajl MWAR-336 %} - Upgrade to maven-plugins version 25 to 26
+ * {% ajl MWAR-338 %} - Upgrade to maven-plugins parent version 27
+ * {% ajl MWAR-339 %} - Upgrade plexus-archiver to 2.9
 
 Enjoy,
 
