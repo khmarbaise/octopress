@@ -5,7 +5,7 @@ date: 2015-03-17 01:15:00
 comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Releases]
 ---
-The new [Maven 3.3.1 Release is just out](http://jira.codehaus.org/secure/ReleaseNote.jspa?projectId=10500&version=21013).
+The new [Maven 3.3.1 Release is just out](https://issues.apache.org/jira/secure/ReleaseNote.jspa?projectId=12316922&version=12330193).
 Let us take a deeper look into the new features/improvements:
 
  * The first and most important thing is that [Maven 3.3.1 needs JDK 1.7][MNG-5780].
@@ -178,16 +178,16 @@ mvn exec:java@second-cli
 
 So now you can define more than one configuration for command line executions.
    
- * The Maven team has decided to [drop support for Win9x in launch scripts](https://jira.codehaus.org/browse/MNG-5776)
+ * The Maven team has decided to [drop support for Win9x in launch scripts](https://issues.apache.org/jira/browse/MNG-5776)
    at long last. Yeah.
 
 
 [0]: http://maven.apache.org/guides/mini/guide-using-toolchains.html
 [maven-toolchains-plugin]: http://maven.apache.org/plugins/maven-toolchains-plugin/
-[MNG-3891]: https://jira.codehaus.org/browse/MNG-3891
-[MNG-5745]: https://jira.codehaus.org/browse/MNG-5745
-[MNG-5754]: https://jira.codehaus.org/browse/MNG-5754
-[MNG-5771]: https://jira.codehaus.org/browse/MNG-5771
-[MNG-5767]: http://jira.codehaus.org/browse/MNG-5767
-[MNG-5768]: https://jira.codehaus.org/browse/MNG-5768
-[MNG-5780]: https://jira.codehaus.org/browse/MNG-5780
+[MNG-3891]: https://issues.apache.org/jira/browse/MNG-3891
+[MNG-5745]: https://issues.apache.org/jira/browse/MNG-5745
+[MNG-5754]: https://issues.apache.org/jira/browse/MNG-5754
+[MNG-5771]: https://issues.apache.org/jira/browse/MNG-5771
+[MNG-5767]: https://issues.apache.org/jira/browse/MNG-5767
+[MNG-5768]: https://issues.apache.org/jira/browse/MNG-5768
+[MNG-5780]: https://issues.apache.org/jira/browse/MNG-5780
