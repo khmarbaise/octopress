@@ -172,7 +172,7 @@ public class TheVersionClass
 
 #The Generated Class#
 
- You can use the [templating-maven-plugin](http://mojo.codehaus.org/templating-maven-plugin/) which
+ You can use the [templating-maven-plugin](http://www.mojohaus.org/templating-maven-plugin/) which
  can be used to create a class which contains the appropriate informations.
 
  The first step is to create a template file within the following location ```src/main/java-templates``` 
@@ -197,7 +197,7 @@ public final class Version {
  you can access via the ```${project...}``` etc.
 
  The ```${buildNumber}``` is an example for using other placeholders which in this case
- is filled by the [buildnumber-maven-plugin](http://mojo.codehaus.org/buildnumber-maven-plugin/)
+ is filled by the [buildnumber-maven-plugin](http://www.mojohaus.org/buildnumber-maven-plugin/)
  which usually provides the SVN/Git revision number.
 
  The following pom snippet is used to generate the Java source from the Java template file and
@@ -208,7 +208,7 @@ public final class Version {
   <plugin>
     <groupId>org.codehaus.mojo</groupId>
     <artifactId>templating-maven-plugin</artifactId>
-    <version>1.0-alpha-3</version>
+    <version>1.0.0</version>
     <executions>
       <execution>
         <id>generate-verion-class</id>
