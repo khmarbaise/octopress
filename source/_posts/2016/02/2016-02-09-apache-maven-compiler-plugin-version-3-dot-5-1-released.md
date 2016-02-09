@@ -10,7 +10,7 @@ The Apache Maven team is pleased to announce the release of the
 
 The Compiler Plugin is used to compile the sources of your project. 
 
-Attention: Starting with this version, the maven-compiler-plugin requires
+Attention: Starting with version 3.5, the maven-compiler-plugin requires
 Maven 3 and won't work with Maven 2 anymore.
 
 
