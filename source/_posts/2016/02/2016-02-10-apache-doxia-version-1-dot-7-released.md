@@ -22,35 +22,35 @@ You can download the appropriate sources etc. from the [download page](https://m
 
 Bugs:
 
- * [DOXIA-482] - add an API to avoid translating APT source comments into output comments
- * [DOXIA-485] - Outdated links in xdoc format description
- * [DOXIA-508] - Format characters are interpreted in monospaced text
- * [DOXIA-524] - ISO-8859-15 encoding problem with markdown 
- * [DOXIA-537] - NullPointerException parsing table cell with single space
+ * {% ajl DOXIA-482 %} -  add an API to avoid translating APT source comments into output comments
+ * {% ajl DOXIA-485 %} -  Outdated links in xdoc format description
+ * {% ajl DOXIA-508 %} -  Format characters are interpreted in monospaced text
+ * {% ajl DOXIA-524 %} -  ISO-8859-15 encoding problem with markdown 
+ * {% ajl DOXIA-537 %} -  NullPointerException parsing table cell with single space
 
 Improvements:
 
- * [DOXIA-203] - Add support for level 6 sections and generalize Sink API for sections
- * [DOXIA-492] - Add support for doxia macros in markdown documents.
- * [DOXIA-505] - Upgrade to Commons Configuration 1.10
- * [DOXIA-527] - Allow multiple extensions for given format
- * [DOXIA-529] - Add macro support to XHTML 
+ * {% ajl DOXIA-203 %} -  Add support for level 6 sections and generalize Sink API for sections
+ * {% ajl DOXIA-492 %} -  Add support for doxia macros in markdown documents.
+ * {% ajl DOXIA-505 %} -  Upgrade to Commons Configuration 1.10
+ * {% ajl DOXIA-527 %} -  Allow multiple extensions for given format
+ * {% ajl DOXIA-529 %} -  Add macro support to XHTML 
 
 New Features:
 
- * [DOXIA-224] - Add source name in parser
- * [DOXIA-532] - Update handling of comments for Server Side Includes (ie comments starting with #)
- * [DOXIA-535] - Support .markdown file extension (in addition to current .md)
+ * {% ajl DOXIA-224 %} -  Add source name in parser
+ * {% ajl DOXIA-532 %} -  Update handling of comments for Server Side Includes (ie comments starting with #)
+ * {% ajl DOXIA-535 %} -  Support .markdown file extension (in addition to current .md)
 
 Tasks:
 
- * [DOXIA-511] - remove deprecated o.a.m.doxia.module.site package
- * [DOXIA-526] - remove xerces:xercesImpl dependency
- * [DOXIA-531] - improve MacroRequest API with parser and sourceContent parameters requirements
+ * {% ajl DOXIA-511 %} -  remove deprecated o.a.m.doxia.module.site package
+ * {% ajl DOXIA-526 %} -  remove xerces:xercesImpl dependency
+ * {% ajl DOXIA-531 %} -  improve MacroRequest API with parser and sourceContent parameters requirements
 
 Wish:
 
- * [DOXIA-506] - move classes from doxia-core in sink package (same as doxia-sink-api) to dedicated sink.impl package
+ * {% ajl DOXIA-506 %} -  move classes from doxia-core in sink package (same as doxia-sink-api) to dedicated sink.impl package
 
 
 Enjoy,
