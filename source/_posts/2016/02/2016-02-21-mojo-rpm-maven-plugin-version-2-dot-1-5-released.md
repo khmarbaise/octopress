@@ -1,12 +1,10 @@
 ---
 layout: post
 title: "Mojo RPM Maven Plugin Version 2.1.5 Released"
-date: 2016-02-21 04:01
+date: 2016-02-21 16:01
 comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---
-Hi,
-
 The Mojo team is pleased to announce the release of the 
 [RPM Maven Plugin version 2.1.5](http://mojo.codehaus.org/rpm-maven-plugin/).
 
