@@ -3,7 +3,7 @@ layout: post
 title: "Why is it bad To Activate/Deactive Modules By Profiles In Maven"
 date: 2013-11-09 12:50
 comments: true
-categories: [Maven,Maven Best Practise]
+categories: [Maven,Maven Best Practice]
 ---
 Often you can observe that people are using 
 [profiles to activate/deactivate](http://maven.apache.org/guides/introduction/introduction-to-profiles.html) 
