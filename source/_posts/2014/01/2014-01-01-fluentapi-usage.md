@@ -3,7 +3,7 @@ layout: post
 title: "FluentAPI - Usage"
 date: 2014-01-01 01:23
 comments: true
-categories: [News, Programming,Best Practise]
+categories: [News, Programming,Best Practice]
 ---
 As a Java developer I always got the impression that my own code
 can be made better (unfortunately I am not perfect). That

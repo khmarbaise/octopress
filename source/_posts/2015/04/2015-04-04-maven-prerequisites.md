@@ -3,7 +3,7 @@ layout: post
 title: "Maven Prerequisites?"
 date: 2015-04-04 12:10
 comments: true
-categories: [Maven,Maven Best Practise]
+categories: [Maven,Maven Best Practice]
 ---
 Starting with [Maven 3.3.1][1] it is possible to define several
 important configuration elements within your project. For example JVM

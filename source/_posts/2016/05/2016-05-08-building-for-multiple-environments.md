@@ -3,7 +3,7 @@ layout: post
 title: "Building For Multiple Environments"
 date: 2016-05-08 19:17
 comments: true
-categories: [Neuigkeiten,BM,Maven,Maven Best Practise]
+categories: [Neuigkeiten,BM,Maven,Maven Best Practice]
 ---
 
 As i described in my previous articles ([Multiple Environments I][build-multiple-i] 

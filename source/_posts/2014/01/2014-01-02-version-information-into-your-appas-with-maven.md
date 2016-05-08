@@ -3,7 +3,7 @@ layout: post
 title: "Version Informations Into Your Apps With Maven"
 date: 2014-01-02 19:08
 comments: true
-categories: [Maven, News, Maven-Plugins,Maven Best Practise]
+categories: [Maven, News, Maven-Plugins,Maven Best Practice]
 ---
 It often happens having an application and you want to show a version information in
 a kind of ```About Dialog``` or may be on command line as well 

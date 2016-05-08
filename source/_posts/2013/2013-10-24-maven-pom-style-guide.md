@@ -3,7 +3,7 @@ layout: post
 title: "Maven POM Style Guide?"
 date: 2013-10-24 19:15:02
 comments: true
-categories: [Maven,Maven Best Practise,POM]
+categories: [Maven,Maven Best Practice,POM]
 ---
 
 If you are working over a longer time with Maven your pom´s become larger and in particular in
