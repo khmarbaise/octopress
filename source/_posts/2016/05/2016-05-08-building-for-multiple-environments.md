@@ -15,16 +15,14 @@ But the problem is that by using the suggested solutions is that it can be made 
 
 Thats the reason why I'm writing this blog article.
 
-I have created a more or less simple [Maven Plugn][multienv-maven-plugin] which handles 
-exactly those situations.
-
-Let us assume you have the following environments:
+I have created a more or less simple [Maven Plugin][multienv-maven-plugin] which handles 
+exactly those situations. Let us assume you have the following environments:
 
  * dev-01
  * test-01
  * prod
 
-And now you need to create a configurations for those different environments
+And now you need to create configurations for those different environments
 which usually means you need to create a set of configuration files which are
 different for each of those environments.
  
