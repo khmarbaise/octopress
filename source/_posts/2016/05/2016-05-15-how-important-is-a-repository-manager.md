@@ -3,7 +3,7 @@ layout: post
 title: "How Important is a Repository Manager?"
 date: 2016-05-15 15:14
 comments: true
-categories: [Neuigkeiten,BM,Maven,Repository Manager,Nexus,Maven-Best-Practice]
+categories: [Neuigkeiten,BM,Maven,Repository Manager,Nexus,Maven Best Practice]
 ---
 Do you know how many downloads are done from [Maven Central][maven-central]
 during a month? I was not aware of that as well. 

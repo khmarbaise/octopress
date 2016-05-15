@@ -3,7 +3,7 @@ layout: post
 title: "The Jenkins API Client for Java Version 0.3.4 Released"
 date: 2016-05-04 15:30:21
 comments: true
-categories: News, Releases, Jenkins, Programming
+categories: [News, Releases, Jenkins, Programming]
 ---
 We have released a new version of the [`The Jenkins API client for Java`][1].
 The new released 0.3.4 contains several bugfixes and new features.
