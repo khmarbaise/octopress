@@ -24,25 +24,25 @@ Release Notes - Apache Software Foundation Parent POM - Version 18
 
 Improvements:
 
- * [MPOM-60] - Add DEPENDENCIES file to the exclude rule for apache-rat-plugin
- * [MPOM-78] - Updated maven-assembly-plugin to 2.5.5
- * [MPOM-92] - Upgrade maven-clean-plugin to 2.6.1
- * [MPOM-93] - Upgrade maven-gpg-plugin to 1.6
- * [MPOM-94] - Upgrade maven-war-plugin to 2.6
- * [MPOM-98] - Upgrade maven-compiler-plugin version to 3.3
- * [MPOM-99] - Upgrade maven-dependency-plugin to 2.10
- * [MPOM-100] - Upgrade maven.compiler.source/target to 1.6
- * [MPOM-101] - Use HTTPS by default for snapshot repository
- * [MPOM-103] - upgrade maven-site-plugin to 3.5.1
- * [MPOM-108] - Upgrade all plugins to the latest versions
- * [MPOM-116] - Use https wherever possible
+ * {% ajl MPOM-60 %} - Add DEPENDENCIES file to the exclude rule for apache-rat-plugin
+ * {% ajl MPOM-78 %} - Updated maven-assembly-plugin to 2.5.5
+ * {% ajl MPOM-92 %} - Upgrade maven-clean-plugin to 2.6.1
+ * {% ajl MPOM-93 %} - Upgrade maven-gpg-plugin to 1.6
+ * {% ajl MPOM-94 %} - Upgrade maven-war-plugin to 2.6
+ * {% ajl MPOM-98 %} - Upgrade maven-compiler-plugin version to 3.3
+ * {% ajl MPOM-99 %} - Upgrade maven-dependency-plugin to 2.10
+ * {% ajl MPOM-100 %} - Upgrade maven.compiler.source/target to 1.6
+ * {% ajl MPOM-101 %} - Use HTTPS by default for snapshot repository
+ * {% ajl MPOM-103 %} - upgrade maven-site-plugin to 3.5.1
+ * {% ajl MPOM-108 %} - Upgrade all plugins to the latest versions
+ * {% ajl MPOM-116 %} - Use https wherever possible
 
 Tasks:
 
- * [MPOM-104] - Clean up src/site-docs/site.xml for MSITE 3.5.1
- * [MPOM-106] - Update maven-assembly-plugin
- * [MPOM-113] - Missing execution ids
- * [MPOM-114] - Missing groupId
+ * {% ajl MPOM-104 %} - Clean up src/site-docs/site.xml for MSITE 3.5.1
+ * {% ajl MPOM-106 %} - Update maven-assembly-plugin
+ * {% ajl MPOM-113 %} - Missing execution ids
+ * {% ajl MPOM-114 %} - Missing groupId
 
 Changes since version 17:
 
