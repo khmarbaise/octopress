@@ -33,7 +33,7 @@ Important Notes since Version 3.1.0:
 
 <!-- more -->
 
-[Release Notes - Maven Archiver - Version 3.1.0](https://issues.apache.org/jira/secure/ReleaseNote.jspa?projectId=12317922&version=12335563)
+[Release Notes - Maven Archiver - Version 3.1.0](https://issues.apache.org/jira/secure/ReleaseNote.jspa?projectId=12317922&version=12335678)
 
 Bugs:
 
