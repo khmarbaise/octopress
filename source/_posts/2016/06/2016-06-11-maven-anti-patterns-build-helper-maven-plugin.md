@@ -41,7 +41,7 @@ In Maven builds I often see a pattern like the following:
 The `generatorPlugin` is just a placeholder for different kinds of maven plugins which generate
 code for example [ANTLR4 Maven Plugin][antlr4-maven-plugin], 
 [Templating Maven Plugin][templating-maven-plugin], [JAXB2 Maven Plugin][jaxb2-maven-plugin] just
-to name some examples here.
+to mention a few examples here.
 
 Usually this can be reduced to the following:
 ``` xml
