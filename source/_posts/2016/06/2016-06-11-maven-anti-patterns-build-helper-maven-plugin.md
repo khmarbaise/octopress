@@ -63,7 +63,7 @@ generated java code.
 
 Yes I know there are some of such plugins out there which do not do it in the
 correct way which means you need to add the [Build Helper Maven Plugin][build-helper-maven-plugin] 
-snippet, but this means those plugins needs some improvements. Those plugins 
+snippet, but this means those plugins need some improvements. Those plugins 
 violate the `Convention over Configuration` paradigm. Why? Simply cause you 
 as user need to think about an internal detail of those plugins which is simply 
 wrong. They have to handle that on their own. 
