@@ -41,7 +41,7 @@ In Maven builds I often see a pattern like the following:
 The `generatorPlugin` is just a placeholder for different kinds of maven plugins which generate
 code for example [ANTLR4 Maven Plugin][antlr4-maven-plugin], 
 [Templating Maven Plugin][templating-maven-plugin], [JAXB2 Maven Plugin][jaxb2-maven-plugin] just
-to name some examples here.
+to mention a few examples here.
 
 Usually this can be reduced to the following:
 ``` xml
@@ -76,3 +76,5 @@ in the described relationship.
 [jaxb2-maven-plugin]: http://www.mojohaus.org/jaxb2-maven-plugin/Documentation/v2.2/
 [antlr4-maven-plugin]: http://www.antlr.org/api/maven-plugin/latest/
 [templating-maven-plugin]: http://www.mojohaus.org/templating-maven-plugin/
+[maven-compiler-plugin]: https://maven.apache.org/plugins/maven-compiler-plugin/
+[build-helper-maven-plugin]: http://www.mojohaus.org/build-helper-maven-plugin/
