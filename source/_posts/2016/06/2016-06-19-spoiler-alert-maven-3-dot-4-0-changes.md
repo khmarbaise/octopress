@@ -13,10 +13,9 @@ I will give some more information about changes which are (might be!) part of
 the next [Maven release][jira-issues].
 
 Just be warned that you do not blame me if a particular issue will not part of the final release.
-This is written from the current perspecitve. So no warranty about that. It could happen that changes
-might not get into the final release.
+This is written from the current perspecitve. So no warranty about that. 
 
-I assume you know that [filtering in resources][maven-resources-filtering] can
+I assume that you know [filtering in resources][maven-resources-filtering] can
 simply be achieved by configuring things like this in your pom file:
 
 ```xml
@@ -33,12 +32,12 @@ simply be achieved by configuring things like this in your pom file:
 But this configuration has one drawback. It will filter everything, except
 files with pre defined extensions like 
 [`jpg`, `jpeg`, `gif`, `bmp`, `png`][non-filtered-extensions]. 
+
 Often in builds you need have supplemental files which should be filered or not
 filtered. So the consequence is to enhance the configuration and adding
 those extensions/folders etc. Or you know that you have some folders in that above
 tree which contain files which should not be filtered eithers. This often ends
-up with a bunch of configuration via includes/excludes etc. which is simply
-cumbersome.
+up with a bunch of includes/excludes etc. which is simply cumbersome.
 
 The best and simplest solution would be having two different locations for filtered
 and non-filtered files. So a configuration in your pom could look like this:
@@ -57,9 +56,12 @@ and non-filtered files. So a configuration in your pom could look like this:
 ...
 ```
 
-The same could of course happens in the `src/test` area.
+So this setup makes it easy and clean where the files are located which will be 
+filtered and the ones which will not. The same could of course be applied to the 
+`src/test` area.
 
-So in Maven 3.4.0 the [super pom contains already such a configuration][MGN-2478] for
+By improving the `Conventions over Configuration` paradigm in 
+Maven 3.4.0 the [super pom contains such an configuration][MGN-2478] for
 the `src/main/resources`, `src/main/filtered-resources`, as well as for
 the `src/test/resources`, `src/test/filtered-resources`.
 
