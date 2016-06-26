@@ -66,7 +66,7 @@ the `src/main/resources`, `src/main/filtered-resources`, as well as for
 the `src/test/resources`, `src/test/filtered-resources`.
 
 [jira-issues]: https://issues.apache.org/jira/secure/ReleaseNote.jspa?projectId=12316922&version=12333545
-[change-1]: https://twitter.com/khmarbaise/status/741710019838775297
+[change-1]: https://twitter.com/khmarbaise/status/747046718798200833
 [maven-resources-filtering]: https://maven.apache.org/plugins/maven-resources-plugin/examples/filter.html
 [non-filtered-extensions]: https://maven.apache.org/plugins/maven-resources-plugin/resources-mojo.html#nonFilteredFileExtensions
 [MNG-2478]: https://issues.apache.org/jira/browse/MNG-2478
