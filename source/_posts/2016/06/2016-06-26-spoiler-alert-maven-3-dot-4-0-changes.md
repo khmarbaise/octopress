@@ -61,7 +61,7 @@ filtered and the ones which will not. The same could of course be applied to the
 `src/test` area.
 
 By improving the `Conventions over Configuration` paradigm in 
-Maven 3.4.0 the [super pom contains such an configuration][MGN-2478] for
+Maven 3.4.0 the [super pom contains such an configuration][MNG-2478] for
 the `src/main/resources`, `src/main/filtered-resources`, as well as for
 the `src/test/resources`, `src/test/filtered-resources`.
 
