@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Spoiler Alert: Upcoming Maven 3.4.0 - Changes"
-date: 2016-06-19 20:56
+date: 2016-06-26 13:30
 comments: true
 categories: [BM,Maven,Maven Release]
 ---
@@ -56,7 +56,7 @@ and non-filtered files. So a configuration in your pom could look like this:
 ...
 ```
 
-So this setup makes it easy and clean where the files are located which will be 
+So this setup makes it easier and more clean where the files are located which will be 
 filtered and the ones which will not. The same could of course be applied to the 
 `src/test` area.
 
