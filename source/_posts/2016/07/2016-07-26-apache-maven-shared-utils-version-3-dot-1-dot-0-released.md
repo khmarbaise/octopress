@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Apache Maven Shared Utils Version 3.1.0 Released"
-date: 2016-07-26 11:05
+date: 2016-07-27 11:05
 comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Shared]
 ---
