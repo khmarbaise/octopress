@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Jenkins API Client for Java Version 0.3.7 Released"
-date: 2016-12-20 20:15:00
+date: 2016-12-16 20:15:00
 comments: true
 categories: [News, Releases, Jenkins, Programming]
 ---
