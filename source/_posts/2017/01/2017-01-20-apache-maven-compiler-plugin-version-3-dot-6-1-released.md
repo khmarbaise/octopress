@@ -28,7 +28,7 @@ Most important change is the support for test-compile when using JDK 9 build b14
 
 <!-- more -->
 
-[Release Notes - Maven Compiler Plugin - Version 3.6.1](????
+[Release Notes - Maven Compiler Plugin - Version 3.6.1](https://issues.apache.org/jira/secure/ReleaseNote.jspa?projectId=12317225&version=12338627)
 
 Bugs:
 
