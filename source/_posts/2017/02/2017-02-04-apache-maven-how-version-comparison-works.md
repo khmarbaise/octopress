@@ -176,9 +176,5 @@ Display parameters as parsed by Maven (in canonical form) and comparison result:
 ```
 
 
-https://cwiki.apache.org/confluence/display/MAVENOLD/Versioning
-http://wayback.archive.org/web/20150520230652/https://docs.codehaus.org/display/MAVEN/Versioning
-
 [history]: https://maven.apache.org/docs/history.html#Maven_2
-[oracle-doc]: http://docs.oracle.com/middleware/1212/core/MAVEN/maven_version.htm#MAVEN401
 [maven-release-325]: https://maven.apache.org/docs/ Release 3.2.5
