@@ -39,7 +39,8 @@ Improvements:
  * {% ajl WAGON-472 %} - Upgrade Commons IO to 2.5
  * {% ajl WAGON-484 %} - Update WebDAV Provider naming
 
-** Task
+Tasks:
+
  * {% ajl WAGON-389 %} - Incorrect versions on gh-pages
  * {% ajl WAGON-447 %} - Remove Commons Lang 2 for a few cases
  * {% ajl WAGON-457 %} - Wagon tests fail on Windows because Subversion crashes on a test repo
