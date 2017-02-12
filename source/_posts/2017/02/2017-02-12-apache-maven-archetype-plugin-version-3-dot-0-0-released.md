@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Apache Maven Archetype Plugin 3.0.0 Released"
-date: 2015-03-13 23:47
+date: 2017-02-12 19:30:12
 comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---
