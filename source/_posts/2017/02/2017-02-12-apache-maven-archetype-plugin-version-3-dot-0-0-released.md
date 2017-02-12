@@ -23,6 +23,7 @@ You should specify the version in your project's plugin configuration:
 </plugin>
 ```
 
+<!-- more -->
 
 [Release Notes - Maven Archetype Plugin - Version 3.0.0](https://issues.apache.org/jira/secure/ReleaseNote.jspa?projectId=12317122&version=12330297&styleName=Text).
 
