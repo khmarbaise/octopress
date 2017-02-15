@@ -159,7 +159,7 @@ Experiments
 
 If you like to experiment with some of the above examples or check your ideas
 you can simply use your existing(?) Maven installation for this. Starting with
-[Maven 3.2.5[maven-release-325] there is a command line interface which can
+[Maven 3.2.5][maven-release-325] there is a command line interface which can
 show you the comparision results for versions given on the command line like
 this:
 
