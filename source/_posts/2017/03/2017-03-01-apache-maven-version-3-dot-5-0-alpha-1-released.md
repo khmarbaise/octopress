@@ -17,6 +17,8 @@ the download page as Maven 3.3.9 is still the recommended GA release
 
 https://archive.apache.org/dist/maven/maven-3/3.5.0-alpha-1/
 
+[Release Notes for 3.5.0-alpha-1](https://maven.apache.org/docs/3.5.0-alpha-1/release-notes.html).
+
 Known Issues
 
 The following issues were identified during release testing of this ALPHA
