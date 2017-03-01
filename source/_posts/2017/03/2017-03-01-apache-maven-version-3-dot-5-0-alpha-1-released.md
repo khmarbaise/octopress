@@ -53,6 +53,7 @@ the 3.4.x release line.
 
 More detail on this decision can be read in the [mailing list archive](http://www.mail-archive.com/dev@maven.apache.org/msg112103.html).
 
+<!-- more -->
 
 [Release Notes - Maven - Version 3.5.0-alpha-1](https://issues.apache.org/jira/secure/ReleaseNote.jspa?
 projectId=12316922&version=12339664&styleName=Text)
