@@ -33,7 +33,9 @@ Bug fixes
 Release Meta
 
 Released on: 2017-03-17
+
 Released by: @abelsromero
+
 Soundtrack: Warszawa (Porcupine Tree)
 
 [#153]: https://github.com/asciidoctor/asciidoctor-maven-plugin/issues/153
