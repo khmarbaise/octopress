@@ -22,9 +22,9 @@ Known Issues
 The following issues were identified during release testing of this ALPHA
 release but have not been deemed as release blockers:
 
-* [MNG-6190] maven-resolver-provider's `DefaultArtifactDescriptorReader` has mismatched constructor and initService methods (this issue does not affect normal usage of Maven)
-* [MNG-6191] `mvn -f` complains about illegal `readlink` option under macOS
-* [MNG-6192] The distribution zip file has unordered entries and some tools - most notably Maven wrapper - will fail to unzip the distribution
+* {% ajl MNG-6190 %} - maven-resolver-provider's `DefaultArtifactDescriptorReader` has mismatched constructor and initService methods (this issue does not affect normal usage of Maven)
+* {% ajl MNG-6191 %} - `mvn -f` complains about illegal `readlink` option under macOS
+* {% ajl MNG-6192 %} - The distribution zip file has unordered entries and some tools - most notably Maven wrapper - will fail to unzip the distribution
 
 Why not Maven 3.4.0?
 
