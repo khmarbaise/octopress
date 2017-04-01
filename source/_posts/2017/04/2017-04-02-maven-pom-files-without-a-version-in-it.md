@@ -8,7 +8,7 @@ categories: [BM,Maven,Maven Best Practice]
 In Maven 3.2.5 a feature has been introduced to be able to define a version
 of a Maven project via properties `${revision}`, `${sha1}` and `${changelist}` 
 which unfortuantely had some issues.
-Those issues have been fixed with [Maven 3.5.0-beta-1][maven-release-notes-3-5.0-beta-1] 
+Those issues have been fixed with [Maven 3.5.0-beta-1][maven-release-notes-3.5.0-beta-1] 
 and now you can define the version of a project by using the following properties: 
 `${revision}`, `${sha1}` and `${changelist}`. The example below will show one 
 usage of this:
