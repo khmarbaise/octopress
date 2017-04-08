@@ -44,6 +44,8 @@ the 3.4.x release line.
 
 More detail on this decision can be read in the mailing list archive[1].
 
+<!-- more -->
+
 Contributors
 ============
 
