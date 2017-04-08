@@ -118,7 +118,7 @@ The Apache Maven Project Management Committee would also like to thank all
 the committers to the project for their efforts during the chaos that was
 the great reset when the 3.4.x release lines were burned.
 
-Release Notes - Maven - Version 3.5.0
+[Release Notes - Maven - Version 3.5.0][release-notes-3.5.0]
 =====================================
 
 Bugs:
@@ -230,3 +230,4 @@ Enjoy,
 - The Apache Maven team
 
 [1]: http://www.mail-archive.com/dev@maven.apache.org/msg112103.html
+[release-notes-3.5.0]: https://issues.apache.org/jira/secure/ReleaseNote.jspa?projectId=12316922&version=12336084
