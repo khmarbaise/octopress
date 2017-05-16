@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Apache Maven Dependency Plugin Version 3.0.1 Released"
-date: 2016-12-16 17:30
+date: 2017-05-16 20:30
 comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---
