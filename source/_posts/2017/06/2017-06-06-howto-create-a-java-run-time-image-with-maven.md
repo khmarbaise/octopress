@@ -40,21 +40,21 @@ three modules `mod-1`, `mod-2` and `mod-jar`. The `mod-jar` is a usual jar proje
 a `jar` file as result. 
 
 The only important part is that this contains a `module-info.java` 
-file which is compiled into the `jar` file. This jar file is a [`modular JAR file`][modular-jar] cause it
+file which is compiled into the `jar` file. This jar file is a [modular JAR file][modular-jar] cause it
 contains a `module-info.class` file at the root location of the jar.
 
-The `mod-1` and `mod-2` are currently explictly producing [`jmod` files][jmod-file] which contain
-the module name in it's file name. At the moment those modules are placed into the
+The `mod-1` and `mod-2` are currently explictly producing [jmod files][jmod-file] which contain
+the module name in its file name. At the moment those modules are placed into the
 `target/jmods/` directory of the appropriate project.
 
-So now we have summarized the different projects which produce either jar or jmod files but 
+So now we have summarized the different projects which produce either a jar or jmod file but 
 to get a Java Run-Time Image we have to use the [jlink][jlink] command of JDK 9 which is the Java Linker
 which produces the Run-Time Image. Then handling of jlink is currently put into the `mod-jlink` module
 which contains a packaging of `jlink`. 
 
-The example project uses two new created Maven plugins ([maven-jmod-plugin] and
+The example project uses two new created Maven plugins ([maven-jmod-plugn] and
 [maven-jlink-plugin]) which currently implement the handling 
-for `jmod` and the `jlink` packaging type. They exist only as `SNAPSHOT's which are available
+for `jmod` and the `jlink` packaging type. They exist only as `SNAPSHOT`s which are available
 via the [Apache Software Foundation repository][asf-snapshot]. If you like to use them
 you have to configure them into your [settings.xml] or in your [repository manager].
 One more thing is needed to be setup: [toolchains] to configure the environment like where
