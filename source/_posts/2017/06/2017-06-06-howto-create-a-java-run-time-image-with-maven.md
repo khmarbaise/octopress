@@ -10,13 +10,13 @@ let the community take a look how it works and what can be improved. Apart from
 all the news for example about the modular system [Jigsaw][jigsaw] etc. There
 is one important question:
 
-How can I create a Java Run-Time Image with Maven? But before we can begin:
+How can I create a Java Run-Time Image with Maven? But before we begin:
 What is a Java Run-Time Image?
 
 The simplest answer I can give: You have a running Java Runtime environment
 where all parts have been removed which are not really used by the current
 application. Based on the modularization of the Java Plattform itself you can
-think of many parts which can be removed by usuall application. This in the end
+think of many parts which can be removed for a usuall application. This in the end
 will give you the opportunity to deliver only the Java Run-Time Image including
 your application. So this means in the target environment you do not need to
 install a full blown JRE. This safes space in particular if you think about
@@ -162,7 +162,7 @@ Main two from Java 9
 This is the first step of Maven into a support of JDK 9 tools like [jlink] and [jmod]. Other tooling
 like [maven-jdeps-plugin] already exist for a longer time. 
 
-This currently everything a Proof Of Concept and not an official statement. This is intended to
+This currently is a Proof Of Concept and not an official statement. This is intended to
 get feedback of others working with JDK9 and see if we are doing right or not.
 
 Apart from that you see the opportunities which JKD9 with it's Run-Time Images is offering. Based on the
