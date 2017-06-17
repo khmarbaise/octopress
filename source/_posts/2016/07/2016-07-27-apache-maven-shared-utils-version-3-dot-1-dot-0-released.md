@@ -13,11 +13,11 @@ The release contains a number of bug fixes.
 You should specify the version in your project's dependencies configuration:
 
 ``` xml
-<plugin>
+<dependency>
   <groupId>org.apache.maven.shared</groupId>
   <artifactId>maven-shared-utils</artifactId>
   <version>3.1.0</version>
-</plugin>
+</dependency>
 ```
 
 <!-- more -->
