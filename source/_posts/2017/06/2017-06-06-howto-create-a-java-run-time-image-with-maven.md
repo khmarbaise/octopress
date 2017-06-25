@@ -16,23 +16,23 @@ What is a Java Run-Time Image?
 The simplest answer I can give: You have a running Java Runtime environment
 where all parts have been removed which are not really used by the current
 application. Based on the modularization of the Java Plattform itself you can
-think of many parts which can be removed for a usuall application. This in the end
+think of many parts which can be removed by a usuall application. This in the end
 will give you the opportunity to deliver only the Java Run-Time Image including
 your application. So this means in the target environment you do not need to
 install a full blown JRE. This safes space in particular if you think about
 Microservices.
 
-There are a few things which need to pay attention to related to this post:
+There are a few things which need to be payed attention to related to this post:
 
 Everything what is written here is:
 
- * Currently in a Proove Of Concept state.
+ * Currently in a prove of concept state.
  * Everything here is speculative.
 
 So this means it can become official Maven plugins or not. The intention is to
 get some [feedback from interessted volunteers][feedback] to see others working with JDK9
-and about their experiences and to see if Maven needs to go different paths or
-if the current path is ok.
+and about their experiences and to see if Maven needs to go different ways or
+if the current way is ok.
 
 So let use start with the interesting part. We start with a [simple multi module project][jdk9-maven-example] 
 and see how this works. The example project currently contains 
@@ -40,7 +40,7 @@ three modules `mod-1`, `mod-2` and `mod-jar`. The `mod-jar` is a usual jar proje
 a `jar` file as result. 
 
 The only important part is that this contains a `module-info.java` 
-file which is compiled into the `jar` file. This jar file is a [modular JAR file][modular-jar] cause it
+file which is compiled into the `jar` file. This jar file is a [modular JAR file][modular-jar], cause it
 contains a `module-info.class` file at the root location of the jar.
 
 The `mod-1` and `mod-2` are currently explictly producing [jmod files][jmod-file] which contain
@@ -57,7 +57,7 @@ The example project uses two new created Maven plugins ([maven-jmod-plugn] and
 for `jmod` and the `jlink` packaging type. They exist only as `SNAPSHOT`s which are available
 via the [Apache Software Foundation repository][asf-snapshot]. If you like to use them
 you have to configure them into your [settings.xml] or in your [repository manager].
-One more thing is needed to be setup: [toolchains] to configure the environment like where
+One more thing is needed to be set up: [toolchains] to configure the environment like where
 to find the JDK9 etc. 
 
 If you run the whole project via:
@@ -162,7 +162,7 @@ Main two from Java 9
 This is the first step of Maven into a support of JDK 9 tools like [jlink] and [jmod]. Other tooling
 like [maven-jdeps-plugin] already exist for a longer time. 
 
-This currently is a Proof Of Concept and not an official statement. This is intended to
+This currently is a prove of concept and not an official statement. This is intended to
 get feedback of others working with JDK9 and see if we are doing right or not.
 
 Apart from that you see the opportunities which JKD9 with it's Run-Time Images is offering. Based on the
