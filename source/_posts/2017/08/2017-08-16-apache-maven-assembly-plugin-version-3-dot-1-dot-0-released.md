@@ -13,6 +13,7 @@ the project output along with its dependencies, modules, site documentation,
 and other files into a single distributable archive.
 
 Note:
+
  * Maven 3.X only
  * JDK 7 miminum requirement.
 

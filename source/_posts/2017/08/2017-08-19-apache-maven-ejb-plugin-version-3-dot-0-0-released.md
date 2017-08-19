@@ -14,9 +14,7 @@ associated client jar.
 Important Note since 3.0.0:
 
  * Maven 3.X only
-
  * JDK 7 minimum requirement
-
 
 ``` xml
 <plugin>
