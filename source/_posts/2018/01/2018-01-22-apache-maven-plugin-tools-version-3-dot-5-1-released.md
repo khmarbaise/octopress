@@ -18,8 +18,8 @@ any Mojo's found in the source tree, to include in the JAR. It is also
 used to generate report files for the Mojos as well as for updating the  
 plugin registry, the artifact metadata and generating a generic help goal.
 
-https://maven.apache.org/plugin-tools/
-https://maven.apache.org/plugin-tools/maven-plugin-plugin/
+ * https://maven.apache.org/plugin-tools/
+ * https://maven.apache.org/plugin-tools/maven-plugin-plugin/
 
 You should specify the version in your project's plugin configuration:
 
