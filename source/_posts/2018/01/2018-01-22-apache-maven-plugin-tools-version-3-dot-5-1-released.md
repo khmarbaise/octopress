@@ -38,6 +38,7 @@ You can download the appropriate sources etc. from the [download page](https://m
 
 
 Bugs:
+
  * {%ajl MPLUGIN-290 %} - Version 3.4 fails to parse enums with Regex patterns
  * {%ajl MPLUGIN-293 %} - Missing explanation on <requirements> on report goal
  * {%ajl MPLUGIN-314 %} - invalid requirement role generated in plugin.xml
@@ -49,12 +50,14 @@ Bugs:
  * {%ajl MPLUGIN-330 %} - If and else-if branches has the same condition
 
 Improvements:
+
  * {%ajl MPLUGIN-315 %} - improve mojo description: show parameter name as <parameter>
  * {%ajl MPLUGIN-319 %} - @since values ignored in report
  * {%ajl MPLUGIN-321 %} - improve documentation on maven-plugin-annotations telling that optional=true is sufficient
  * {%ajl MPLUGIN-326 %} - Remove timestamp in generated descriptor
 
 Tasks:
+
  * {%ajl MPLUGIN-327 %} - switch to Git
  * {%ajl MPLUGIN-331 %} - Check the existence of plugin.xml rather than project packaging in PluginReport.canGenerateReport()
 
