@@ -39,7 +39,7 @@ Task:
 
 Dependency upgrade:
 
- * {%ajl MRESOLVER-34 %} - Update dependences and plugins to latest versions
+ * {%ajl MRESOLVER-34 %} - Update dependencies and plugins to latest versions
 
 Enjoy,
 
