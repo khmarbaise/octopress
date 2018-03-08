@@ -8,7 +8,7 @@ categories: [Neuigkeiten,BM,Maven,Maven-Releases]
 The Apache Maven team is pleased to announce the release of the Apache
 Maven 3.5.3
 
-You can download the appropriate sources etc. from the download page
+You can download the appropriate sources etc. from the [download page](https://maven.apache.org/download.html)
 
 Contributors
 ------------
