@@ -68,6 +68,7 @@ New Feature:
  * {%ajl MNG-6302 %} - Provide some "progress" hints
 
 Improvement:
+
  * {%ajl MNG-5992 %} - Git passwords are exposed as the Super POM still uses Maven Release Plugin 2.3.2
  * {%ajl MNG-6306 %} - Replace use of Guava in maven-resolver-provider with a lighter weight alternative
  * {%ajl MNG-6308 %} - display packaging & groupId:artifactId when building a module
