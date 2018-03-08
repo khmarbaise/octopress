@@ -82,6 +82,7 @@ Task:
  * {%ajl MNG-6331 %} - Remove maven-bundle-pugin from build pluginManagement
 
 Dependency upgrade:
+
  * {%ajl MNG-6312 %} - Update Maven Wagon dependency
  * {%ajl MNG-6335 %} - Update test framework Mockito from 1.10 to 2.12
  * {%ajl MNG-6353 %} - Upgrade maven-shared-utils to 3.2.1
