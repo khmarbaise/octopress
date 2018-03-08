@@ -11,7 +11,8 @@ Maven 3.5.3
 You can download the appropriate sources etc. from the download page
 
 Contributors
-============
+------------
+
 The Apache Maven team would like to thank the following contributors,
 without whom this release would not have been possible:
 
