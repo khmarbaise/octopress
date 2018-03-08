@@ -64,6 +64,7 @@ Bugs:
  * {%ajl MNG-6330 %} - [regression] Parents relativePath not verified anymore
 
 New Feature:
+
  * {%ajl MNG-6302 %} - Provide some "progress" hints
 
 Improvement:
