@@ -78,6 +78,7 @@ Improvement:
  * {%ajl MNG-6352 %} - Printout version information at the end of the build
 
 Task:
+
  * {%ajl MNG-6331 %} - Remove maven-bundle-pugin from build pluginManagement
 
 Dependency upgrade:
