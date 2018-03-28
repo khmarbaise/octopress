@@ -33,19 +33,19 @@ You can download the appropriate [sources etc. from the download page](https://m
 
 Bugs:
 
- * [MPH-135] - help:effective-pom crashes with NPE in multi module builds with -Doutput set
- * [MPH-139] - Invalid default namespace set for effective settings
- * [MPH-140] - Multiple XML declarations written
+ * {%ajl MPH-135 %} - help:effective-pom crashes with NPE in multi module builds with -Doutput set
+ * {%ajl MPH-139 %} - Invalid default namespace set for effective settings
+ * {%ajl MPH-140 %} - Multiple XML declarations written
 
 Tasks:
 
- * [MPH-137] - Use JDOM's PrettyFormatter throughout
- * [MPH-138] - Drop AbstractEffectiveMojo#addMavenNamespace()
- * [MPH-141] - Use non-deprecated field in DateFormatUtils
+ * {%ajl MPH-137 %} - Use JDOM's PrettyFormatter throughout
+ * {%ajl MPH-138 %} - Drop AbstractEffectiveMojo#addMavenNamespace()
+ * {%ajl MPH-141 %} - Use non-deprecated field in DateFormatUtils
 
 Dependency upgrade:
 
- * [MPH-136] - Upgrade JDOM to 1.1.3 
+ * {%ajl MPH-136 %} - Upgrade JDOM to 1.1.3 
 
 Enjoy,
 
