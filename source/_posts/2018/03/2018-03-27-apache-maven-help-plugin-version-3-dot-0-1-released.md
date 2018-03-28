@@ -6,7 +6,7 @@ comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---
 The Apache Maven team is pleased to announce the release of the 
-[Apache Maven Help Plugin, version 3.0.1](http://maven.apache.org/plugins/maven-ear-plugin/)
+[Apache Maven Help Plugin, version 3.0.1](http://maven.apache.org/plugins/maven-help-plugin/)
 
 The Maven Help Plugin is used to get relative information about a project or
 the system. It can be used to get a description of a particular plugin,
