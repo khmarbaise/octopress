@@ -26,25 +26,26 @@ https://maven.apache.org/plugins/maven-site-plugin/download.cgi
 [Release Notes - Maven Site Plugin - Version 3.7.1](https://issues.apache.org/jira/secure/ReleaseNote.jspa?projectId=12317923&version=12342371&styleName=Text)
 
 Bugs:
- * [MSITE-806] - Site generation does not work when no report configured nor Doxia document provided
- * [MSITE-809] - Documentation: examples/configuring-reports.html includes invalid XML
- * [MSITE-812] - Missing '/' in log when deploying documentation by site:stage
- * [MSITE-817] - inherit edit value in site.xml
- * [MSITE-818] - site:run fails to find locale when zh_CN is used
+
+ * {%ajl MSITE-806 %} - Site generation does not work when no report configured nor Doxia document provided
+ * {%ajl MSITE-809 %} - Documentation: examples/configuring-reports.html includes invalid XML
+ * {%ajl MSITE-812 %} - Missing '/' in log when deploying documentation by site:stage
+ * {%ajl MSITE-817 %} - inherit edit value in site.xml
+ * {%ajl MSITE-818 %} - site:run fails to find locale when zh_CN is used
 
 Improvements:
 
- * [MSITE-811] - Upgrade parent to 31
- * [MSITE-819] - improve display of site rendering with locale info
+ * {%ajl MSITE-811 %} - Upgrade parent to 31
+ * {%ajl MSITE-819 %} - improve display of site rendering with locale info
 
 Wish:
 
-    * [MSITE-815] - highlight skin used to render site and documents statistics
+ * {%ajl MSITE-815 %} - highlight skin used to render site and documents statistics
 
 Tasks:
 
- * [MSITE-767] - Revert r1729902 caused by DOXIASITETOOLS-155 and fix ITs as soon as parent POMs and site.xml descriptors have been upgraded
- * [MSITE-821] - add documentation on site plugin dependencies
+ * {%ajl MSITE-767 %} - Revert r1729902 caused by DOXIASITETOOLS-155 and fix ITs as soon as parent POMs and site.xml descriptors have been upgraded
+ * {%ajl MSITE-821 %} - add documentation on site plugin dependencies
 
 Enjoy,
 
