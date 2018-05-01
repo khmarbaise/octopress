@@ -24,7 +24,7 @@ Important Note:
 
 Reporters for this release:
 
- *  Michel Barret [MRESOURCES-247] 
+ *  Michel Barret {%ajl MRESOURCES-247 %}
 
 You should specify the version in your project's plugin configuration:
 
