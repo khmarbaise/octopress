@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Apache Maven Resources Plugin Version 3.1.0 Released"
-date: 2016-12-10 19:45:00
+date: 2018-05-01 11:30:45
 comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---
