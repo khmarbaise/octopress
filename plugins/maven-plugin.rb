@@ -9,7 +9,7 @@ module Jekyll
     end
 
     def render(context)
-      "<a href='http://maven.apache.org/plugins/#{@mp}'>#{@mp}</a>"
+      "<a href='https://maven.apache.org/plugins/#{@mp}'>#{@mp}</a>"
     end
   end
 end
