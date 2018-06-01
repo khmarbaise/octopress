@@ -26,7 +26,7 @@ https://maven.apache.org/plugins/maven-javadoc-plugin/download.cgi
 
 <!-- more -->
 
-[Release Notes - Apache Maven JavaDoc Plugin - Version 3.0.1](https://issues.apache.org/jira/secure/ReleaseNote.jspa?projectId=12317529&version=12331967)
+[Release Notes - Apache Maven JavaDoc Plugin - Version 3.0.1](https://issues.apache.org/jira/secure/ReleaseNote.jspa?projectId=12317529&version=12342283)
 
 Bugs:
 
