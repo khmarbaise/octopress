@@ -6,7 +6,7 @@ comments: true
 categories: [Neuigkeiten,BM,Maven,Plexus-Components]
 ---
 The Codehaus Plexus team is pleased to announce the release of the 
-[Plexus Interpolation Version 1.25](http://maven.apache.org/shared/maven-dependency-analyzer/)
+[Plexus Interpolation Version 1.25](https://codehaus-plexus.github.io/plexus-interpolation/)
 
 Plexus interpolator is the outgrowth of multiple iterations of development
 focused on providing a more modular, flexible interpolation framework for the
