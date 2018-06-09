@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Get the version of your Maven project on command line?"
-date: 2018-06-09 17:00
+date: 2018-06-09 16:30:00
 comments: true
 categories: [Maven,Maven-Plugins,Usage]
 ---
