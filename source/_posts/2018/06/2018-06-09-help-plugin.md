@@ -50,7 +50,7 @@ More sophisticated expressions like the following are possible too:
 GROUPID=$(mvn help:evaluate \
   -Dexpression=project.dependencyManagement.dependencies[0].groupId \
   -q -DforceStdout \
-  )
+)
 ```
 
 
