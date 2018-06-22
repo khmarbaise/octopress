@@ -18,6 +18,8 @@ You can find out more about Apache Maven at https://maven.apache.org
 You can download the appropriate sources etc. from the download page:
 https://maven.apache.org/download.cgi
 
+<!-- more -->
+
 Contributors
 ============
 The Apache Maven value community before code and so firstly the team would
