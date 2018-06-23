@@ -32,7 +32,7 @@ So this can be used easily in scripts like this:
 VERSION=$(mvn org.apache.maven.plugins:maven-help-plugin:3.1.0:evaluate -Dexpression=project.version -q -DforceStdout)
 ```
 If you have correctly pinned the version of your plugins in your pom file or in a parent pom of
-the project this can be simplyfied like this:
+the project this can be simplified like this:
 
 ```
 VERSION=$(mvn help:evaluate -Dexpression=project.version -q -DforceStdout)
