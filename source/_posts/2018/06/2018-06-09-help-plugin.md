@@ -38,7 +38,7 @@ the project this can be simplified like this:
 VERSION=$(mvn help:evaluate -Dexpression=project.version -q -DforceStdout)
 ```
 
-Apart from extracting the version you can also extract other informations from the pom file 
+Apart from extracting the version you can also extract other information from the pom file 
 like the following:
 
 ```
