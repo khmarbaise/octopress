@@ -28,6 +28,8 @@ The process
 9. Close the appropriate jira issue with a reference to the
    commit in comment.
 
+<!-- more -->
+
 Let us take a look at a real life example. The exemplary issue is
 [MCLEAN-87][mclean-87] which has been worked on and commited with an
 appropriate commit message which should look like the following:
@@ -52,7 +54,6 @@ and error-prone.
 So about four or five months ago I started to automate/simplifying some steps
 of the above process.
 
-<!-- more -->
 
 Automation Step 1
 -----------------
