@@ -165,7 +165,7 @@ The story will be continued in my next post.
 
 [maven-project]: https://maven.apache.org
 [jira]: https://issues.apache.org/jira/secure/BrowseProjects.jspa?selectedCategory=10510&selectedProjectType=all
-[jenkins-ci]: https://builds.apache.org/view/M-R/view/Maven/job/maven-box/job/maven-ejb-plugin/
+[jenkins-ci]: https://builds.apache.org/view/M-R/view/Maven/job/maven-box/job/maven-clean-plugin/
 [mclean-87]: https://issues.apache.org/jira/browse/MCLEAN-87
 [commit-example]: https://gitbox.apache.org/repos/asf?p=maven-clean-plugin.git;a=commitdiff;h=c6eed44352c9ab623836a9329b7645dbb61413bc
 [gitpushwithlease]: https://github.com/khmarbaise/automation-scripts/blob/f82324c08079df49cfdeb60539492b778c5f7445/gitpushwithlease.sh
