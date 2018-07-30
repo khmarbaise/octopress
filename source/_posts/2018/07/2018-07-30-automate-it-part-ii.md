@@ -40,7 +40,7 @@ a summary, a description and giving `Affected versions` and `Fix Version/s`
 useful values. This is only needed if we do not have a ticket yet for the
 work.
 
-So far I was going into my browser opened the [appriopriate project][create-issue] and
+So far I was going into my browser opened the [appropriate project][create-issue] and
 pressed the `Create` button and typed in the appopriate values. I already
 mastered the copy and paste parts from browser url to command line etc.
 After some time, I thought about this and came to the conclusioni, there must be a more convenient way.
