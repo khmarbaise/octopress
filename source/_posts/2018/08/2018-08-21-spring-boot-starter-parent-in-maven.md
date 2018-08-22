@@ -60,8 +60,7 @@ a little bit shorter like this:
   </build>
 </project>
 ```
-The properties defined in the first example are alread defined in the
+The properties defined in the first example are already defined in the
 `spring-boot-starter-parent` pom file which means you do not need to define
-them another time cause you already inherit them via the parent.
-
+them another time cause you inherit them via the parent.
 
