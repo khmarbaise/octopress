@@ -47,7 +47,7 @@ Release Notes - Maven POMs - Version ASF-21
 
 New Feature:
 
- * [MPOM-205] - create SHA-512 checksum for source-release archive(s) in target/checkout/target/ during release
+ * {%ajl MPOM-205 %} - create SHA-512 checksum for source-release archive(s) in target/checkout/target/ during release
 
 Changes since version 20:
 
