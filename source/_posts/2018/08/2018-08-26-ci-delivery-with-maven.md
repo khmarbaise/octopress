@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Continious Delivery with Maven"
+title: "Continuous Delivery with Maven"
 date: 2018-08-26 17:15:12
 comments: true
 categories: [Maven,Automation,DevOps,Continious Delivery]
@@ -51,7 +51,7 @@ same `domain-1.2.3-SNAPSHOT.jar` file. There is no real difference if you
 do an `mvn clean install` instead. This will only install the created 
 artifact into your local cache `$HOME/.m2/repository`. Furthermore if you do
 `mvn clean deploy` the difference is only that each time you do this on your repository
-manager the naming shema is a little bit different which means the artifact will 
+manager the naming schema is a little bit different which means the artifact will 
 look like `domain-1.2.3-20180821.202345-1.jar`. So in the end the artifact contains
 a time stamp. But the most important thing is that `SNAPSHOT` versions
 are not immutable as you might have already realized based on the above.
