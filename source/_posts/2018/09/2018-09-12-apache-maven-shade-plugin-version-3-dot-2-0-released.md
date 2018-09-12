@@ -33,16 +33,16 @@ You can download the [appropriate sources etc. from the download page](http://ma
 
 Bug:
 
- * [MSHADE-289] - Maven Shade Plugin does not work under Java 10
+ * {%ajl MSHADE-289 %} - Maven Shade Plugin does not work under Java 10
 
 Improvement:
 
- * [MSHADE-293] - Require Java 7
+ * {%ajl MSHADE-293 %} - Require Java 7
 
 Dependency upgrades:
 
- * [MSHADE-294] - Upgrade maven-plugins parent to version 32
- * [MSHADE-296] - Upgrade maven-artifact-transfer 0.10.0
+ * {%ajl MSHADE-294 %} - Upgrade maven-plugins parent to version 32
+ * {%ajl MSHADE-296 %} - Upgrade maven-artifact-transfer 0.10.0
 
 Enjoy,
 
