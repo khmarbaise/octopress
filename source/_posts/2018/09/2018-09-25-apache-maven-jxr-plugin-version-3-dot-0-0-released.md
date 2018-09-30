@@ -22,7 +22,9 @@ You should specify the version in your project's plugin configuration:
 
 NOTE: Special thanks for the contributions retrieved during the hackathon at JCreate.
 
-[Release Notes - Maven JXR - Version 3.0.0](http://jira.codehaus.org/secure/ReleaseNote.jspa?projectId=11085&version=19853)
+<!-- more -->
+
+[Release Notes - Maven JXR - Version 3.0.0](https://issues.apache.org/jira/secure/ReleaseNote.jspa?projectId=12317527&version=12330848)
 
 
 Bugs:
@@ -38,7 +40,7 @@ Improvements:
 
  * {%ajl JXR-110 %} - Use equivalent css/images of javadoc
  * {%ajl JXR-124 %} - Remove excluded DEPENDENCIES file if new parent is used.
- * {%ajl JXR-125 %} - Upgrade to Maven 3.0 compatibility
+ * {%ajl JXR-125 %} - Upgrade to Maven 3.0 compatiblity
  * {%ajl JXR-127 %} - Create anchor for classes generated from a Java source file
  * {%ajl JXR-131 %} - Reports 'jxr' and 'test-jxr' do not contain generated sources.
  * {%ajl JXR-132 %} - Aggregator reports should not require modules to be installed/deployed.
@@ -47,6 +49,13 @@ Task:
 
  * {%ajl JXR-134 %} - switch to Git
 
+Dependency upgrades:
+
+ * {%ajl JXR-128 %} - Upgrade maven parent to version 30
+ * {%ajl JXR-129 %} - Upgrade of plexus-utils to 3.0.24.
+ * {%ajl JXR-130 %} - Upgrade of commons-io to 2.5.
+ * {%ajl JXR-136 %} - Upgrade plexus-utils 3.1.0
+ * {%ajl JXR-138 %} - Upgrade parent to 31
 
 Enjoy,
 
