@@ -41,7 +41,7 @@ And now the very important part:
 
 You have to configure Maven to check the checksums of the downloaded artifacts and
 fail your build if they are not correct. This is called *checksum policy* which 
-I strongly recomment to use.
+I strongly recommend to use.
 
 This means you have to change the configuration in your `settings.xml`. This means you have
 to change the [checksum policy][checksum-policy] in your `settings.xml`.
