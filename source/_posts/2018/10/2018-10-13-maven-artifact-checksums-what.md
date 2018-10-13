@@ -3,7 +3,7 @@ layout: post
 title: "Maven Artifact Checksums - What?"
 date: 2018-10-13 16:30:33
 comments: true
-categories: [Maven,maven-best-practice]
+categories: [Maven,Maven Best Practice]
 ---
 If you are using [Apache Maven][maven-project] you might have faced with [issues like this][failures]:
 ```

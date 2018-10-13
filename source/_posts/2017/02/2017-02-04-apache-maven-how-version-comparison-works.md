@@ -3,7 +3,7 @@ layout: post
 title: "Maven 3: How Version Comparison Works?"
 date: 2017-02-04 14:23:00
 comments: true
-categories: [bm,maven,maven best practice]
+categories: [bm,Maven,Maven Best Practice]
 ---
 In the ancient time [before maven 3][history] the version of an artifact had to follow 
 the pattern:
