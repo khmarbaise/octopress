@@ -46,7 +46,7 @@ I strongly recommend to use.
 This means you have to change the configuration in your `settings.xml`. This means you have
 to change the [checksum policy][checksum-policy] in your `settings.xml`.
 A temporary solution would be to call maven with: `--strict-checksums` which exactly does this
-but only for the appropriate call of Maven and not allways. So it is better to configure
+but only for the appropriate call of Maven and not always. So it is better to configure
 this into your `settings.xml` which will look like this:
 
 ```xml
