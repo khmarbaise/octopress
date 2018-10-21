@@ -47,19 +47,20 @@ org.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal o
 ```
 
 The simple reason is that by calling Maven via `mvn enforcer:enforcer` you have not started a 
-[life cycle][maven-lifecycle] (something like `clean`, `package` etc.). This means in consequence that the configuration
-you have given is not used. And this is the result for the above error message.  
+[life cycle][maven-lifecycle] (something like `clean`, `package` etc.). You have requested to execute the goal `enforce`
+of the [Maven Enforcer Plugin][maven-enforcer-plugin]. This means in consequence that the configuration you have given 
+in the pom file is not being used and this is the reason for the above error message.  
 
 If you like to force Maven (or better the appropriate plugin) to use the above configuration you can do that by using 
-a feature which is available since [Maven 3.3.1+][maven-release-notes-3.3.1] (means more than three years). So you have 
-to change your command line just a little bit:
+a feature which is available since [Maven 3.3.1+][maven-release-notes-3.3.1] (means more than three years ;-)). There
+is only a slight change in the command line which looks like this:
 
 ```
 mvn enforcer:enforce@id-enforce
 ```
- 
-If you are unfortunately stuck to an earlier version you can handle that also. The only thing you have to change 
-is the configuration in your pom file like this:
+
+If you are unfortunately bonded to an earlier version (I strong recommend to upgrade to most recent version) you can 
+handle that also. The only thing you have to change is the configuration in your pom file like this:
 
 
 ```xml
@@ -93,7 +94,7 @@ is the configuration in your pom file like this:
 The trick here is to name the `id` based on a naming convention (sounds familiar?) which is `default-cli`.
 So if you call the plugin goal `mvn enforcer:enforce` this configuration is being picked up by the plugin. 
 A disadvantage of the `default-cli` approach is that you can only have a single command line configuration per plugin. 
-So I recommend to use a more recent version of Maven which does not has such a limitation.
+So I recommend to use a more recent version of Maven which does not has such limitation.
 
 Based on that you could, in theory, define a default command line configuration for every plugin which exist, but this 
 does not make sense. A configuration for calling a plugin goal only make sense for a limited number of use cases. 
@@ -157,3 +158,4 @@ So in the end this is no bug it's only a misunderstand how configuration of plug
 [maven-project]: https://maven.apache.org
 [maven-release-notes-3.3.1]: https://maven.apache.org/docs/3.3.1/release-notes.html
 [maven-lifecycle]: https://maven.apache.org/guides/introduction/introduction-to-the-lifecycle.html
+[maven-enforcer-plugin]: https://maven.apache.org/enforcer/maven-enforcer-plugin/
