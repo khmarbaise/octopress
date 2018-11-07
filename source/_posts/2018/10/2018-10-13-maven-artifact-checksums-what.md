@@ -25,10 +25,10 @@ which are causing something like this. In extreme rare cases it might also be a
 hardware error (But usually I have my doubts about that). This means the
 downloaded artifacts are not correctly downloaded or downloaded from
 repositories which do not exist anymore. Or any other strange thing you could
-imagine. If have artifacts which contain html snippets this is an indicator
+imagine. If you have artifacts which contain html snippets this is an indicator
 that you are trying to download artifacts from repositories which do not exist
 anymore. This means you have to check you configuration for your used
-repositories which is obviously wrog.
+repositories which is obviously wrong.
 
 So now the question is: What can you do to prevent that in the furture?
 
