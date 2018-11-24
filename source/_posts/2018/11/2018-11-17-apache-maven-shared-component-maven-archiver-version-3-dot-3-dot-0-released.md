@@ -37,19 +37,19 @@ Important Notes since Version 3.3.0:
 
 Improvement:
 
- * [MSHARED-773] - Fail on invalid 'Automatic-Module-Name' in MANIFEST
+ * {%ajl MSHARED-773 %} - Fail on invalid 'Automatic-Module-Name' in MANIFEST
 
 Dependency upgrades:
 
- * [MSHARED-668] - plexus-utils 3.0.24 to 3.1.0
- * [MSHARED-669] - Upgrade plexus-interpolation to 1.24
- * [MSHARED-686] - Upgrade parent to 31
- * [MSHARED-721] - Upgrade maven-shared-utils to 3.2.1
- * [MSHARED-726] - Upgrade plexus-archiver to 3.6.0
- * [MSHARED-727] - Upgrade mave-surefire/failsafe-plugin 2.21.0
- * [MSHARED-747] - Upgrade maven-plugins parent to version 32
- * [MSHARED-774] - Upgrade maven-plugins parent to version 33
- * [MSHARED-775] - Upgrade plexus-interpolation to 1.25
+ * {%ajl MSHARED-668 %} - plexus-utils 3.0.24 to 3.1.0
+ * {%ajl MSHARED-669 %} - Upgrade plexus-interpolation to 1.24
+ * {%ajl MSHARED-686 %} - Upgrade parent to 31
+ * {%ajl MSHARED-721 %} - Upgrade maven-shared-utils to 3.2.1
+ * {%ajl MSHARED-726 %} - Upgrade plexus-archiver to 3.6.0
+ * {%ajl MSHARED-727 %} - Upgrade mave-surefire/failsafe-plugin 2.21.0
+ * {%ajl MSHARED-747 %} - Upgrade maven-plugins parent to version 32
+ * {%ajl MSHARED-774 %} - Upgrade maven-plugins parent to version 33
+ * {%ajl MSHARED-775 %} - Upgrade plexus-interpolation to 1.25
  
 Enjoy,
 

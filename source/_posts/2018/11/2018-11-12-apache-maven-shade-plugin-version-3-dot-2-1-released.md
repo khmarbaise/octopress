@@ -22,12 +22,10 @@ You should specify the version in your project's plugin configuration:
 </plugin>
 ```
 
-You can download the appropriate sources etc. from the [download page](https://maven.apache.org/plugins/maven-shade-plugin/download.cgi).
-
+You can download the [appropriate sources etc. from the download page][download-page]
 
 <!-- more -->
 
-You can download the [appropriate sources etc. from the download page](http://maven.apache.org/plugins/maven-shade-plugin/download.cgi).
  
 [Release Notes - Maven Shade Plugin - Version 3.2.1](https://issues.apache.org/jira/secure/ReleaseNote.jspa?projectId=12317921&version=12344059)
 
@@ -51,3 +49,4 @@ Enjoy,
 
 -The Apache Maven team
 
+[download-page]: https://maven.apache.org/shared/maven-archiver/download.cgi
