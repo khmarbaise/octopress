@@ -19,24 +19,24 @@ You can download the appropriate sources etc. from the [download page](https://m
 
 Bugs:
 
- * [WAGON-545] - Connection reset while downloading artifacts in cloud environment (Azure)
- * [WAGON-546] - HttpWagon TTL not set
- * [WAGON-554] - Tests with checkin rely on global Git config
+ * {%ajl WAGON-545 %} - Connection reset while downloading artifacts in cloud environment (Azure)
+ * {%ajl WAGON-546 %} - HttpWagon TTL not set
+ * {%ajl WAGON-554 %} - Tests with checkin rely on global Git config
 
 Tasks:
 
- * [WAGON-552] - Replace Commons Codec with Plexus Utils
- * [WAGON-555] - Use java.nio.file.Path for URI construction of file:// URIs in tests
- * [WAGON-556] - Skip parsing of user info for file:// URLs
+ * {%ajl WAGON-552 %} - Replace Commons Codec with Plexus Utils
+ * {%ajl WAGON-555 %} - Use java.nio.file.Path for URI construction of file:// URIs in tests
+ * {%ajl WAGON-556 %} - Skip parsing of user info for file:// URLs
 
 Dependency upgrades:
 
- * [WAGON-547] - Upgrade HttpCore to 4.4.11
- * [WAGON-548] - Upgrade HttpClient to 4.5.7
- * [WAGON-549] - Upgrade Commons Net to 3.6
- * [WAGON-550] - Upgrade JSoup to 1.11.3
- * [WAGON-551] - Uprade JSch to 0.1.55
- * [WAGON-553] - Upgrade Plexus Classworlds to 2.6.0
+ * {%ajl WAGON-547 %} - Upgrade HttpCore to 4.4.11
+ * {%ajl WAGON-548 %} - Upgrade HttpClient to 4.5.7
+ * {%ajl WAGON-549 %} - Upgrade Commons Net to 3.6
+ * {%ajl WAGON-550 %} - Upgrade JSoup to 1.11.3
+ * {%ajl WAGON-551 %} - Uprade JSch to 0.1.55
+ * {%ajl WAGON-553 %} - Upgrade Plexus Classworlds to 2.6.0
 
 Enjoy,
 
