@@ -19,18 +19,18 @@ You can download the appropriate sources etc. from the [download page](https://m
 
 Bugs:
 
- * {%alj WAGON-538 %} - Basic authentication fails if the password contains non-ASCII characters
- * {%alj WAGON-543 %} - wagon-ssh download hangs
+ * {%ajl WAGON-538 %} - Basic authentication fails if the password contains non-ASCII characters
+ * {%ajl WAGON-543 %} - wagon-ssh download hangs
 
 Improvements:
 
- * {%alj WAGON-537 %} - Maven transfer speed of large artifacts is slow due to unsuitable buffer strategy
- * {%alj WAGON-539 %} - Explicitly register only supported auth schemes
- * {%alj WAGON-540 %} - Switch to modern-day encoding (UTF-8) of auth credentials
+ * {%ajl WAGON-537 %} - Maven transfer speed of large artifacts is slow due to unsuitable buffer strategy
+ * {%ajl WAGON-539 %} - Explicitly register only supported auth schemes
+ * {%ajl WAGON-540 %} - Switch to modern-day encoding (UTF-8) of auth credentials
 
 Task:
 
- * {%alj WAGON-544 %} - Work around JSch issue #122
+ * {%ajl WAGON-544 %} - Work around JSch issue #122
 
 Enjoy,
 
