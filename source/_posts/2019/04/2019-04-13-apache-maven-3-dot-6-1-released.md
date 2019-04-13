@@ -229,6 +229,9 @@ The full list of changes can be found in our [issue management system][4].
 
 See [complete release notes for all versions][5]
 
+- The Apache Maven Team.
+
+
 [0]: ../../download.html
 [1]: ../../plugins/index.html
 [2]: https://maven.apache.org/
