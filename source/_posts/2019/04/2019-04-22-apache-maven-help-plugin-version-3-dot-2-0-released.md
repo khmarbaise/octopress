@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Apache Maven Help Plugin Version 3.2.0 Released"
-date: 2018-12-12 19:45:37
+date: 2019-04-22 12:45:31
 comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---
