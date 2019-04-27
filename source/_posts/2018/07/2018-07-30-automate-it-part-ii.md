@@ -43,7 +43,7 @@ work.
 So far I was going into my browser opened the [appropriate project][create-issue] and
 pressed the `Create` button and typed in the appopriate values. I already
 mastered the copy and paste parts from browser url to command line etc.
-After some time, I thought about this and came to the conclusioni, there must be a more convenient way.
+After some time, I thought about this and came to the conclusion, there must be a more convenient way.
 
 I tried to use the REST API of JIRA with some JavaScript which I used earlier
 to create some [release notes][release-notes] but it was too complex to handle
@@ -373,7 +373,7 @@ So finally for a dependency upgrade the process looks like this:
 5. `takeissue.sh`
 6. `startissue.sh`
    After that I have to wait for the result of Jenkins. If the build is successful I can merge back
-to master otherwise I need find the cause of the problem. In this case
+to master otherwise I need to find the cause of the problem. In this case
 the result was successful so I can do it like this: 
 8. `gitmergeandclean.sh`
 
