@@ -32,15 +32,15 @@ You should specify the version in your project's plugin configuration:
 
 Bugs:
 
-{% ajl MCOMPILER-306 %} - Incorrect `compilerArgs` example usage
-{% ajl MCOMPILER-349 %} - maven-compiler-plugin does not recompile a module if a dependency module has been updated & recompiled
-{% ajl MCOMPILER-360 %} - NPE when calculating modulepath with invalid entries
-{% ajl MCOMPILER-379 %} - Fatal error compiling: basedir ... arget/generated-sources/annotations does not exist
+ * {% ajl MCOMPILER-306 %} - Incorrect `compilerArgs` example usage
+ * {% ajl MCOMPILER-349 %} - maven-compiler-plugin does not recompile a module if a dependency module has been updated & recompiled
+ * {% ajl MCOMPILER-360 %} - NPE when calculating modulepath with invalid entries
+ * {% ajl MCOMPILER-379 %} - Fatal error compiling: basedir ... arget/generated-sources/annotations does not exist
 
 Improvements:
 
-{% ajl MCOMPILER-322 %} - Set the JPMS module version
-{% ajl MCOMPILER-366 %} - Warning about automodules should provide the list of offending libraries
+ * {% ajl MCOMPILER-322 %} - Set the JPMS module version
+ * {% ajl MCOMPILER-366 %} - Warning about automodules should provide the list of offending libraries
 
 Enjoy,
  
