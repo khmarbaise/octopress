@@ -42,5 +42,5 @@ Enjoy,
 - The Apache Maven team
 
 
-[MJAR-259]: https://issues.apache.org/browse/MJAR-259
-[MJAR-238]: https://issues.apache.org/browse/MJAR-238
+[MJAR-259]: https://issues.apache.org/jira/browse/MJAR-259
+[MJAR-238]: https://issues.apache.org/jira/browse/MJAR-238
