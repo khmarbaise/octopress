@@ -34,23 +34,23 @@ You can download the appropriate sources etc. from the [download page][download]
 
 Bugs:
 
-{% ajl MSOURCES-105 %} - Remove link to non-existing Codehaus wiki
-{% ajl MSOURCES-108 %} - Remove the readonly=true from finalName
-{% ajl MSOURCES-119 %} - Archiving to jar is very slow
+ * {% ajl MSOURCES-105 %} - Remove link to non-existing Codehaus wiki
+ * {% ajl MSOURCES-108 %} - Remove the readonly=true from finalName
+ * {% ajl MSOURCES-119 %} - Archiving to jar is very slow
 
 Improvement:
 
-{% ajl MSOURCES-110 %} - Add IT to prevent readonly=true problem with parameter
+ * {% ajl MSOURCES-110 %} - Add IT to prevent readonly=true problem with parameter
 
 Dependency upgrades:
 
-{% ajl MSOURCES-109 %} - Upgrade parent to 31
-{% ajl MSOURCES-111 %} - Upgrade maven-archiver / plexus-archiver
-{% ajl MSOURCES-112 %} - Upgrade plexus-utils 3.1.0
-{% ajl MSOURCES-114 %} - Upgrade mave-surefire/failsafe-plugin 2.21.0
-{% ajl MSOURCES-116 %} - Upgrade plexus-archiver to 3.6.0
-{% ajl MSOURCES-117 %} - Upgrade maven-plugins parent to version 32
-{% ajl MSOURCES-118 %} - Upgrade JUnit to 4.12
+ * {% ajl MSOURCES-109 %} - Upgrade parent to 31
+ * {% ajl MSOURCES-111 %} - Upgrade maven-archiver / plexus-archiver
+ * {% ajl MSOURCES-112 %} - Upgrade plexus-utils 3.1.0
+ * {% ajl MSOURCES-114 %} - Upgrade mave-surefire/failsafe-plugin 2.21.0
+ * {% ajl MSOURCES-116 %} - Upgrade plexus-archiver to 3.6.0
+ * {% ajl MSOURCES-117 %} - Upgrade maven-plugins parent to version 32
+ * {% ajl MSOURCES-118 %} - Upgrade JUnit to 4.12
 
 
 Enjoy,
