@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Apache Maven Source Plugin Version 3.1.0 Released"
-date: 2016-06-23 19:14
+date: 2019-05-19 21:10:34
 comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---
