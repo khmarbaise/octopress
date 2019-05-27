@@ -37,14 +37,14 @@ Important Note:
 
 Bug:
 
-{% ajl MWAR-371 %} - Overlays break first-win rule for web resource with target path ending with '/'
+ * {% ajl MWAR-371 %} - Overlays break first-win rule for web resource with target path ending with '/'
 
 Dependency upgrades:
 
-{% ajl MWAR-419 %} - Upgrade maven-plugins parent to version 32
-{% ajl MWAR-423 %} - Upgrade plexus-archiver to 4.1.0
-{% ajl MWAR-424 %} - Upgrade maven-archiver to 3.4.0
-{% ajl MWAR-425 %} - Upgrade plexus-utils to 3.2.0
+ * {% ajl MWAR-419 %} - Upgrade maven-plugins parent to version 32
+ * {% ajl MWAR-423 %} - Upgrade plexus-archiver to 4.1.0
+ * {% ajl MWAR-424 %} - Upgrade maven-archiver to 3.4.0
+ * {% ajl MWAR-425 %} - Upgrade plexus-utils to 3.2.0
 
 Many thanks to all reporters/contributors/testers of this release.
 
