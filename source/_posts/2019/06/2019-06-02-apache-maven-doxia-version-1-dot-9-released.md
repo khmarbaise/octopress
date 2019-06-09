@@ -26,40 +26,40 @@ Release Notes - Maven Doxia Sitetools - Version 1.9
 
 Bugs:
 
-{% ajl DOXIA-497 %} - APTSink: links and paragraphs inside tables
-{% ajl DOXIA-538 %} - Tag <tt></tt> used for monospaced is not a valid html5 tag
-{% ajl DOXIA-567 %} - update dependency schema: pegdown not used any more but flexmark-java
-{% ajl DOXIA-570 %} - Unescaped links in xml based figureGraphics elements
-{% ajl DOXIA-577 %} - Handle whitespace in tables properly in ConfluenceSink
-{% ajl DOXIA-578 %} - Boxed verbatim sections uses incorrect Confluence syntax
-{% ajl DOXIA-579 %} - Lists in Confluence syntax requires 2 line breaks after the list
-{% ajl DOXIA-581 %} - Provide a usable output implementation for definition lists
-{% ajl DOXIA-582 %} - Text within a monospace block need to escape characters with special meaning in Confluence
-{% ajl DOXIA-583 %} - XhtmlBaseSink: Table caption is escaped incorrectly
+ * {% ajl DOXIA-497 %} - APTSink: links and paragraphs inside tables
+ * {% ajl DOXIA-538 %} - Tag <tt></tt> used for monospaced is not a valid html5 tag
+ * {% ajl DOXIA-567 %} - update dependency schema: pegdown not used any more but flexmark-java
+ * {% ajl DOXIA-570 %} - Unescaped links in xml based figureGraphics elements
+ * {% ajl DOXIA-577 %} - Handle whitespace in tables properly in ConfluenceSink
+ * {% ajl DOXIA-578 %} - Boxed verbatim sections uses incorrect Confluence syntax
+ * {% ajl DOXIA-579 %} - Lists in Confluence syntax requires 2 line breaks after the list
+ * {% ajl DOXIA-581 %} - Provide a usable output implementation for definition lists
+ * {% ajl DOXIA-582 %} - Text within a monospace block need to escape characters with special meaning in Confluence
+ * {% ajl DOXIA-583 %} - XhtmlBaseSink: Table caption is escaped incorrectly
 
 New Feature:
 
-{% ajl DOXIA-584 %} - Support rewriting multiple page documentation crosslinks from .md to .html
+ * {% ajl DOXIA-584 %} - Support rewriting multiple page documentation crosslinks from .md to .html
 
 Improvements:
 
-{% ajl DOXIA-409 %} - Upgrade to Apache FOP 2.2 (was 1.0)
-{% ajl DOXIA-528 %} - Enable rendering of HTML5 data- attributes
-{% ajl DOXIA-575 %} - Add support for (X)HTML5
-{% ajl DOXIA-585 %} - Propagate macro related exceptions to caller in xhtml parser
-{% ajl DOXIA-587 %} - Maven site generate invalid link with markdown
+ * {% ajl DOXIA-409 %} - Upgrade to Apache FOP 2.2 (was 1.0)
+ * {% ajl DOXIA-528 %} - Enable rendering of HTML5 data- attributes
+ * {% ajl DOXIA-575 %} - Add support for (X)HTML5
+ * {% ajl DOXIA-585 %} - Propagate macro related exceptions to caller in xhtml parser
+ * {% ajl DOXIA-587 %} - Maven site generate invalid link with markdown
 
 Tasks:
 
-{% ajl DOXIA-586 %} - Removed unused properties and cleaned up pom file
-{% ajl DOXIA-591 %} - Require minimum Java 7 at runtime
+ * {% ajl DOXIA-586 %} - Removed unused properties and cleaned up pom file
+ * {% ajl DOXIA-591 %} - Require minimum Java 7 at runtime
 
 Dependency upgrades:
 
-{% ajl DOXIA-572 %} - Upgrade parent to 32
-{% ajl DOXIA-576 %} - Upgrade Http Components to 4.4.11 (core) and 4.5.8 (httpclient)
-{% ajl DOXIA-592 %} - Upgrade Markdown parser - flexmark-java to 0.42.8
-{% ajl DOXIA-593 %} - Upgrade to Apache FOP 2.3
+ * {% ajl DOXIA-572 %} - Upgrade parent to 32
+ * {% ajl DOXIA-576 %} - Upgrade Http Components to 4.4.11 (core) and 4.5.8 (httpclient)
+ * {% ajl DOXIA-592 %} - Upgrade Markdown parser - flexmark-java to 0.42.8
+ * {% ajl DOXIA-593 %} - Upgrade to Apache FOP 2.3
 
 
 Enjoy,
