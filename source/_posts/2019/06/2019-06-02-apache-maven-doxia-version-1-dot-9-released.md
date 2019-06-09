@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Apache Doxia Site Tools Version 1.9 Released"
-date: 2016-02-15 07:10:12
+date: 2019-06-02 23:45:32
 comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Components]
 ---
