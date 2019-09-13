@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Apache Maven 3.6.2 Released"
-date: 2019-04-06 16:31:02
+date: 2019-09-06 16:31:02
 comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Releases]
 ---
