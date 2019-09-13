@@ -68,14 +68,6 @@ Many thanks to all reporters and contributors for their time and support.
 
 (Please send an email to the dev list if we missed one to mention).
 
-## Preliminary Testers
-
-Thanks to the following preliminary testers:
-
- * Gabriel Belingueres
- * Francois Papon
- * Eric Lilja
-
 ## Known Issues
 
 None.
