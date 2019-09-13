@@ -32,15 +32,15 @@ Bug:
 
 New Features:
 
-* {%alj MRESOLVER-10 %} - New 'TransitiveDependencyManager' supporting transitive dependency management
-* {%alj MRESOLVER-33 %} - New 'DefaultDependencyManager' managing dependencies on all levels supporting transitive dependency management
+* {%ajl MRESOLVER-10 %} - New 'TransitiveDependencyManager' supporting transitive dependency management
+* {%ajl MRESOLVER-33 %} - New 'DefaultDependencyManager' managing dependencies on all levels supporting transitive dependency management
 
 Improvements:
 
-* {%alj MRESOLVER-7 %} - Download dependency POMs in parallel
-* {%alj MRESOLVER-84 %} - Add support for "release" qualifier
-* {%alj MRESOLVER-87 %} - Refresh examples to use maven-resolver artifacts for demo
-* {%alj MRESOLVER-88 %} - Code style cleanup to use Java 7 features
+* {%ajl MRESOLVER-7 %} - Download dependency POMs in parallel
+* {%ajl MRESOLVER-84 %} - Add support for "release" qualifier
+* {%ajl MRESOLVER-87 %} - Refresh examples to use maven-resolver artifacts for demo
+* {%ajl MRESOLVER-88 %} - Code style cleanup to use Java 7 features
 
 Enjoy,
 
