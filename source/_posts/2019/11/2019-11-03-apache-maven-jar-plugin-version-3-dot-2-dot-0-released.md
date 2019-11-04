@@ -24,6 +24,7 @@ This plugin provides the capability to build jars.
 
 
 New Feature:
+
   * [MJAR-263](https://issues.apache.org/jira/browse/MJAR-263) - Reproducible Builds: make entries in output jar files reproducible (order + timestamp)
 
 Read https://maven.apache.org/guides/mini/guide-reproducible-builds.html for more information on Reproducible Builds with Maven.
