@@ -26,11 +26,11 @@ You can download the appropriate sources etc. from the [download page][download]
 
 Bug:
 
- * [MSOURCES-95] - Source JAR is re-created even if sources are not changed
+ * [MSOURCES-95](https://issues.apache.org/jira/browse/MSOURCES-95) - Source JAR is re-created even if sources are not changed
 
 New Feature:
 
- * [MSOURCES-120] - Reproducible Builds: make entries in output jar files reproducible (order + timestamp)
+ * [MSOURCES-120](https://issues.apache.org/jira/browse/MSOURCES-120) - Reproducible Builds: make entries in output jar files reproducible (order + timestamp)
 
 Read https://maven.apache.org/guides/mini/guide-reproducible-builds.html for more information on Reproducible Builds with Maven.
 
