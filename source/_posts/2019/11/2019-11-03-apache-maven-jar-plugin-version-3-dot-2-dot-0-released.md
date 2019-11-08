@@ -20,7 +20,7 @@ This plugin provides the capability to build jars.
 
 <!-- more -->
 
-[Release Notes - Maven JAR Plugin - Version 3.2.0](https://issues.apache.org/jira/secure/ReleaseNote.jspa?projectId=12317526&version=12342349)
+[Release Notes - Maven JAR Plugin - Version 3.2.0](https://issues.apache.org/jira/secure/ReleaseNote.jspa?projectId=12317526&version=12345503)
 
 
 New Feature:
