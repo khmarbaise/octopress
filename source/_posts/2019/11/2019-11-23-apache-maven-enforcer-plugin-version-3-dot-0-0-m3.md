@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Apache Maven Enforcer Plugin Version 3.0.0-M2 Released"
-date: 2018-06-16 13:15:23
+title: "Apache Maven Enforcer Plugin Version 3.0.0-M3 Released"
+date: 2019-11-23 13:15:23
 comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---
 The Apache Maven team is pleased to announce the release of the 
-[Apache Maven Enforcer Plugin, version 3.0.0-M2](http://maven.apache.org/plugins/maven-surefire-plugin/).
+[Apache Maven Enforcer Plugin, version 3.0.0-M3](http://maven.apache.org/plugins/maven-surefire-plugin/).
 
 You should specify the version in your project's plugin configuration:
 
@@ -14,7 +14,7 @@ You should specify the version in your project's plugin configuration:
 <plugin>
   <groupId>org.apache.maven.plugins</groupId>
   <artifactId>maven-enforcer-plugin</artifactId>
-  <version>3.0.0-M2</version>
+  <version>3.0.0-M3</version>
 </plugin>
 ```
 
@@ -24,7 +24,7 @@ https://maven.apache.org/enforcer/download.cgi
 
 <!-- more -->
 
-[Release Notes - Maven Enforcer Plugin Version 3.0.0-M2 (including 3.0.0-M1)](https://issues.apache.org/jira/secure/ReleaseNote.jspa?projectId=12317520&version=12343432&styleName=Text)
+[Release Notes - Maven Enforcer Plugin Version 3.0.0-M3 (including 3.0.0-M1)](https://issues.apache.org/jira/secure/ReleaseNote.jspa?projectId=12317520&version=12343432&styleName=Text)
 
 
 Bugs:
