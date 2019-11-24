@@ -49,7 +49,8 @@ You can download the appropriate [sources etc. from the download page](https://m
 
 [Release Notes - Maven Surefire - Version 3.0.0-M4](https://issues.apache.org/jira/secure/ReleaseNote.jspa?projectId=12317927&version=12344668)
 
-Bug
+Bugs:
+
  * {%ajl SUREFIRE-1222 %} - ForkClient attempts to consume unrelated lines
  * {%ajl SUREFIRE-1464 %} - Failsafe plugin exposes slf4j-jdk14 dependency
  * {%ajl SUREFIRE-1534 %} - Surefire 2.21.0 ClassNotFoundException: org.apache.maven.plugin.surefire.StartupReportConfiguration using reuseForks set to false
@@ -102,11 +103,11 @@ Tasks:
 
 Dependency upgrades:
 
- * [SUREFIRE-1642] - Upgrade plexus-java to Version 1.0.3
- * [SUREFIRE-1646] - Upgrade maven-artifact-transfer Version 0.11.0
- * [SUREFIRE-1672] - DOXIA updated to version 1.9
- * [SUREFIRE-1674] - DOXIA TOOLS updated to version 1.9.1
- * [SUREFIRE-1685] - Upgrade maven-fluido-skin to 1.8 and maven-site-plugin to 3.8.2
+ * {%ajl SUREFIRE-1642 %} - Upgrade plexus-java to Version 1.0.3
+ * {%ajl SUREFIRE-1646 %} - Upgrade maven-artifact-transfer Version 0.11.0
+ * {%ajl SUREFIRE-1672 %} - DOXIA updated to version 1.9
+ * {%ajl SUREFIRE-1674 %} - DOXIA TOOLS updated to version 1.9.1
+ * {%ajl SUREFIRE-1685 %} - Upgrade maven-fluido-skin to 1.8 and maven-site-plugin to 3.8.2
 
 
 Enjoy,
