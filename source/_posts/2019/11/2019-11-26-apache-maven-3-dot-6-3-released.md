@@ -37,25 +37,25 @@ For more information read https://maven.apache.org/docs/3.6.3/release-notes.html
 
 * Sub-tasks:
 
- * {%ajl MNG-6779 %} - fix jcl-over-slf4j license: Apache 2.0 instead of MIT
+  * {%ajl MNG-6779 %} - fix jcl-over-slf4j license: Apache 2.0 instead of MIT
 
 * Bugs
 
- * {%ajl MNG-6584 %} - Maven version 3.6.0 does not show ReasonPhrase anymore
- * {%ajl MNG-6759 %} - [REGRESSION] Maven fails to use `<repositories>` section from dependency when resolving transitive dependencies in some cases
- * {%ajl MNG-6760 %} - [REGRESSION] ExclusionArtifactFilter result invalid when wildcard exclusion is followed by other exclusions
- * {%ajl MNG-6765 %} - [Regression] tycho pom-less builds fails with 3.6.2
- * {%ajl MNG-6771 %} - Fix license issues on binary distribution
+  * {%ajl MNG-6584 %} - Maven version 3.6.0 does not show ReasonPhrase anymore
+  * {%ajl MNG-6759 %} - [REGRESSION] Maven fails to use `<repositories>` section from dependency when resolving transitive dependencies in some cases
+  * {%ajl MNG-6760 %} - [REGRESSION] ExclusionArtifactFilter result invalid when wildcard exclusion is followed by other exclusions
+  * {%ajl MNG-6765 %} - [Regression] tycho pom-less builds fails with 3.6.2
+  * {%ajl MNG-6771 %} - Fix license issues on binary distribution
 
 * Improvements:
 
- * {%ajl MNG-6778 %} - Use https for schemaLocations
- * {%ajl MNG-6799 %} - avoid model interpolation instability risk: ensure StringVisitorModelInterpolator replaces StringSearchModelInterpolator
+  * {%ajl MNG-6778 %} - Use https for schemaLocations
+  * {%ajl MNG-6799 %} - avoid model interpolation instability risk: ensure StringVisitorModelInterpolator replaces StringSearchModelInterpolator
 
 * Tasks:
 
- * {%ajl MNG-6777 %} - Remove duplicate resolveFile methods
- * {%ajl MNG-6789 %} - Make Maven distribution build Reproducible
+  * {%ajl MNG-6777 %} - Remove duplicate resolveFile methods
+  * {%ajl MNG-6789 %} - Make Maven distribution build Reproducible
 
 
 See [complete release notes for all versions][5]
