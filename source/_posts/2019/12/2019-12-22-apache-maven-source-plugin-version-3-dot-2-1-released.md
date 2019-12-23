@@ -26,8 +26,8 @@ You can download the appropriate sources etc. from the [download page][download]
 
 * Bugs:
 
- * [MSOURCES-122](https://issues.apache.org/jira/browse/MSOURCES-122) - ITs fail due to unexpected EOL characters when building release sources from the ZIP
- * [MSOURCES-123](https://issues.apache.org/jira/browse/MSOURCES-123) - files in maven-shared-archive-resources are added in non-reproducible order
+  * [MSOURCES-122](https://issues.apache.org/jira/browse/MSOURCES-122) - ITs fail due to unexpected EOL characters when building release sources from the ZIP
+  * [MSOURCES-123](https://issues.apache.org/jira/browse/MSOURCES-123) - files in maven-shared-archive-resources are added in non-reproducible order
 
 
 Read https://maven.apache.org/guides/mini/guide-reproducible-builds.html for more information on Reproducible Builds with Maven.
