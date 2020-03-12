@@ -35,19 +35,23 @@ https://maven.apache.org/plugins/maven-checkstyle-plugin/download.cgi
   * {%ajl MCHECKSTYLE-380 %} - Issue tracking page for maven-checkstyle-plugin is not available
   * {%ajl MCHECKSTYLE-384 %} - Incompatibility to Checkstyle version >= 8.24 - Upgrade to 8.28
 
+
 * New Feature:
 
   * {%ajl MCHECKSTYLE-371 %} - Add logViolationCountToConsole property
+
 
 * Improvements:
 
   * {%ajl MCHECKSTYLE-381 %} - Remove usage of deprecated class loading functionality from checkstyle
   * {%ajl MCHECKSTYLE-390 %} - Upgrade to checkstyle 8.29
 
+
 * Task:
 
   * {%ajl MCHECKSTYLE-391 %} - Update parent to 34
   
+
 * Dependency upgrades:
 
   * {%ajl MCHECKSTYLE-388 %} - Update internal dependencies with low impact
