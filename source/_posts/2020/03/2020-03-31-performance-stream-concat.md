@@ -118,10 +118,11 @@ So I began very simple only with the first two solutions (1+2):
  * [The detailed measurement result](https://github.com/khmarbaise/performance-concat/blob/8a666ee61cf117b96ab374dc402df996ff188b7c/docs/result-i.txt)
 
 The following is only an excerpt of the above [The detailed measurement result](https://github.com/khmarbaise/performance-concat/blob/8a666ee61cf117b96ab374dc402df996ff188b7c/docs/result-i.txt)
+(I have remove the prefix `BenchmarkStreamConcat` from all results here in the post).
 ```text
-Benchmark                                 Mode  Cnt   Score   Error  Units
-BenchmarkStreamConcat.with_new_arraylist  avgt   15  22.350 ± 1.415  us/op
-BenchmarkStreamConcat.with_stream_concat  avgt   15  15.716 ± 2.561  us/op
+Benchmark           Mode  Cnt   Score   Error  Units
+with_new_arraylist  avgt   15  22.350 ± 1.415  us/op
+with_stream_concat  avgt   15  15.716 ± 2.561  us/op
 ```
 
 So if you take a look at the results above you can already see that for a small amount of 
@@ -141,17 +142,17 @@ The `getElements()` results always in 49 elements where as the number of `FancyS
 elements varies (see `count`). The following result shows that the version
  with `stream_concat` is always faster.
 ```text
-Benchmark                                 (count)  Mode  Cnt     Score     Error  Units
-BenchmarkStreamConcat.with_new_arraylist       50  avgt   15    21.759 ±   0.797  us/op
-BenchmarkStreamConcat.with_new_arraylist      100  avgt   15    43.309 ±   1.449  us/op
-BenchmarkStreamConcat.with_new_arraylist     1000  avgt   15   498.693 ± 103.550  us/op
-BenchmarkStreamConcat.with_new_arraylist     2000  avgt   15   988.483 ±  80.574  us/op
-BenchmarkStreamConcat.with_new_arraylist     5000  avgt   15  3379.189 ± 376.885  us/op
-BenchmarkStreamConcat.with_stream_concat       50  avgt   15    17.695 ±   3.601  us/op
-BenchmarkStreamConcat.with_stream_concat      100  avgt   15    38.559 ±  13.014  us/op
-BenchmarkStreamConcat.with_stream_concat     1000  avgt   15   458.131 ±  95.578  us/op
-BenchmarkStreamConcat.with_stream_concat     2000  avgt   15   815.142 ± 183.491  us/op
-BenchmarkStreamConcat.with_stream_concat     5000  avgt   15  2682.883 ± 287.596  us/op
+Benchmark           (count)  Mode  Cnt     Score     Error  Units
+with_new_arraylist       50  avgt   15    21.759 ±   0.797  us/op
+with_new_arraylist      100  avgt   15    43.309 ±   1.449  us/op
+with_new_arraylist     1000  avgt   15   498.693 ± 103.550  us/op
+with_new_arraylist     2000  avgt   15   988.483 ±  80.574  us/op
+with_new_arraylist     5000  avgt   15  3379.189 ± 376.885  us/op
+with_stream_concat       50  avgt   15    17.695 ±   3.601  us/op
+with_stream_concat      100  avgt   15    38.559 ±  13.014  us/op
+with_stream_concat     1000  avgt   15   458.131 ±  95.578  us/op
+with_stream_concat     2000  avgt   15   815.142 ± 183.491  us/op
+with_stream_concat     5000  avgt   15  2682.883 ± 287.596  us/op
 ```
 Interestingly this is not only the case for larger number of elements. It is also for
 a small number of elements the case.
@@ -166,15 +167,16 @@ combinations. I honestly have to admit that I underestimated the time it took to
 
 I just picked up some examples of the measured times here:
 ```text
-BenchmarkStreamConcat.with_new_arraylist                        10            1000  avgt   15     77,358 ±   2,957  us/op
-BenchmarkStreamConcat.with_new_arraylist_constructor            10            1000  avgt   15     76,431 ±   1,544  us/op
-BenchmarkStreamConcat.with_new_arraylist_constructor_size       10            1000  avgt   15     73,156 ±   0,118  us/op
-BenchmarkStreamConcat.with_stream_concat                        10            1000  avgt   15     68,461 ±   0,048  us/op
+Benchmark                        (count)  (elementCount) Mode  Cnt      Score     Error  Units
+with_new_arraylist                    10  1000           avgt   15     77,358 ±   2,957  us/op
+with_new_arraylist_constructor        10  1000           avgt   15     76,431 ±   1,544  us/op
+with_new_arraylist_constructor_size   10  1000           avgt   15     73,156 ±   0,118  us/op
+with_stream_concat                    10  1000           avgt   15     68,461 ±   0,048  us/op
 ....
-BenchmarkStreamConcat.with_new_arraylist                      1000            1000  avgt   15  12864,161 ± 164,193  us/op
-BenchmarkStreamConcat.with_new_arraylist_constructor          1000            1000  avgt   15  12703,437 ± 346,234  us/op
-BenchmarkStreamConcat.with_new_arraylist_constructor_size     1000            1000  avgt   15  12401,783 ± 387,433  us/op
-BenchmarkStreamConcat.with_stream_concat                      1000            1000  avgt   15  11613,553 ± 632,684  us/op
+with_new_arraylist                  1000  1000           avgt   15  12864,161 ± 164,193  us/op
+with_new_arraylist_constructor      1000  1000           avgt   15  12703,437 ± 346,234  us/op
+with_new_arraylist_constructor_size 1000  1000           avgt   15  12401,783 ± 387,433  us/op
+with_stream_concat                  1000  1000           avgt   15  11613,553 ± 632,684  us/op
 ```
 
 ### Another run
@@ -185,15 +187,16 @@ So I ran also a solution with all possible options im JMH which took very long (
 
 So I will pick up some examples of the measured times here:
 ```text
-BenchmarkStreamConcat.with_new_arraylist                      1000             500      ss        3  22169330,000 ± 25379203,013   ns/op
-BenchmarkStreamConcat.with_new_arraylist_constructor          1000             500      ss        3   6425606,000 ±  4699006,445   ns/op
-BenchmarkStreamConcat.with_new_arraylist_constructor_size     1000             500      ss        3  22911512,667 ± 13112575,975   ns/op
-BenchmarkStreamConcat.with_stream_concat                      1000             500      ss        3   5328312,333 ±  4162857,199   ns/op
-...
-BenchmarkStreamConcat.with_new_arraylist                      1000            1000      ss        3  13283635,000 ±  7645310,577   ns/op
-BenchmarkStreamConcat.with_new_arraylist_constructor          1000            1000      ss        3  35622844,333 ± 49138969,434   ns/op
-BenchmarkStreamConcat.with_new_arraylist_constructor_size     1000            1000      ss        3  14122526,333 ±  4304061,268   ns/op
-BenchmarkStreamConcat.with_stream_concat                      1000            1000      ss        3  13405022,333 ± 17950218,966   ns/op
+Benchmark                         (count) (elementCount) Mode Cnt Score          Error   Units
+with_new_arraylist                   1000   500          ss   3   22169330,000 ± 25379203,013   ns/op
+with_new_arraylist_constructor       1000   500          ss   3    6425606,000 ±  4699006,445   ns/op
+with_new_arraylist_constructor_size  1000   500          ss   3   22911512,667 ± 13112575,975   ns/op
+with_stream_concat                   1000   500          ss   3    5328312,333 ±  4162857,199   ns/op
+...                                                                                     
+with_new_arraylist                   1000  1000          ss   3   13283635,000 ±  7645310,577   ns/op
+with_new_arraylist_constructor       1000  1000          ss   3   35622844,333 ± 49138969,434   ns/op
+with_new_arraylist_constructor_size  1000  1000          ss   3   14122526,333 ±  4304061,268   ns/op
+with_stream_concat                   1000  1000          ss   3   13405022,333 ± 17950218,966   ns/op
 ```
 
 So finally the question comes: What do those numbers mean?
