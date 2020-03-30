@@ -196,7 +196,7 @@ BenchmarkStreamConcat.with_new_arraylist_constructor_size     1000            10
 BenchmarkStreamConcat.with_stream_concat                      1000            1000      ss        3  13405022,333 ± 17950218,966   ns/op
 ```
 
-So finally the question comes: What does those numbers mean?
+So finally the question comes: What do those numbers mean?
 
 quote from the [JMH](https://github.com/openjdk/jmh) output:
 > REMEMBER: The numbers below are just data. To gain reusable insights, you need to follow up on
