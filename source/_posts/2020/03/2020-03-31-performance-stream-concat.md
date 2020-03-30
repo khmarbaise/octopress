@@ -130,9 +130,9 @@ Hm..is this really true? Not a measuring error or coincidence?
 
 ### Parameterized Measurement
 
-So reduce the likely of being an coincidence or a measuring error I change the code
+To reduce the likely of stumbling over a coincidence or a measuring error I changed the code
 which now takes a parameter and enhanced the number of elements. I stick with the 
-two solutions (1+2). 
+two solutions (1+2).
 
 * [The code](https://github.com/khmarbaise/performance-concat/blob/52480c0648a97e89d0e5007db01212baf7c80536/src/main/java/com/soebes/performance/streams/BenchmarkStreamConcat.java)
 * [The detailed measurement result](https://github.com/khmarbaise/performance-concat/blob/52480c0648a97e89d0e5007db01212baf7c80536/docs/result-ii.text)
