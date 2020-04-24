@@ -31,7 +31,7 @@ You can download the [appropriate sources etc. from the download page][download-
 
 
 * Bug:
-  * {%alj MSHADE-352 %} - shaded jars are not reproducible when using transformer
+  * {%ajl MSHADE-352 %} - shaded jars are not reproducible when using transformer
 
 * Dependency upgrades:
   * {%ajl MSHADE-355 %} - Java 15 Compatibility - JDependecny/ASM Upgrade
