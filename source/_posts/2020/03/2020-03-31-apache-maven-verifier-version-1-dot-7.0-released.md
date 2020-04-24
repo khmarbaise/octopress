@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Apache Maven Shared Component - Maven Archiver Version 3.4.0 Released"
+title: "Apache Maven Shared Component - Maven Archiver Version 1.7.0 Released"
 date: 2020-03-31 18:40:53
 comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Shared]
