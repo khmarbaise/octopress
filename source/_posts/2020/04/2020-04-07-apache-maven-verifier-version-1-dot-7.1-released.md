@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Apache Maven Shared Component - Maven Archiver Version 1.7.1 Released"
+title: "Apache Maven Shared Component - Maven Verifier Version 1.7.1 Released"
 date: 2020-04-07 15:31:53
 comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Shared]
