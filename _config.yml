@@ -2,11 +2,11 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://blog.soebes.de
+url: https://blog.soebes.de
 title: SoftwareEntwicklung Beratung Schulung
 subtitle: A coders, hackers heaven.....Hm...I do not think so...
 author: Karl-Heinz Marbaise
-simple_search: http://google.com/search
+simple_search: https://google.com/search
 description:
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
