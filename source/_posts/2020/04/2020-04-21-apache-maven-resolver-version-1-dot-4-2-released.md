@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Apache Maven Resolver 1.4.2 Released"
-date: 2020-04-21 17:35:29
+date: 2020-04-27 17:35:29
 comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Shared]
 ---
