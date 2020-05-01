@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Apache Maven Assembly Plugin Version 3.3.0 Released"
-date: 2020-04-30 23:15:12
+date: 2020-04-30 22:15:12
 comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---
@@ -30,25 +30,25 @@ You should specify the version in your project's plugin configuration:
 
 * Bugs:
 
-{%ajl MASSEMBLY-879 %} - useDefaultExcludes has no effect in dependencySet/unpack
-{%ajl MASSEMBLY-920 %} - ContainerDescriptorHandler for MetaInf-Services breaks folder structure
-{%ajl MASSEMBLY-932 %} - resource filtering skipped for resources in the current project
+  * {%ajl MASSEMBLY-879 %} - useDefaultExcludes has no effect in dependencySet/unpack
+  * {%ajl MASSEMBLY-920 %} - ContainerDescriptorHandler for MetaInf-Services breaks folder structure
+  * {%ajl MASSEMBLY-932 %} - resource filtering skipped for resources in the current project
 
 * New Features:
 
-{%ajl MASSEMBLY-922 %} - allow to override UID/GID and user name and group name for files stored in TAR (and other formats that store UID/GID)
-{%ajl MASSEMBLY-927 %} - Support for properties mapping on executions of maven-assembly-plugin
-{%ajl MASSEMBLY-934 %} - Support concatenation of files
+  * {%ajl MASSEMBLY-922 %} - allow to override UID/GID and user name and group name for files stored in TAR (and other formats that store UID/GID)
+  * {%ajl MASSEMBLY-927 %} - Support for properties mapping on executions of maven-assembly-plugin
+  * {%ajl MASSEMBLY-934 %} - Support concatenation of files
 
 * Improvements:
 
-{%ajl MASSEMBLY-765 %} - add property groupIdPath
-{%ajl MASSEMBLY-849 %} - Add nonFilteredFileExtensions to avoid filtering of binary files
-{%ajl MASSEMBLY-933 %} - make build Reproducible
+  * {%ajl MASSEMBLY-765 %} - add property groupIdPath
+  * {%ajl MASSEMBLY-849 %} - Add nonFilteredFileExtensions to avoid filtering of binary files
+  * {%ajl MASSEMBLY-933 %} - make build Reproducible
 
 * Dependency upgrade:
 
-{%ajl MASSEMBLY-924 %} - Upgrade commons-compress to 1.19
+  * {%ajl MASSEMBLY-924 %} - Upgrade commons-compress to 1.19
 
 Enjoy,
 
