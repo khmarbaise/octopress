@@ -7,7 +7,7 @@ categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---
 Hi to all,
 
-i have released a new version of the [Iterator Maven Plugin](http://khmarbaise.github.io/iterator-maven-plugin/) 
+i have released a new version of the [Iterator Maven Plugin](https://khmarbaise.github.io/iterator-maven-plugin/) 
 which can iterate over items.
 
 The release notes can be found [here](https://github.com/khmarbaise/iterator-maven-plugin/issues?q=milestone%3A%22Release+0.4%22+is%3Aclosed).
@@ -29,7 +29,7 @@ Furthermore if you find bugs, having ideas for improvements etc. do not hesitate
 to contact me via [Github Issue tracking system](https://github.com/khmarbaise/iterator-maven-plugin/issues).
 
 The iterator-maven-plugin is available via 
-[Maven Central](http://search.maven.org/#search|ga|1|a%3A%22iterator-maven-plugin%22).
+[Maven Central](https://search.maven.org/#search|ga|1|a%3A%22iterator-maven-plugin%22).
 
 <!-- more -->
 

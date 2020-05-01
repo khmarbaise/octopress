@@ -6,7 +6,7 @@ comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---
 The MojoHaus team is pleased to announce the release of the 
-[Build Helper Maven Plugin Version 1.11](http://www.mojohaus.org/build-helper-maven-plugin/).
+[Build Helper Maven Plugin Version 1.11](https://www.mojohaus.org/build-helper-maven-plugin/).
 
 This plugin contains various small independent goals to assist with Maven
 build lifecycle.
@@ -23,7 +23,7 @@ configuration:
 ```
 <!-- more -->
 
-[Release Notes](http://www.mojohaus.org/build-helper-maven-plugin/github-report.html)
+[Release Notes](https://www.mojohaus.org/build-helper-maven-plugin/github-report.html)
 
 Enjoy,
 

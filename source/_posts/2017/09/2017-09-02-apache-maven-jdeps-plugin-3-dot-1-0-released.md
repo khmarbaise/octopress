@@ -6,7 +6,7 @@ comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---
 The Apache Maven team is pleased to announce the release of the 
-[Apache Maven JDeps Plugin, version 3.1.0](http://maven.apache.org/plugins/maven-jdeps-plugin/).
+[Apache Maven JDeps Plugin, version 3.1.0](https://maven.apache.org/plugins/maven-jdeps-plugin/).
  
 The JDeps Plugin uses the jdeps tool to analyze classes for internal API 
 calls. For more information about the standard jdeps tool, please refer to 
@@ -24,7 +24,7 @@ You should specify the version in your project's plugin configuration:
 
 Starting with version 3.1.0 you need Java 7 to use maven-jdeps-plugin.
  
-[You can download the appropriate sources etc. from the download page.](http://maven.apache.org/plugins/maven-jdeps-plugin/download.cgi).
+[You can download the appropriate sources etc. from the download page.](https://maven.apache.org/plugins/maven-jdeps-plugin/download.cgi).
 
 <!-- more -->
 

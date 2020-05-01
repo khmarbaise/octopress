@@ -6,7 +6,7 @@ comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Shared]
 ---
 The Apache Maven team is pleased to announce the release of the 
-[Apache Shared Component: Apache Maven Dependency Tree Version 3.0.1](http://maven.apache.org/shared/maven-dependency-tree/)
+[Apache Shared Component: Apache Maven Dependency Tree Version 3.0.1](https://maven.apache.org/shared/maven-dependency-tree/)
 
 A tree-based API for resolution of Maven project dependencies.
 

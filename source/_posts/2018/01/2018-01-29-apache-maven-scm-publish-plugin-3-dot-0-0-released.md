@@ -6,7 +6,7 @@ comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---
 The Apache Maven team is pleased to announce the release of the 
-[Apache Maven SCM Publish Plugin, version 3.0.0](http://maven.apache.org/plugins/maven-scm-publish-plugin/)
+[Apache Maven SCM Publish Plugin, version 3.0.0](https://maven.apache.org/plugins/maven-scm-publish-plugin/)
 
 The maven-scm-publish-plugin is a utility plugin to allow publishing Maven 
 website to any supported SCM. The primary goal was to have an utility plugin 

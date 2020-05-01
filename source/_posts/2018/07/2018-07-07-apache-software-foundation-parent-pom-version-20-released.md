@@ -6,7 +6,7 @@ comments: true
 categories: asf
 ---
 The Apache Maven team is pleased to announce the release of the 
-[Apache Software Foundation Parent POM Version 20](http://maven.apache.org/pom/asf/).
+[Apache Software Foundation Parent POM Version 20](https://maven.apache.org/pom/asf/).
 
 You should specify the version in your project as parent like the following:
 
@@ -19,7 +19,7 @@ You should specify the version in your project as parent like the following:
 ```
 You can download the appropriate sources etc. from the download page:
 
-http://maven.apache.org/pom/asf/download.html
+https://maven.apache.org/pom/asf/download.html
 
 
 <!-- more -->

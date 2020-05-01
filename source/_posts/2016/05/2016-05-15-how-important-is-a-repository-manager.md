@@ -84,5 +84,5 @@ So running a repository manager is always a wise decision.
 [pmc-member-khmarbaise]: https://maven.apache.org/team-list.html#khmarbaise
 [apache-maven]: https://maven.apache.org/
 [repository-manager]: https://maven.apache.org/repository-management.html
-[npm-desaster]: http://blog.npmjs.org/post/141577284765/kik-left-pad-and-npm
-[central-faq]: http://central.sonatype.org/articles/2014/Feb/06/can-i-change-a-component-on-central/
+[npm-desaster]: https://blog.npmjs.org/post/141577284765/kik-left-pad-and-npm
+[central-faq]: https://central.sonatype.org/articles/2014/Feb/06/can-i-change-a-component-on-central/

@@ -8,7 +8,7 @@ categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 Hi,
 
 The Mojo team is pleased to announce the release of 
-[Mojo's JAXB-2 Maven Plugin version 2.3.1](http://www.mojohaus.org/jaxb2-maven-plugin/Documentation/v2.3.1/index.html)
+[Mojo's JAXB-2 Maven Plugin version 2.3.1](https://www.mojohaus.org/jaxb2-maven-plugin/Documentation/v2.3.1/index.html)
 
 
 To get this update, simply specify the version in your project's plugin configuration:
@@ -21,7 +21,7 @@ To get this update, simply specify the version in your project's plugin configur
 </plugin>
 ```
 
-[Release Notes for Version 2.3.1 Release](http://www.mojohaus.org/jaxb2-maven-plugin/Documentation/v2.3.1/github-report.html)
+[Release Notes for Version 2.3.1 Release](https://www.mojohaus.org/jaxb2-maven-plugin/Documentation/v2.3.1/github-report.html)
 
 Enjoy,
 

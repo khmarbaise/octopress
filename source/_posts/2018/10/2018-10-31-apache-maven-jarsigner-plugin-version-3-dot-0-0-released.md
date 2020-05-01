@@ -25,7 +25,7 @@ You should specify the component in your pom file like this:
 
 <!-- more -->
 
-[Release Notes - Maven Shared Component - Maven Jarsigner - Version 3.0.0](http://jira.codehaus.org/secure/ReleaseNote.jspa?projectId=11990&version=19865).
+[Release Notes - Maven Shared Component - Maven Jarsigner - Version 3.0.0](https://jira.codehaus.org/secure/ReleaseNote.jspa?projectId=11990&version=19865).
 
 Bug:
 

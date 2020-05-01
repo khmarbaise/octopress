@@ -6,7 +6,7 @@ comments: true
 categories: 
 ---
 The Apache Maven team is pleased to announce the release of the 
-[Apache Software Foundation Parent POM Version 18](http://maven.apache.org/pom/asf/).
+[Apache Software Foundation Parent POM Version 18](https://maven.apache.org/pom/asf/).
 
 You should specify the version in your project as parent like the following:
 

@@ -452,7 +452,7 @@ So this was much longer post.
 [example-release]: https://blogs.apache.org/maven/entry/apache-shared-component-apache-maven
 [jira-cli]: https://github.com/Netflix-Skunkworks/go-jira/
 [jira-cli-downloads]: https://github.com/Netflix-Skunkworks/go-jira/releases
-[yaml]: http://yaml.org/
+[yaml]: https://yaml.org/
 [release-notes]: https://github.com/khmarbaise/maven-release-notes
 [help-plugin]: https://maven.apache.org/plugins/maven-help-plugin/
 [custom-commands]: https://github.com/Netflix-Skunkworks/go-jira#custom-commands-1

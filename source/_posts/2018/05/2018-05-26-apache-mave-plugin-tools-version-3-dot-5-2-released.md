@@ -6,7 +6,7 @@ comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---
 The Apache Maven team is pleased to announce the release of the 
-[Apache Maven Plugin Tools, version 3.5.2](http://maven.apache.org/plugin-tools/).
+[Apache Maven Plugin Tools, version 3.5.2](https://maven.apache.org/plugin-tools/).
 
 The Maven Plugin Tools contains the necessary tools to generate  
 rebarbative content like descriptor, help and documentation. In addition,  

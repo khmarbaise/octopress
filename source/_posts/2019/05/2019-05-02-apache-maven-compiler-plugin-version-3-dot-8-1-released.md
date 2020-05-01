@@ -6,7 +6,7 @@ comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---
 The Apache Maven team is pleased to announce the release of the 
-[Apache Maven Compiler Plugin, version 3.8.1](http://maven.apache.org/plugins/maven-compiler-plugin/).
+[Apache Maven Compiler Plugin, version 3.8.1](https://maven.apache.org/plugins/maven-compiler-plugin/).
 
 The Compiler Plugin is used to compile the sources of your project. 
 

@@ -6,12 +6,12 @@ comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---
 The Apache Maven team is pleased to announce the release of the 
-[Apache Maven JMod Plugin, version 3.0.0-alpha-1](http://maven.apache.org/plugins/maven-jmod-plugin/).
+[Apache Maven JMod Plugin, version 3.0.0-alpha-1](https://maven.apache.org/plugins/maven-jmod-plugin/).
 
 This is the first public release of this plugin. It is explicitly an alpha version which 
 means you can give feedback how to use it or how to improve the plugin.
 
-The JMod Plugin is intended to create a [JMod files](http://openjdk.java.net/jeps/261) via jmod.
+The JMod Plugin is intended to create a [JMod files](https://openjdk.java.net/jeps/261) via jmod.
 
 https://maven.apache.org/plugins/maven-jmod-plugin/
 

@@ -6,7 +6,7 @@ comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---
 The MojoHaus team is pleased to announce the release of the 
-[Versions Maven Plugin Version 2.3](http://www.mojohaus.org/versions-maven-plugin/).
+[Versions Maven Plugin Version 2.3](https://www.mojohaus.org/versions-maven-plugin/).
 
 The Versions Plugin is used when you want to manage the versions of artifacts
 in a project's POM.
@@ -23,7 +23,7 @@ configuration:
 ```
 <!-- more -->
 
-[Release Notes](http://www.mojohaus.org/versions-maven-plugin/github-report.html)
+[Release Notes](https://www.mojohaus.org/versions-maven-plugin/github-report.html)
 
 Enjoy,
 

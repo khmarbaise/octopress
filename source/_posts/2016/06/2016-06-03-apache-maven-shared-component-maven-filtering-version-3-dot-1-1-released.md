@@ -6,7 +6,7 @@ comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Shared]
 ---
 The Apache Maven team is pleased to announce the release of the 
-[Apache Maven Shared Component: Maven Filtering Version 3.1.1](http://maven.apache.org/shared/maven-filtering/).
+[Apache Maven Shared Component: Maven Filtering Version 3.1.1](https://maven.apache.org/shared/maven-filtering/).
 
 The goal is to provide a shared component for all plugins that needs to filter
 resources.
@@ -26,7 +26,7 @@ You should specify the version in your project's plugin configuration:
 </plugin>
 ```
 
-[You can download the appropriate sources etc. from the download page](http://maven.apache.org/shared/maven-filtering/download.cgi).
+[You can download the appropriate sources etc. from the download page](https://maven.apache.org/shared/maven-filtering/download.cgi).
 
 
 <!-- more -->

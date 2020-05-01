@@ -6,7 +6,7 @@ comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Shared]
 ---
 The Apache Maven team is pleased to announce the release of the 
-[Apache Shared Component: Apache Maven Artifact Transfer Version 0.12.0](http://maven.apache.org/shared/maven-artifact-transfer/)
+[Apache Shared Component: Apache Maven Artifact Transfer Version 0.12.0](https://maven.apache.org/shared/maven-artifact-transfer/)
 
 An API to install, deploy and resolving artifacts with Maven3
 

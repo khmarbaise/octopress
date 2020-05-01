@@ -5,7 +5,7 @@ date: 2017-03-01 19:04:31
 comments: true
 categories: [Neuigkeiten,BM,Maven]
 ---
-The Apache Maven team would like to announce the release of [Maven 3.5.0-alpha-1](http://maven.apache.org/).
+The Apache Maven team would like to announce the release of [Maven 3.5.0-alpha-1](https://maven.apache.org/).
 
 NOTE: This is an ALPHA release. There is the potential that features may be
 added/removed between this release and the first GA release in the 3.5.x
@@ -52,7 +52,7 @@ being delivered and bugs fixed in Maven 3.4.0 and the new history may not
 contain them in the first release, the decision was taken to forever burn
 the 3.4.x release line.
 
-More detail on this decision can be read in the [mailing list archive](http://www.mail-archive.com/dev@maven.apache.org/msg112103.html).
+More detail on this decision can be read in the [mailing list archive](https://www.mail-archive.com/dev@maven.apache.org/msg112103.html).
 
 <!-- more -->
 

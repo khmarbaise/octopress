@@ -8,7 +8,7 @@ categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 Hi,
 
 The MojoHaus team is pleased to announce the release of the 
-[Mock Repository Manager Maven Plugin version 1.0.0](http://www.mojohaus.org/mrm/mrm-maven-plugin/).
+[Mock Repository Manager Maven Plugin version 1.0.0](https://www.mojohaus.org/mrm/mrm-maven-plugin/).
 
 The Mock Repository Manager Plugin is used when you want to test Maven
 plugins against specific sets of dependencies in a repository.
@@ -26,7 +26,7 @@ configuration:
 </plugin>
 ```
 
-[Release Notes - Mojo's Mock Repository Manager - Version 1.0.0](http://www.mojohaus.org/mrm/github-report.html)
+[Release Notes - Mojo's Mock Repository Manager - Version 1.0.0](https://www.mojohaus.org/mrm/github-report.html)
 
 Enjoy,
 

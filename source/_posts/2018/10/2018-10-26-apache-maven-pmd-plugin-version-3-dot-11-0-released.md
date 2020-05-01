@@ -6,7 +6,7 @@ comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---
 The Maven team is pleased to announce the release of the 
-[Apache Maven PMD Plugin, version 3.11.0](http://maven.apache.org/plugins/maven-pmd-plugin/)
+[Apache Maven PMD Plugin, version 3.11.0](https://maven.apache.org/plugins/maven-pmd-plugin/)
 
 A Maven plugin for the PMD toolkit, that produces a report on both code rule
 violations and detected copy and paste fragments, as well as being able to fail

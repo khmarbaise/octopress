@@ -6,7 +6,7 @@ comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---
 The Apache Maven team is pleased to announce the release of the 
-[Apache Maven WAR Plugin, version 3.2.3](http://maven.apache.org/plugins/maven-war-plugin/).
+[Apache Maven WAR Plugin, version 3.2.3](https://maven.apache.org/plugins/maven-war-plugin/).
 
 The WAR Plugin is responsible for collecting all artifact dependencies, classes
 and resources of the web application and packaging them into a web application

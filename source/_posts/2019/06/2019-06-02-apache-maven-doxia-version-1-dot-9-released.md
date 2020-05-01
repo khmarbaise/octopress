@@ -6,7 +6,7 @@ comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Components]
 ---
 The Apache Maven team is pleased to announce the release of the 
-[Doxia Site Tools](http://maven.apache.org/doxia/doxia-sitetools/) Version 1.9, 
+[Doxia Site Tools](https://maven.apache.org/doxia/doxia-sitetools/) Version 1.9, 
 Released
 
 Doxia Sitetools is an extension of base Doxia component that generates either 
@@ -66,4 +66,4 @@ Enjoy,
 
 -The Apache Maven team
 
-[download]: http://maven.apache.org/doxia/doxia-sitetools/download.cgi
+[download]: https://maven.apache.org/doxia/doxia-sitetools/download.cgi

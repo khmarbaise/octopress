@@ -40,7 +40,7 @@ You should specify the version in your project as parent like the following:
 
 You can download the appropriate sources etc. from the download page:
 
-http://maven.apache.org/pom/asf/download.html
+https://maven.apache.org/pom/asf/download.html
 
 
 Release Notes - Maven POMs - Version ASF-21

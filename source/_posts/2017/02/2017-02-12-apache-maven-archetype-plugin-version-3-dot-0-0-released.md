@@ -6,7 +6,7 @@ comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---
 The Apache Maven team is pleased to announce the release of the 
-[Apache Maven Archetype Plugin, version 3.0.0](http://maven.apache.org/archetype/maven-archetype-plugin/).
+[Apache Maven Archetype Plugin, version 3.0.0](https://maven.apache.org/archetype/maven-archetype-plugin/).
 
 The Archetype Plugin allows the user to create a Maven project from an existing template called an archetype.
 It also allows the user to create an archetype from an existing project.

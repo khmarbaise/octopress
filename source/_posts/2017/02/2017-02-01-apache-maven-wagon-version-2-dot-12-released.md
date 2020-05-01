@@ -6,7 +6,7 @@ comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---
 The Apache Maven team is pleased to announce the release of 
-[Apache Maven Wagon 2.12](http://maven.apache.org/wagon/).
+[Apache Maven Wagon 2.12](https://maven.apache.org/wagon/).
 
 Apache Maven Wagon is a transport abstraction that is used in Maven's
 artifact and repository handling code.

@@ -6,7 +6,7 @@ comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---
 The Apache Maven team is pleased to announce the release of the [Apache
-Maven AntRun Plugin, version 3.0.0](http://maven.apache.org/plugins/maven-antrun-plugin/).
+Maven AntRun Plugin, version 3.0.0](https://maven.apache.org/plugins/maven-antrun-plugin/).
 
 This plugin provides the ability to run Ant tasks from within Maven. You can even embed your Ant 
 scripts in the POM!

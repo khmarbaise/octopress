@@ -6,7 +6,7 @@ comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---
 The Extra Enforcer Rules team is pleased to announce the release of the 
-[Extra Enforcer Rules version 1.0-beta-7](http://www.mojohaus.org/extra-enforcer-rules/).
+[Extra Enforcer Rules version 1.0-beta-7](https://www.mojohaus.org/extra-enforcer-rules/).
 
 Apache's Maven Enforcer Plugin is used to apply and enforce rules on your 
 Maven projects. 

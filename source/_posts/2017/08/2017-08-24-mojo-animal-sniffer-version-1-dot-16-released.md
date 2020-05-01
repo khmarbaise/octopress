@@ -6,7 +6,7 @@ comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---
 The Mojo team is pleased to announce the release of 
-[Animal Sniffer version 1.16](http://mojo.codehaus.org/animal-sniffer/).
+[Animal Sniffer version 1.16](https://mojo.codehaus.org/animal-sniffer/).
 
 Animal Sniffer provides tools to assist verifying that classes
 compiled with a newer JDK/API are compatible with an older JDK/API.

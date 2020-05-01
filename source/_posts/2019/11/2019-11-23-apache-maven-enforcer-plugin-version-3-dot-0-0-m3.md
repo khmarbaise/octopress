@@ -6,7 +6,7 @@ comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---
 The Apache Maven team is pleased to announce the release of the 
-[Apache Maven Enforcer Plugin, version 3.0.0-M3](http://maven.apache.org/plugins/maven-surefire-plugin/).
+[Apache Maven Enforcer Plugin, version 3.0.0-M3](https://maven.apache.org/plugins/maven-surefire-plugin/).
 
 You should specify the version in your project's plugin configuration:
 

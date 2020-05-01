@@ -6,11 +6,11 @@ comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---
 The Apache Maven team is pleased to announce the release of the 
-[Apache Maven Archetype Plugin, version 3.0.1](http://maven.apache.org/archetype/maven-archetype-plugin/).
+[Apache Maven Archetype Plugin, version 3.0.1](https://maven.apache.org/archetype/maven-archetype-plugin/).
 
 In short, Archetype is a Maven project templating toolkit. An archetype is defined as an original pattern or model from which all other things of the same kind are made. The names fits as we are trying to provide a system that provides a consistent means of generating Maven projects. Archetype will help authors create Maven project templates for users, and provides users with the means to generate parameterized versions of those project templates.
 
-http://maven.apache.org/archetype/maven-archetype-plugin/index.html
+https://maven.apache.org/archetype/maven-archetype-plugin/index.html
 
 You should specify the version in your project's plugin configuration:
 

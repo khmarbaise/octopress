@@ -6,7 +6,7 @@ comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---
 The Mojo team is pleased to announce the release of the 
-[RPM Maven Plugin version 2.1.5](http://mojo.codehaus.org/rpm-maven-plugin/).
+[RPM Maven Plugin version 2.1.5](https://mojo.codehaus.org/rpm-maven-plugin/).
 
 The RPM Maven Plugin allows artifacts from one or more projects to be packaged
 in an RPM for distribution. In addition to project artifacts, the RPM can

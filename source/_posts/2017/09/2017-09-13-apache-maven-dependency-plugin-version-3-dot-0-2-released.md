@@ -6,7 +6,7 @@ comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---
 The Apache Maven team is pleased to announce the release of the 
-[Apache Maven Dependecy Plugin, version 3.0.2](http://maven.apache.org/plugins/maven-dependency-plugin/).
+[Apache Maven Dependecy Plugin, version 3.0.2](https://maven.apache.org/plugins/maven-dependency-plugin/).
 
 The dependency plugin provides the capability to manipulate artifacts. It
 can copy and/or unpack artifacts from local or remote repositories to a

@@ -6,7 +6,7 @@ comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Shared]
 ---
 The Apache Maven team is pleased to announce the release of the 
-[Apache Maven Shared Component: Maven Dependency Analyzer Version 1.7](http://maven.apache.org/shared/maven-dependency-analyzer/)
+[Apache Maven Shared Component: Maven Dependency Analyzer Version 1.7](https://maven.apache.org/shared/maven-dependency-analyzer/)
 
 Analyzes the dependencies of a project for undeclared or unused artifacts.
 

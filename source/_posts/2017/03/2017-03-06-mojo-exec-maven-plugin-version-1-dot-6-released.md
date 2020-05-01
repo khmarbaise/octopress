@@ -6,7 +6,7 @@ comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---
 The Mojo team is pleased to announce the release of the 
-[Exec Maven Plugin version 1.6.0](http://mojo.codehaus.org/exec-maven-plugin/).
+[Exec Maven Plugin version 1.6.0](https://mojo.codehaus.org/exec-maven-plugin/).
 
 The plugin helps with execution of system and Java programs.
 

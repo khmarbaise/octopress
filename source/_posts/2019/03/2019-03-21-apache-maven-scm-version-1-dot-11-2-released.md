@@ -13,7 +13,7 @@ tools (e.g. Continuum) by providing them with a common API for doing SCM
 operations. You can look at the list of SCMs for more information on using
 Maven SCM with your favorite SCM tool.
 
-You can download the appropriate [sources etc. from the download page](http://maven.apache.org/scm/download.cgi).
+You can download the appropriate [sources etc. from the download page](https://maven.apache.org/scm/download.cgi).
 
 <!-- more -->
 

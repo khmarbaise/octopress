@@ -140,7 +140,7 @@ on Github.
 Any feedback is appreciated.
 
 
-[build-multiple-ii]: http://blog.soebes.de/blog/2011/08/11/maven-configuration-for-multipe-environments-ii/
-[build-multiple-i]: http://blog.soebes.de/blog/2011/07/29/maven-configuration-for-multipe-environments/
+[build-multiple-ii]: https://blog.soebes.de/blog/2011/08/11/maven-configuration-for-multipe-environments-ii/
+[build-multiple-i]: https://blog.soebes.de/blog/2011/07/29/maven-configuration-for-multipe-environments/
 [multienv-maven-plugin]: https://khmarbaise.github.io/multienv-maven-plugin/
 [issues]: https://github.com/khmarbaise/multienv-maven-plugin/issues

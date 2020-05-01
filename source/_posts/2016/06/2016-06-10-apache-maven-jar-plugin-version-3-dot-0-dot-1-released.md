@@ -6,7 +6,7 @@ comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---
 The Apache Maven team is pleased to announce the release of the 
-[Apache Maven Jar Plugin, version 3.0.1](http://maven.apache.org/plugins/maven-jar-plugin/).
+[Apache Maven Jar Plugin, version 3.0.1](https://maven.apache.org/plugins/maven-jar-plugin/).
 
 This plugin provides the capability to build jars.
 

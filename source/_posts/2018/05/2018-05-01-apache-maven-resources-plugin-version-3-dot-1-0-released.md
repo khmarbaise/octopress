@@ -6,7 +6,7 @@ comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---
 The Apache Maven team is pleased to announce the release of the 
-[Apache Maven Resources Plugin, Version 3.1.0](http://maven.apache.org/plugins/maven-resources-plugin).
+[Apache Maven Resources Plugin, Version 3.1.0](https://maven.apache.org/plugins/maven-resources-plugin).
 
 The Resources Plugin handles the copying of project resources to the output
 directory. There are two different kinds of resources: main resources and test

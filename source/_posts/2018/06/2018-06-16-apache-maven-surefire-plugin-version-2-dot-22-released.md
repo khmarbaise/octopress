@@ -6,7 +6,7 @@ comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---
 The Apache Maven team is pleased to announce the release of the 
-[Apache Maven Surefire Plugin, version 2.22.0](http://maven.apache.org/plugins/maven-surefire-plugin/).
+[Apache Maven Surefire Plugin, version 2.22.0](https://maven.apache.org/plugins/maven-surefire-plugin/).
 
 
 The release contains 33 bug fixes.

@@ -6,7 +6,7 @@ comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---
 The Apache Maven team is pleased to announce the release of the 
-[Apache Maven SCM, version 1.9.5](http://maven.apache.org/scm/).
+[Apache Maven SCM, version 1.9.5](https://maven.apache.org/scm/).
 
 Maven SCM supports Maven 2.x plugins (e.g. maven-release-plugin) and other
 tools (e.g. Continuum) by providing them with a common API for doing SCM

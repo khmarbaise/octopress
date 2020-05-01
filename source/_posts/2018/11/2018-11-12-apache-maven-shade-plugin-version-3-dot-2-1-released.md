@@ -6,7 +6,7 @@ comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---
 The Apache Maven team is pleased to announce the release of the [Apache
-Maven Shade Plugin, version 3.2.1](http://maven.apache.org/plugins/maven-shade-plugin/).
+Maven Shade Plugin, version 3.2.1](https://maven.apache.org/plugins/maven-shade-plugin/).
 
 This plugin provides the capability to package the artifact in an uber-jar,
 including its dependencies and to shade - i.e. rename - the packages of some of

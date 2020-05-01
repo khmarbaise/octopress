@@ -6,7 +6,7 @@ comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Shared]
 ---
 The Apache Maven team is pleased to announce the release of the 
-[Apache Maven Shared Maven Invoker, version 3.1.0](http://maven.apache.org/shared/maven-invoker/)
+[Apache Maven Shared Maven Invoker, version 3.1.0](https://maven.apache.org/shared/maven-invoker/)
 
 This API is concerned with firing a Maven build in a new JVM. It accomplishes
 its task by building up a conventional Maven command line from options given in
@@ -17,7 +17,7 @@ Input/output control can be specified using an InputStream and up to two
 InvocationOutputHandlers.
 
 You can download the appropriate sources etc. from the 
-[download page](http://maven.apache.org/shared/maven-invoker/download.cgi).
+[download page](https://maven.apache.org/shared/maven-invoker/download.cgi).
 
 
 ``` xml

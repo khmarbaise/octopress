@@ -6,12 +6,12 @@ comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Shared]
 ---
 The Apache Maven team is pleased to announce the release of the 
-[Apache Shared Component: Apache Maven Reporting Impl. Version 3.0.0](http://maven.apache.org/shared/maven-reporting-impl/)
+[Apache Shared Component: Apache Maven Reporting Impl. Version 3.0.0](https://maven.apache.org/shared/maven-reporting-impl/)
 
 Abstract classes to manage report generation, which can be run both:
 
- * as part of a site generation, as a [maven-reporting-api](http://maven.apache.org/shared/maven-reporting-api/)'s [MavenReport](http://maven.apache.org/shared/maven-reporting-api/apidocs/org/apache/maven/reporting/MavenReport.html),
- * or as a direct standalone goal invocation, as a [maven-plugin-api](http://maven.apache.org/ref/current/maven-plugin-api/)'s [Mojo](http://maven.apache.org/ref/current/maven-plugin-api/apidocs/org/apache/maven/plugin/Mojo.html).
+ * as part of a site generation, as a [maven-reporting-api](https://maven.apache.org/shared/maven-reporting-api/)'s [MavenReport](https://maven.apache.org/shared/maven-reporting-api/apidocs/org/apache/maven/reporting/MavenReport.html),
+ * or as a direct standalone goal invocation, as a [maven-plugin-api](https://maven.apache.org/ref/current/maven-plugin-api/)'s [Mojo](https://maven.apache.org/ref/current/maven-plugin-api/apidocs/org/apache/maven/plugin/Mojo.html).
 
 
 ``` xml

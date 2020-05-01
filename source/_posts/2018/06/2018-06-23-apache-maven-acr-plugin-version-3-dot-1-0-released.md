@@ -6,7 +6,7 @@ comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---
 The Apache Maven team is pleased to announce the release of the 
-[Apache Maven ACR Plugin, Version 3.1.0](http://maven.apache.org/plugins/maven-acr-plugin).
+[Apache Maven ACR Plugin, Version 3.1.0](https://maven.apache.org/plugins/maven-acr-plugin).
 
 This plugin generates J2EE Application Client file.
 

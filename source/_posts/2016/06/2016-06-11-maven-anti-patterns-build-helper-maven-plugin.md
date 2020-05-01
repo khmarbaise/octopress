@@ -73,8 +73,8 @@ is wrong. It is the usage of the [Build Helper Maven Plugin][build-helper-maven-
 in the described relationship.
 
 
-[jaxb2-maven-plugin]: http://www.mojohaus.org/jaxb2-maven-plugin/Documentation/v2.2/
-[antlr4-maven-plugin]: http://www.antlr.org/api/maven-plugin/latest/
-[templating-maven-plugin]: http://www.mojohaus.org/templating-maven-plugin/
+[jaxb2-maven-plugin]: https://www.mojohaus.org/jaxb2-maven-plugin/Documentation/v2.2/
+[antlr4-maven-plugin]: https://www.antlr.org/api/maven-plugin/latest/
+[templating-maven-plugin]: https://www.mojohaus.org/templating-maven-plugin/
 [maven-compiler-plugin]: https://maven.apache.org/plugins/maven-compiler-plugin/
-[build-helper-maven-plugin]: http://www.mojohaus.org/build-helper-maven-plugin/
+[build-helper-maven-plugin]: https://www.mojohaus.org/build-helper-maven-plugin/

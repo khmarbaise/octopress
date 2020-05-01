@@ -176,5 +176,5 @@ write such setup scripts which is a great thing.
 [docker-image]: https://hub.docker.com/r/sonatype/nexus/
 [docker]: https://www.docker.com/
 [cypress]: https://cypress.io
-[jquery]: http://jquery.com/
+[jquery]: https://jquery.com/
 [ldap-configuration]: https://stackoverflow.com/questions/39903588/nexus3-configure-ldap-with-api

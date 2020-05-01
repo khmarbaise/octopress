@@ -45,5 +45,5 @@ Enjoy,
 
 -The Apache Maven team
 
-[download]: http://maven.apache.org/doxia/doxia-sitetools/download.cgi
+[download]: https://maven.apache.org/doxia/doxia-sitetools/download.cgi
  

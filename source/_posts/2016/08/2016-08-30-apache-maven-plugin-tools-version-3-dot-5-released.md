@@ -6,7 +6,7 @@ comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---
 The Apache Maven team is pleased to announce the release of the 
-[Apache Maven Plugin Tools, version 3.5](http://maven.apache.org/plugin-tools/).
+[Apache Maven Plugin Tools, version 3.5](https://maven.apache.org/plugin-tools/).
 
 The Maven Plugin Tools contains the necessary tools to generate rebarbative
 content like descriptor, help and documentation. In addition, it provides tools
@@ -17,7 +17,7 @@ Mojo's found in the source tree, to include in the JAR. It is also used to
 generate report files for the Mojos as well as for updating the plugin
 registry, the artifact metadata and generating a generic help goal. 
 
-http://maven.apache.org/plugin-tools/maven-plugin-plugin/
+https://maven.apache.org/plugin-tools/maven-plugin-plugin/
 
 You should specify the version in your project's plugin configuration:
 
@@ -50,7 +50,7 @@ Improvements:
  * [MPLUGIN-289] - better output when extracting info
  * [MPLUGIN-295] - Upgrade Maven Invoker Plugin version to 1.10
  * [MPLUGIN-300] - Prepare taglets for Java9
- * [MPLUGIN-301] - The text http://maven.apache.org/plugin-tools/maven-plugin-plugin/examples/using-annotations.html should be improved
+ * [MPLUGIN-301] - The text https://maven.apache.org/plugin-tools/maven-plugin-plugin/examples/using-annotations.html should be improved
  * [MPLUGIN-304] - MojoAnnotationsScanner should ignore special classes
  * [MPLUGIN-305] - MojoAnnotationsScanner should have better control over dependency scanning
 

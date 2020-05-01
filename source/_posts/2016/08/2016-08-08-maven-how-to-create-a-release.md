@@ -205,7 +205,7 @@ produce conflicts if you do a merge from one branch to another.
 [maven-release-plugin]: https://maven.apache.org/plugins/maven-release-plugin/
 [maven-release-plugin-prepare]: https://maven.apache.org/maven-release/maven-release-plugin/examples/prepare-release.html
 [maven-release-plugin-perform]: https://maven.apache.org/maven-release/maven-release-plugin/examples/perform-release.html
-[versions-maven-plugin]: http://www.mojohaus.org/versions-maven-plugin/
+[versions-maven-plugin]: https://www.mojohaus.org/versions-maven-plugin/
 [jenkins]: https://jenkins.io/
 [MNG-6078]: https://issues.apache.org/jira/browse/MNG-6078
 [maven-release-notes-3.2.1]: https://maven.apache.org/docs/3.2.1/release-notes.html#Continuous_delivery_friendly_versions

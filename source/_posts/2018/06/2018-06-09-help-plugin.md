@@ -54,4 +54,4 @@ GROUPID=$(mvn help:evaluate \
 ```
 
 
-[mph-3.1.0]: http://blog.soebes.de/blog/2018/06/09/apache-maven-help-plugin-version-3-dot-1-0-released/
+[mph-3.1.0]: https://blog.soebes.de/blog/2018/06/09/apache-maven-help-plugin-version-3-dot-1-0-released/

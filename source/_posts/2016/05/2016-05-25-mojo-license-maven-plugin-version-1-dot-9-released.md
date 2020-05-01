@@ -6,7 +6,7 @@ comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---
 The Mojo team is pleased to announce the release of the [License Maven Plugin,
-version 1.9](http://mojo.codehaus.org/license-maven-plugin).
+version 1.9](https://mojo.codehaus.org/license-maven-plugin).
 
 This plugin manages the license of a maven project and its dependencies (update
 file headers, download dependencies licenses, check thirdparty licenses, ...).

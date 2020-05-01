@@ -196,4 +196,4 @@ manually from command line.
 [maven-release-notes-3.3.1]: https://maven.apache.org/docs/3.3.1/release-notes.html#JVM_and_Command_Line_Options
 [maven-release-notes-3.5.0-beta-1]: https://maven.apache.org/docs/3.5.0-beta-1/release-notes.html 
 [vcs]: https://en.wikipedia.org/wiki/Version_control
-[flatten-maven-plugin]: http://www.mojohaus.org/flatten-maven-plugin/
+[flatten-maven-plugin]: https://www.mojohaus.org/flatten-maven-plugin/

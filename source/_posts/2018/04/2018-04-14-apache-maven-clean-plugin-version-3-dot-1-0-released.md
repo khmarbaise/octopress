@@ -6,7 +6,7 @@ comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---
 The Apache Maven team is pleased to announce the release of the 
-[Apache Maven Clean Plugin, version 3.1.0](http://maven.apache.org/plugins/maven-clean-plugin/).
+[Apache Maven Clean Plugin, version 3.1.0](https://maven.apache.org/plugins/maven-clean-plugin/).
 
 The Clean Plugin is used when you want to remove files generated at build-time
 in a project's directory.

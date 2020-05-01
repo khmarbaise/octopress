@@ -171,13 +171,13 @@ application (only command line apps ??) to a Java Run-Time Image.
 
 
 
-[jlink]: http://openjdk.java.net/jeps/282
-[runtimeimage]: http://openjdk.java.net/jeps/220
-[jigsaw]: http://openjdk.java.net/projects/jigsaw/
-[ea-download]: http://jdk.java.net/9/
+[jlink]: https://openjdk.java.net/jeps/282
+[runtimeimage]: https://openjdk.java.net/jeps/220
+[jigsaw]: https://openjdk.java.net/projects/jigsaw/
+[ea-download]: https://jdk.java.net/9/
 [jdk9-maven-example]: https://github.com/khmarbaise/jdk9-jlink-jmod-example/tree/master/maven-example
-[modular-jar]: http://cr.openjdk.java.net/~mr/jigsaw/spec/jar.html#Modular
-[jmod-file]: http://openjdk.java.net/jeps/261#Packaging:-JMOD-files
+[modular-jar]: https://cr.openjdk.java.net/~mr/jigsaw/spec/jar.html#Modular
+[jmod-file]: https://openjdk.java.net/jeps/261#Packaging:-JMOD-files
 [feedback]: https://github.com/khmarbaise/jdk9-jlink-jmod-example/issues
 [maven-jmod-plugin]: https://svn.apache.org/repos/asf/maven/plugins/trunk/maven-jmod-plugin/
 [maven-jlink-plugin]: https://svn.apache.org/repos/asf/maven/plugins/trunk/maven-jlink-plugin/

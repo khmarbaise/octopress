@@ -6,7 +6,7 @@ comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---
 The Apache Maven team is pleased to announce the release of the 
-[Apache Maven Invoker Plugin, version 3.1.0](http://maven.apache.org/plugins/maven-invoker-plugin/).
+[Apache Maven Invoker Plugin, version 3.1.0](https://maven.apache.org/plugins/maven-invoker-plugin/).
 
 The Invoker Plugin is used to run a set of Maven projects. The plugin can
 determine whether each project execution is successful, and optionally can
