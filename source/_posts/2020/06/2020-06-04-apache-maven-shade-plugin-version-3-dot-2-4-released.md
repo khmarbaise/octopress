@@ -37,8 +37,8 @@ You can download the [appropriate sources etc. from the download page][download-
 
 * Tasks:
 
-  * {&ajl MSHADE-365 %} - document Properties transformers available since 3.2.2 in separate table
-  * {&ajl MSHADE-364 %} - Don't log as duplicate resource handled by a transformer
+  * {%ajl MSHADE-365 %} - document Properties transformers available since 3.2.2 in separate table
+  * {%ajl MSHADE-364 %} - Don't log as duplicate resource handled by a transformer
 
 
 Enjoy,
