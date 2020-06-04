@@ -30,11 +30,13 @@ You can download the [appropriate sources etc. from the download page][download-
 [Release Notes - Maven Shade Plugin - Version 3.2.4](https://issues.apache.org/jira/secure/ReleaseNote.jspa?projectId=12317921&version=12346981)
 
 
-Bug
+* Bugs:
+
   * {%ajl MSHADE-363 %} - Breaking change to ResourceTransformer's API
   * {%ajl MSHADE-360 %} - ServicesResourceTransformer.modifyOutputStream swallows IOExceptions
 
-Task
+* Tasks:
+
   * {&ajl MSHADE-365 %} - document Properties transformers available since 3.2.2 in separate table
   * {&ajl MSHADE-364 %} - Don't log as duplicate resource handled by a transformer
 
