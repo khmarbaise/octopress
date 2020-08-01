@@ -1,4 +1,4 @@
-®®---
+---
 layout: post
 title: "Apache Maven EJB Plugin Version 3.1.0 Released"
 date: 2020-06-12 23:45:12

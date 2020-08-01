@@ -24,12 +24,6 @@ You should specify the version in your project's plugin configuration:
 
 You can download the appropriate sources etc. from the [download page][download].
 
-Important Note: 
-
- * Maven 3.X only
- * JDK 7 minimum requirement
-
-
 <!-- more -->
 
 
