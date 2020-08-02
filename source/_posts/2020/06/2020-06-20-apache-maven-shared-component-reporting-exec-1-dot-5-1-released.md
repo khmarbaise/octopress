@@ -20,7 +20,7 @@ You should specify the version in your project's plugin configuration:
   <version>1.5.1</version>
 </plugin>
 ```
-®
+
 You can download the appropriate sources etc. from the [download page](https://maven.apache.org/shared/maven-reporting-exec/download.cgi).
 
 <!-- more -->
