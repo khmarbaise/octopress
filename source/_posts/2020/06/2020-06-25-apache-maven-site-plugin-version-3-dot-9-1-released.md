@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Apache Maven Site Plugin Version 3.9.1 Released"®
+title: "Apache Maven Site Plugin Version 3.9.1 Released"
 date: 2020-06-25 11:30:27
 comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
