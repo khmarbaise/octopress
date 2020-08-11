@@ -28,7 +28,7 @@ https://maven.apache.org/plugins/maven-site-plugin/download.cgi
 * Bugs:
 
   * {%ajl MSITE-856 %} - NullPointer on org.apache.maven.plugins.site.render.SiteMap.relativePath
-  * {%ajl MSITE-863 %} - NoSuchMethodError: 'Xpp3Dom.getInputLocation()' when running reports with Maven versions < 3.6.1
+  * {%ajl MSITE-863 %} - NoSuchMethodError: 'Xpp3Dom.getInputLocation()' when running reports with Maven versions &lt; 3.6.1
 
 * Improvements:
 
