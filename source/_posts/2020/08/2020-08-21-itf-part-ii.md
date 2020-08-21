@@ -6,7 +6,7 @@ comments: true
 categories: [DevOps,Programming,Java,JDK,Maven,Maven-Plugins,Integration Testing Framework]
 ---
 In the [first part of the series - Maven Plugin Testing - In a Modern way - Part I](https://blog.soebes.de/blog/2020/08/18/itf-part-i/) 
-we have seen how to make the basic setup with The [Integration Testing Framework][itf] and run very basic
+we have seen how to make the basic setup with [The Integration Testing Framework][itf] and run very basic
 integration test. 
 
 In this second part we will take a deeper look into other aspects of testing 
@@ -33,7 +33,7 @@ class SeveralMavenIT {
   }
 }
 ```
-Apart from the test cases themself we need the according projects which are used as test 
+Apart from the test cases them self we need the according projects which are used as test 
 projects which looks like this:
 
 ```text
