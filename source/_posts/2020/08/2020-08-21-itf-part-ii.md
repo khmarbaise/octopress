@@ -223,9 +223,14 @@ assertThat(result)
   .containsExactly("Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!");
 ```
 
-To get a more comprehensive view how a real example looks like you can take a 
-look at the [github exmaple][example-ii]. More information about [The Integration Testing Framework][itf]
-can be found in the [users guide][users-guide].
+So this it is for Part II. If you like to learn more about the [Integration Testing Framework][itf] 
+you can consult the [users guide][users-guide]. If you like to know the state of the release you 
+can take a look into the [release notes][release-notes].
+
+If you have ideas, suggestions or found bugs please [file in an issue on github][issue].
+
+An example can be [found on GitHub][example-ii].
+
 
 <!-- 
 Part I:
