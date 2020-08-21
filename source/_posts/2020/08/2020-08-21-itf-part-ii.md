@@ -224,7 +224,8 @@ assertThat(result)
 ```
 
 To get a more comprehensive view how a real example looks like you can take a 
-look at the [github exmaple][example-ii].
+look at the [github exmaple][example-ii]. More information about [The Integration Testing Framework][itf]
+can be found in the [users guide][users-guide].
 
 <!-- 
 Part I:
