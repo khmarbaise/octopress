@@ -8,8 +8,8 @@ categories: [DevOps,Programming,Java,JDK,Maven,Maven-Plugins,Integration Testing
 In the [second part of the series - Maven Plugin Testing - In a Modern way - Part II](https://blog.soebes.de/blog/2020/08/18/itf-part-ii/) 
 we have seen how to make the basic integration test while checking the log output of Maven builds.
 
-In third part we will dive into how Maven will be called by default during the
-integration tests and how we can be influence that behaviour.
+In the third part we will dive into how Maven will be called by default during the
+integration tests and how we can influence that behaviour.
 
 Let us begin with the following basic integration test (we ignore the project which 
 is used for testing at the moment.)
@@ -75,13 +75,7 @@ We can now express the need via this (`basic_configuration_with_debug`):
 ```java
 @MavenJupiterExtension
 class FailureIT {
-
-  @MavenTest
-  @DisplayName("The basic configuration should result in a successful build.")
-  void basic_configuration(MavenExecutionResult project) {
-    assertThat(project).isSuccessful();
-  }
-
+  ...
   @MavenTest
   @MavenOption(MavenCLIOptions.DEBUG)
   void basic_configuration_with_debug(MavenExecutionResult result) {
@@ -122,8 +116,9 @@ class FailureIT {
 }
 ```
 It's important to say that by using the `@MavenOption(..)` automatically all
-other previously mentioned command line options will not being used anymore. 
-In this example the final command line looks like this:
+other previously mentioned command line options will not being used anymore.
+In this example the final command line looks like this for the test case 
+`basic_configuration_with_debug`:
 ```
 mvn -Dmaven.repo.local=<path> --debug package
 ```
@@ -141,7 +136,7 @@ assertThat(result)
     );
 ```
 If you like to have the `--batch-mode` option, `--show-version` as well as the `--error` option 
-back in your test case you can (or have to) add them like this:
+back in your test case have to add them like this:
 ```java
   @MavenTest
   @MavenOption(MavenCLIOptions.BATCH_MDOE)
@@ -161,9 +156,8 @@ That shows that you can easily combine several command line options for a test c
 the `@MavenOption` annotation.
 
 Some command line options in Maven need supplemental information like `--log-file <arg>` 
-which requires the name of the log file to redirect all the output into.  
-How can we express this with the `@MavenOption` annotation? This can simply 
-being achieved like the following:
+which requires the name of the log file to redirect all the output into. How can we express 
+this with the `@MavenOption` annotation? This can simply being achieved like the following:
 ```java
   @MavenTest
   @MavenOption(QUIET)
@@ -189,7 +183,7 @@ course work without static imports like this (Just a matter of taste):
 ```
 So what about using the same command line options for several test cases? 
 You can simply add the command line options onto the test class level which 
-can look like this:
+looks like this:
 ```java
 @MavenJupiterExtension
 @MavenOption(MavenCLIOptions.FAIL_AT_END)
@@ -220,10 +214,10 @@ class FailureIT {
 
 }
 ```
-This means that for each given test cases ( `case_one`, `case_two`, `case_three` 
-and `case_four`) the same command line options will be used. Apart from that it 
-is much more convenient to define the command line options only once and not for 
-every single test case.
+This means that for each given test case ( `case_one`, `case_two`, `case_three` 
+and `case_four`) the same set of command line options will be used. Apart from 
+that it is much more convenient to define the command line options only once 
+and not for every single test case.
 
 Wait a second. I want to execute `case_four` with different command line options? 
 Ok no problem just define the set command line options onto that particular test case
@@ -312,9 +306,10 @@ class FailureIT {
 
 }
 ```
-The above can be improved a little bit more. We can integrate the annotation `@MavenJupiterExtension`
-into our self defined meta annotation like this (In the example project I have named the meta 
-annotation `@MavenITExecution` to have different examples in one project.):
+The above can be improved a bit more. We can integrate the annotation 
+`@MavenJupiterExtension` into our self defined meta annotation like this (In the
+[example project][example-iii] I have named the meta annotation `@MavenITExecution`
+to have different examples in one project.):
 
 ```java
 @Target({ElementType.METHOD, ElementType.TYPE})
