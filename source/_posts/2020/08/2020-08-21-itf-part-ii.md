@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Maven Plugin Testing - In a Modern way - Part II"
-date: 2020-08-17 23:10:38
+date: 2020-08-21 21:35:45
 comments: true
 categories: [DevOps,Programming,Java,JDK,Maven,Maven-Plugins,Integration Testing Framework]
 ---
