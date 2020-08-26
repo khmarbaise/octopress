@@ -8,7 +8,7 @@ categories: [DevOps,Programming,Java,JDK,Maven,Maven-Plugins,Integration Testing
 In the [second part of the series - Maven Plugin Testing - In a Modern way - Part II](https://blog.soebes.de/blog/2020/08/21/itf-part-ii/) 
 we have seen how to make the basic integration test while checking the log output of Maven builds.
 
-In the third part we will dive into how Maven will be called by default during the
+In this third part we will dive into how Maven will be called by default during the
 integration tests and how we can influence that behaviour.
 
 Let us begin with the following basic integration test (we ignore the project which 
