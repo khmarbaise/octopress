@@ -5,7 +5,7 @@ date: 2020-08-30 20:15:21
 comments: true
 categories: [DevOps,Programming,Java,JDK,Maven,Maven-Plugins,Integration Testing Framework]
 ---
-In the [preivous part of the series - Maven Plugin Testing - In a Modern way - Part III](https://blog.soebes.de/blog/2020/08/26/itf-part-iii/)
+In the [prevous part of the series - Maven Plugin Testing - In a Modern way - Part III](https://blog.soebes.de/blog/2020/08/26/itf-part-iii/)
 we have seen how to define command line options. In this part we will take a 
 deeper look which goals will run for each test case and how we can change that.
 
@@ -107,7 +107,7 @@ class BaseIT {
   }
 }
 ```
-This also give the opportunity to let run a single test (or more than one) case 
+This also gives the opportunity to let run a single test (or more than one) case 
 within a test class with different goals depending on what you like to achieve.
 
 Another example on how to define the `@MavenGoal` annotation on a class level
@@ -254,8 +254,8 @@ class BaseIT {
 }
 ```
 Now let us assume the given plugin is the one which should be tested via the given
-integration test. That you need to define the correct groupId, artifactId, version and the
-correct goal? But the problem is that with each release of your plugin the version changes etc.
+integration test. Then you need to define the correct groupId, artifactId, version and the
+correct goal. Unfortunately with each release of your plugin the version changes etc.
 ```java
 @MavenJupiterExtension
 class BaseIT {
@@ -268,10 +268,11 @@ class BaseIT {
   ...
 }
 ```
-The placeholders `${project.groupId}`, `${project.artifactId}` and `${proejct.version}` are
-exactly those informations from your project pom in which you define the coordinates of
-the plugin are developing. This makes sure that only this plugin version is used and not 
-being tried to download from central or other repositories during your integration tests.
+The placeholders `${project.groupId}`, `${project.artifactId}` and `${project.version}` are
+exactly the information from your project pom in which you define the coordinates of
+the plugin your are developing. This makes sure only this plugin version is being used 
+and not any other version is being tried to download from central or other repositories 
+during your integration tests.
 
 Good examples can be found in 
 [maven-invoker-plugin based integration tests](https://github.com/mojohaus/versions-maven-plugin/blob/master/src/it/it-compare-dependencies-001/invoker.properties).
@@ -370,4 +371,4 @@ Part X+3:
 [containssubsequence]: https://www.javadoc.io/doc/org.assertj/assertj-core/latest/org/assertj/core/api/ListAssert.html#containsSubsequence(ELEMENT...)
 [mavenexecutionresult]: https://javadoc.io/doc/com.soebes.itf.jupiter.extension/itf-extension-maven/latest/com/soebes/itf/jupiter/maven/MavenExecutionResult.html
 [example-iv]: https://github.com/khmarbaise/itf-example-article-part-iv
-[lifecyle]: https://maven.apache.org/guides/introduction/introduction-to-the-lifecycle.html
+[lifecycle]: https://maven.apache.org/guides/introduction/introduction-to-the-lifecycle.html
