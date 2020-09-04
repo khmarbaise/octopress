@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Apache Maven Project Info Reports Plugin Version 3.0.0 Released"
-date: 2018-06-27 21:30:35
+date: 2020-09-04 18:35:22
 comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---
