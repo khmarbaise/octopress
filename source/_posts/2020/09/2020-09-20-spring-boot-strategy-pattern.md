@@ -138,5 +138,7 @@ instead of the `toMap(..)` if needed.
 So with a few changes in the code we can easily solve the problem of having different strategies
 which using the same keys in our code.
 
+The given code is available as a [full working example on GitHub][example]. 
 
 [strategy-pattern]: https://en.wikipedia.org/wiki/Strategy_pattern
+[example]: https://github.com/khmarbaise/article-spring-boot-convenience-and-limitation
