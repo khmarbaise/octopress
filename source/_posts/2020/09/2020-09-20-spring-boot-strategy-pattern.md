@@ -8,7 +8,7 @@ categories: [Programming,Java,Spring Boot]
 You might have already used the [strategy pattern][strategy-pattern] in relationship with 
 Spring Boot where it is very convenient to use.
 
-You simply define an interface for example (I use the prefixing `I` only in those examples
+You simply define an interface for example (I use the prefixing `I` only in these examples
 for clarity):
 ```java
 public interface IOneStrategy {
