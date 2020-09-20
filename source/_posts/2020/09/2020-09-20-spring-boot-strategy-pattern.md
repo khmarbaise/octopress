@@ -51,7 +51,7 @@ In real world you make several implementations of the strategy interface like `O
 `executeStrategyOne` which is provided by a REST API or some other domain specific code which needs
 different implementations.
 
-So the convenience here is that Spring Boot (Spring Framework to be more accurate) handles the 
+The convenience here is that Spring Boot (Spring Framework to be more accurate) handles the 
 injection of the different implementation into the `strategies` Map within `ExecuteStrategyOne`
 via the constructor. This results in a Map where the key is the value which is given by 
 `@Service("FIRST")` and the value of the map contains an instantiates class of every implementation
@@ -96,10 +96,11 @@ public class TwoStrategyFirst implements ITwoStrategy {
   }
 }
 ```
-By using a different annotation we prevent the duplication of the bean names as using duplicated
-`@Service("FIRST")` by using `@Qualifier("FIRST")` we have a criteria to handle that different.
+By using the key in a different annotation we prevent the duplication of the bean names in contradiction 
+to use `@Service("FIRST")` instead. The usage of `@Qualifier("FIRST")` gives us a criteria to handle that 
+different.
 
-Furthermore we have to change the `ExecuteStrategyOne` class like the following:
+Now we have to change the `ExecuteStrategyOne` class like the following:
 ```java
 @Service
 public class ExecuteStrategyOne {
