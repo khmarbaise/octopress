@@ -118,7 +118,7 @@ public class ExecuteStrategyOne {
 ```
 I would like to emphasis the usage of the constructor parameter `List<IOneStrategy> strategies`
 instead of the previously used `Map<String, IOneStrategy> strategies` which is a convenience to get a 
-list of all implementations of the given interface into that list by Spring Boot. Now we need to 
+list of all implementations off the given interface into that list by Spring Boot. Now we need to 
 translate that into a map with the key we have defined by using `@Qualifier` annotation. The whole
 thing can be solved by a stream like this:
 
