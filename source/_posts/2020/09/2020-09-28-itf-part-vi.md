@@ -198,7 +198,7 @@ define your own meta annotation to make combinations easier.
 public @interface ExecuteIntegrationAndEndToEnd {
 }
 ```
-This is not limited to the `@MavenProfile` annotation. You can cominate that
+This is not limited to the `@MavenProfile` annotation. You can combine that
 with the annotation like `@MavenGoal` etc. as mentioned in the previous articles
 of the series.
 
