@@ -30,7 +30,7 @@ You can download the appropriate sources etc. from the [download page](https://m
 
 * Task:
 
- * {%ajl WAGON-593 %} - Remove non-existent cache header
+  * {%ajl WAGON-593 %} - Remove non-existent cache header
 
 
 Enjoy,
