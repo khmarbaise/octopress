@@ -589,7 +589,7 @@ command line invocation.
 
 This opens a new level of command invocation configuration. 
 
-You might know the [build-helper-maven-plugin][build-helper-maven-pulgin] which can be used in combination with the 
+You might know the [build-helper-maven-plugin][build-helper-maven-plugin] which can be used in combination with the 
 [versions-maven-plugin][versions-maven-pugin] to increment your versions without the 
 [maven-release-plugin][maven-release-plugin] via command line like this:
 
