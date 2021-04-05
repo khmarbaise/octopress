@@ -80,7 +80,7 @@ This means in the end there is a difference for configuring plugins between call
 How can we check that what I have claimed is correct?
 That's easy to accomplish by just calling a [life cycle phase][maven-lifecycle] like `initialize`
 (you can also use `verify` or `package` instead of `initialize` only takes longer to run.):
-```shell
+```
 $ mvn initialize 
 [INFO] Scanning for projects...
 [INFO] 
@@ -130,7 +130,7 @@ while calling a goal `enforcer:enforcer` ? Yes there is a way to do so via the f
 </project>
 ```
 Now we are calling the goal:
-```shell
+```
 $ mvn enforcer:enforce 
 [INFO] Scanning for projects...
 [INFO] 
@@ -147,7 +147,7 @@ $ mvn enforcer:enforce
 [INFO] ------------------------------------------------------------------------
 ```
 You can also call the [life cycle][maven-lifecycle] like this:
-```shell
+```
 $ mvn initialize 
 [INFO] Scanning for projects...
 [INFO] 
@@ -216,7 +216,7 @@ The above configuration requires a JDK version 25 being used for building instea
 currently using (Just for demonstration purposes; Ok maybe a bit in the future). The second
 configuration checks for the Maven version which is expected to be used for that build.
 So let use call the goal first:
-```shell
+```
 $ mvn enforcer:enforce 
 [INFO] Scanning for projects...
 [INFO] 
@@ -246,7 +246,7 @@ Detected JDK Version: 11.0.9 is not in the allowed range 25.
 You can see the command line only configuration is taken into account which can be identified by
 the message `Detected JDK Version: 11.0.9 is not in the allowed range 25.`. So worked as expected.
 Now we try to execute within life cycle:
-```shell
+```
 $ mvn initialize 
 [INFO] Scanning for projects...
 [INFO] 
@@ -419,7 +419,7 @@ simply does not exist.
 ```
 The other configuration `<id>another-id</id>` can be keep unchanged.
 This (intended) coupling could have been identified in earlier outputs where a line was printed out:
-```shell
+```
 $ mvn initialize
 ...
 [INFO] --- maven-enforcer-plugin:3.0.0-M3:enforce (default-cli) @ configuration ---
@@ -452,7 +452,7 @@ Take a look at a typical example how the [Versions Maven Plugin][versions-maven-
 project where we would like to change the version number. That can easily being done by using the 
 following call:
 
-```shell
+```
 $ mvn versions:set -DnewVersion=1.2.0 -DgenerateBackupPoms=false
 ...
 ```
@@ -486,7 +486,7 @@ using the configuration for the command line only. The configuration looks like 
 </project>
 ```
 Now you can make a simpler call like this:
-```shell
+```
 $ mvn versions:set -DnewVersion=2.0.0-SNAPSHOT
 [INFO] Scanning for projects...
 [INFO] 
@@ -543,7 +543,7 @@ Let us begin with the `default-cli` based on previous examples (using [exec-mave
 ```
 As described in detail in previous parts you can now call Maven like this:
 
-```shell
+```
 $ mvn exec:java
 ...
 
@@ -578,7 +578,7 @@ That will use the above configuration. So now we enhance the example like this:
 </project>
 ```
 Now you can call Maven like this:
-```shell
+```
 $ mvn exec:java@second-cli
 ```
 I would like to emphasize the `@second-cli` after the goal `java` which 
@@ -593,7 +593,7 @@ You might know the [build-helper-maven-plugin][build-helper-maven-pulgin] which 
 [versions-maven-plugin][versions-maven-pugin] to increment your versions without the 
 [maven-release-plugin][maven-release-plugin] via command line like this:
 
-```shell
+```
  mvn build-helper:parse-version versions:set \
      -DnewVersion=\${parsedVersion.nextMajorVersion}.0.0 \
      versions:commit
@@ -614,7 +614,7 @@ As you already seen we have to use an escape before the `$` to prevent any kind 
 the information before even calling the plugin goals. Now a more important point is: 
 Would you remember all the information needed to call that? I don't. There are further
 things possible like this (increment minor version by one):
-```shell
+```
 mvn build-helper:parse-version versions:set \
      -DnewVersion=\${parsedVersion.majorVersion}.\${parsedVersion.nextMinorVersion}.0 \
      versions:commit
@@ -640,7 +640,7 @@ configuration (excerpt).
 </plugin>
 ```
 So now you can use the following call to increment the major version of your project:
-```shell
+```
 $ mvn build-helper:parse-version versions:set@major
 ```
 Much simpler isn't it? Apart from that it's much easier to remember and even simpler to configure 
@@ -685,11 +685,11 @@ We can enhance further like this:
 </plugin>
 ```
 So we can increment the minor version of our project via:
-```shell
+```
 $ mvn build-helper:parse-version versions:set@minor
 ```
 The patch number like this:
-```shell
+```
 $ mvn build-helper:parse-version versions:set@patch
 ```
 You might have spotted a small issue in the configuration because in each execution the
