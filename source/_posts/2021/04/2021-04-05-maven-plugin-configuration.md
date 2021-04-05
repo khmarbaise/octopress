@@ -1,4 +1,4 @@
---
+---
 layout: post
 title: "Maven Plugin Configuration - The (Unknown) Tiny Details"
 date: 2021-04-05 21:23:17
