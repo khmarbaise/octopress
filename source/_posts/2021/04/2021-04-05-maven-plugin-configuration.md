@@ -1,7 +1,7 @@
 --
 layout: post
 title: "Maven Plugin Configuration - The (Unknown) Tiny Details"
-date: 2021-04-04 21:23:17
+date: 2021-04-05 21:23:17
 comments: true
 categories: [Maven,Maven-Plugins,DevOps,Programming]
 ---
