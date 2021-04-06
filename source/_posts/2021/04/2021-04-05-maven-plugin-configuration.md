@@ -70,7 +70,7 @@ I say. Yes that is exactly the point. Now the crucial question is: Why?
 ## Details
 
 Let's dive more into details why this happens. The reason is that by calling Maven via
-`mvn enforcer:enforcer` you have not started a [life cycle][maven-lifecycle] (something like
+`mvn enforcer:enforce` you have not started a [life cycle][maven-lifecycle] (something like
 `clean`, `package` or alike). You have requested to execute the goal `enforce` of the
 [Maven Enforcer Plugin][maven-enforcer-plugin].
 
@@ -100,7 +100,7 @@ So first mission accomplished and proved that the previously given configuration
 taken into account.
 
 So based on those insights can we somehow create a configuration which is taken into account
-while calling a goal `enforcer:enforcer` ? Yes there is a way to do so via the following configuration:
+while calling a goal `enforcer:enforce` ? Yes there is a way to do so via the following configuration:
 ```xml
 <project>
   <build>
@@ -289,7 +289,7 @@ Description:
 * Binds by default to the lifecycle phase: validate.
 ```
 The important part is the last line: `Binds by default to the lifecycle phase: validate.`. This describes
-the behaviour we can observe here. We are using the goal `enforcer` simply by defining the `goal`. If you
+the behaviour we can observe here. We are using the goal `enforce` simply by defining the `goal`. If you
 bind a plugin like the following:
 
 ```xml
