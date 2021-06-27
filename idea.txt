@@ -1,0 +1,4 @@
+Fragen: 
+https://stackoverflow.com/questions/65936806/how-to-copy-maven-build-artifact-from-a-sub-module-target-to-the-parent-target?noredirect=1#comment116581848_65936806
+
+Warum werden fragen gestellt? 
